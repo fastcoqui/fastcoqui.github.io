@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T08:22:38Z",
+ "updated": "2026-10-20T16:23:28Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Announces 2026 Shareholder Meeting for Dec. 3",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4854/tesla-announces-2026-shareholder-meeting-for-dec-3",
+   "date": "2026-10-20T15:00:00Z",
+   "snippet": "Here’s how to enter Tesla’s drawing to attend the December 3 shareholder meeting in person, join virtually, and vote on the Board’s proposals. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/2026-annual-shareholder-meeting-hero.webp/6ded71d060f8e91c050bdbb9038cd3b8/2026-annual-shareholder-meeting-hero.jpg"
+  },
+  {
+   "title": "Tesla FSD v14.3.13 and FSD v14.3 Lite Release Notes (Update 2026.38.5.10)",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/software-updates/version/2026.38.5.10/release-notes",
+   "date": "2026-10-20T07:52:54Z",
+   "snippet": "We take a look at the release notes and what's new in Tesla update 2026.38.5.10. Read More",
+   "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.38/halloween-mode.png/3cedbc726c03ff2dc630ce76a946cb5a/halloween-mode.jpg"
+  },
   {
    "title": "The Boring Company’s latest Tesla tunnel truck mod “fits like a glove”",
    "source": "Teslarati",
@@ -86,22 +102,6 @@
    "date": "2026-10-18T20:04:28Z",
    "snippet": "SpaceX president Gwynne Shotwell quietly followed Tesla on X, and merger watchers noticed right away. The post SpaceX’s Gwynne Shotwell just made a quiet gesture toward Tesla…",
    "image": null
-  },
-  {
-   "title": "Musk Confirms Bigger Text Option Coming to Tesla Screens",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4847/musk-confirms-bigger-text-option-coming-to-tesla-screens",
-   "date": "2026-10-18T19:42:00Z",
-   "snippet": "Tesla’s current Large text setting isn’t big enough for some older buyers, and Musk says an even larger font option is on the way Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/tesla-ui-large-font-concept-1-watermarked.webp/bfa3b36d1affa0e0d8bcb9d48b473f0b/tesla-ui-large-font-concept-1-watermarked.jpg"
-  },
-  {
-   "title": "The Best Tesla Frunk (Trunk) or Treat Ideas & Halloween Decorations",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/2199/the-best-tesla-frunk-trunk-or-treat-ideas-halloween-decorations",
-   "date": "2026-10-18T16:22:00Z",
-   "snippet": "We've going through the Internet and found some of the best Tesla Halloween Frunk (Trunk) or Treat ideas. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2024/chrisheninger_jaws_halloween.jpg/f0f2d77de69964b223ecf864d0339531/chrisheninger_jaws_halloween.jpg"
   }
  ]
 }
