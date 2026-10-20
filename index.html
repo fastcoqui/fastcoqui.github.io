@@ -1,0 +1,524 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="color-scheme" content="light dark" />
+<link rel="icon" href="assets/favicon.png" />
+<title>@fastcoqui — Tito's Tesla Garage | Model Y Performance, Mods, FSD &amp; News</title>
+<meta name="description" content="Tito the Puerto Rican coquí and his blue Tesla Model Y Performance. Mods with code FASTCOQUI, Tesla software news, events with countdown, and the fan club." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet" />
+<style>
+:root{
+  --bg:#F3F5F7; --surface:#FFFFFF; --surface2:#EAF0F5; --ink:#16181D; --muted:#5A6572; --line:#DCE3EA;
+  --red:#D7263D; --red-d:#B01E32; --blue:#0B5FA5; --navy:#12365E; --steel:#7FA8C9; --steel-l:#D7E7F4;
+  --amber:#E9A13B; --amber-d:#B97A1E; --gold-bg:#FFF6E3; --ok:#137A4A;
+  --hero-bg:#17181C; --hero-ink:#F5F7FA; --shadow:0 10px 30px rgba(18,32,48,.12);
+  --r:14px;
+}
+@media (prefers-color-scheme: dark){
+  :root{ --bg:#101116; --surface:#1B1D24; --surface2:#232630; --ink:#F1F4F8; --muted:#A6B1BF; --line:#2E323E;
+    --steel-l:#22384C; --gold-bg:#2A2211; --shadow:0 10px 30px rgba(0,0,0,.45); }
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Archivo",system-ui,sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}
+img{max-width:100%;display:block}
+a{color:var(--blue)}
+.wrap{max-width:1180px;margin:0 auto;padding:0 18px}
+h1,h2,h3{line-height:1.08;margin:0}
+.display{font-family:"Anton",sans-serif;font-weight:400;letter-spacing:.01em;text-transform:uppercase}
+section{padding:56px 0}
+.sec-head{max-width:760px;margin-bottom:26px}
+.sec-head h2{font-family:"Anton",sans-serif;font-weight:400;text-transform:uppercase;font-size:clamp(30px,4.6vw,46px)}
+.sec-head p{color:var(--muted);font-size:17px;margin:10px 0 0}
+.tag{display:inline-flex;align-items:center;gap:7px;font-size:12px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;padding:6px 11px;border-radius:999px;background:var(--steel-l);color:var(--navy)}
+@media (prefers-color-scheme: dark){.tag{color:#BFD9EE}}
+.tag.red{background:var(--red);color:#fff}.tag.amber{background:var(--amber);color:#231600}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;font-weight:800;font-size:15px;padding:13px 20px;border-radius:12px;border:2px solid transparent;text-decoration:none;cursor:pointer;font-family:inherit;transition:transform .12s ease, background .12s ease}
+.btn:active{transform:scale(.98)}
+.btn-ig{background:var(--red);color:#fff}.btn-ig:hover{background:var(--red-d)}
+.btn-dark{background:#17181C;color:#fff;border-color:#17181C}
+@media (prefers-color-scheme: dark){.btn-dark{background:#F1F4F8;color:#17181C;border-color:#F1F4F8}}
+.btn-ghost{background:transparent;color:var(--ink);border-color:var(--line)}
+.btn-blue{background:var(--blue);color:#fff}
+.btn-amber{background:var(--amber);color:#231600}
+.btn-sm{padding:9px 14px;font-size:13.5px;border-radius:10px}
+.btn[disabled]{opacity:.55;cursor:not-allowed}
+/* IG strip */
+.ig-strip{background:#17181C;color:#fff}
+.ig-strip .wrap{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;justify-content:space-between;padding-top:10px;padding-bottom:10px}
+.ig-strip p{margin:0;font-size:14px;font-weight:600}
+.ig-strip p b{color:var(--amber)}
+.ig-strip a{color:#fff;font-weight:800}
+/* Nav */
+nav.main{position:sticky;top:0;z-index:50;background:color-mix(in srgb, var(--bg) 88%, transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+nav.main .wrap{display:flex;align-items:center;gap:18px;padding-top:12px;padding-bottom:12px;overflow-x:auto;scrollbar-width:none}
+nav.main .wrap::-webkit-scrollbar{display:none}
+.brand{display:flex;align-items:center;gap:10px;font-family:"Anton",sans-serif;font-size:19px;letter-spacing:.02em;white-space:nowrap;color:var(--ink);text-decoration:none}
+.brand .dot{width:11px;height:11px;border-radius:50%;background:var(--red);flex:none}
+.brand .dot.blue{background:var(--blue);margin-left:-13px}
+nav.main .links{display:flex;gap:4px;margin-left:auto}
+nav.main .links a{color:var(--ink);text-decoration:none;font-weight:700;font-size:14px;padding:8px 11px;border-radius:9px;white-space:nowrap}
+nav.main .links a:hover{background:var(--surface2)}
+/* Hero */
+.hero{background:var(--hero-bg);color:var(--hero-ink);padding:0;overflow:hidden}
+.hero-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:0;align-items:stretch}
+.hero-copy{padding:52px 26px 44px 0;display:flex;flex-direction:column;justify-content:center}
+.hero-copy h1{font-family:"Anton",sans-serif;font-weight:400;text-transform:uppercase;font-size:clamp(44px,7vw,78px);line-height:.98}
+.hero-copy h1 .blue{color:var(--steel)} .hero-copy h1 .red{color:#FF4D5E}
+.hero-copy .sub{font-size:18px;color:#C7D2DE;max-width:520px;margin:16px 0 0}
+.hero-ctas{display:flex;flex-wrap:wrap;gap:11px;margin-top:26px}
+.code-chip{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-top:22px;background:#23252C;border:1px dashed #4A4E5A;border-radius:12px;padding:12px 14px;max-width:520px}
+.code-chip .lbl{font-size:12px;font-weight:800;letter-spacing:.12em;color:#9FB0C2;text-transform:uppercase}
+.code-chip .code{font-family:"Anton",sans-serif;font-size:24px;letter-spacing:.06em;color:var(--amber)}
+.hero-stats{display:flex;flex-wrap:wrap;gap:22px;margin-top:28px}
+.hero-stats div b{display:block;font-family:"Anton",sans-serif;font-weight:400;font-size:22px}
+.hero-stats div span{font-size:12.5px;color:#9FB0C2;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+.hero-img{position:relative;min-height:340px}
+.hero-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center}
+.hero-img .flagbar{position:absolute;left:0;right:0;bottom:0;height:8px;background:linear-gradient(90deg,var(--red) 0 38%,#fff 38% 62%,var(--blue) 62% 100%)}
+@media (max-width:860px){.hero-grid{grid-template-columns:1fr}.hero-copy{padding:38px 0 26px}.hero-img{min-height:260px;position:relative;height:300px}}
+/* Cards / grids */
+.grid{display:grid;gap:18px}
+.grid.c3{grid-template-columns:repeat(3,1fr)} .grid.c2{grid-template-columns:repeat(2,1fr)}
+@media (max-width:960px){.grid.c3{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:640px){.grid.c3,.grid.c2{grid-template-columns:1fr}}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:22px;box-shadow:var(--shadow)}
+.card h3{font-size:19px;font-weight:800}
+.card p{color:var(--muted);margin:8px 0 0;font-size:15px}
+.badge{display:inline-block;font-size:11px;font-weight:800;letter-spacing:.09em;text-transform:uppercase;padding:4px 9px;border-radius:999px}
+.badge.on{background:#E2F4EA;color:var(--ok)} @media (prefers-color-scheme: dark){.badge.on{background:#14301F;color:#7BDCA6}}
+.badge.soon{background:var(--gold-bg);color:var(--amber-d)} @media (prefers-color-scheme: dark){.badge.soon{color:#F2C26E}}
+.badge.plan{background:var(--steel-l);color:var(--navy)} @media (prefers-color-scheme: dark){.badge.plan{color:#BFD9EE}}
+.price-row{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:16px;flex-wrap:wrap}
+.off{font-weight:800;color:var(--red)}
+.muted{color:var(--muted)} .small{font-size:13px}
+.disclosure{background:var(--gold-bg);border:1px solid var(--amber);border-radius:var(--r);padding:18px 20px;font-size:14.5px}
+.disclosure b{color:var(--amber-d)} @media (prefers-color-scheme: dark){.disclosure b{color:#F2C26E}}
+/* Forms */
+label{font-weight:700;font-size:13.5px;display:block;margin:0 0 6px}
+input[type=text],input[type=email],textarea,select{width:100%;font:inherit;font-size:15px;padding:11px 12px;border-radius:10px;border:1.5px solid var(--line);background:var(--surface);color:var(--ink)}
+textarea{resize:vertical;min-height:84px}
+input:focus,textarea:focus,select:focus{outline:2px solid var(--blue);outline-offset:1px;border-color:var(--blue)}
+.field{margin-bottom:13px}
+.idea-list,.post-feed{display:grid;gap:12px;margin-top:18px}
+.idea{background:var(--surface2);border-radius:12px;padding:13px 15px;font-size:14.5px}
+.idea b{display:block;font-size:13px}
+.idea time{color:var(--muted);font-size:12px;font-weight:700}
+/* News */
+.news-card{display:flex;flex-direction:column}
+.news-card .meta{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:10px}
+.news-card ul{margin:10px 0 0;padding-left:19px;color:var(--muted);font-size:14.5px}
+.news-card .src{margin-top:auto;padding-top:14px;font-size:13px;font-weight:700}
+/* Events */
+.countdown{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0 6px}
+.cd{background:#17181C;color:#fff;border-radius:12px;min-width:78px;text-align:center;padding:12px 8px}
+.cd b{display:block;font-family:"Anton",sans-serif;font-weight:400;font-size:30px;line-height:1}
+.cd span{font-size:11px;font-weight:800;letter-spacing:.12em;color:#9FB0C2;text-transform:uppercase}
+.ev-row{display:flex;gap:16px;align-items:flex-start;padding:16px 0;border-bottom:1px solid var(--line)}
+.ev-row:last-child{border-bottom:0}
+.ev-date{background:var(--surface2);border-radius:11px;text-align:center;min-width:64px;padding:9px 4px}
+.ev-date b{display:block;font-family:"Anton",sans-serif;font-weight:400;font-size:22px;line-height:1}
+.ev-date span{font-size:11px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+/* Forum */
+.avatar{width:42px;height:42px;border-radius:50%;background:var(--navy);color:#fff;display:flex;align-items:center;justify-content:center;font-family:"Anton",sans-serif;font-size:17px;flex:none}
+.post{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:18px}
+.post-head{display:flex;gap:12px;align-items:center}
+.post-head b{font-size:15px}.post-head span{display:block;color:var(--muted);font-size:12.5px;font-weight:600}
+.post img.photo{border-radius:11px;margin-top:12px;max-height:340px;width:100%;object-fit:cover}
+.like-btn{background:var(--surface2);border:1px solid var(--line);border-radius:999px;padding:7px 13px;font:inherit;font-weight:800;font-size:13px;cursor:pointer;color:var(--ink)}
+.like-btn.liked{background:var(--red);border-color:var(--red);color:#fff}
+footer{background:#17181C;color:#C7D2DE;padding:44px 0 34px}
+footer a{color:#fff;font-weight:700}
+footer .fine{font-size:12.5px;color:#8B99A9;margin-top:18px;max-width:820px}
+.toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%) translateY(80px);background:#17181C;color:#fff;font-weight:700;font-size:14.5px;padding:13px 19px;border-radius:12px;box-shadow:0 14px 34px rgba(0,0,0,.35);z-index:99;transition:transform .25s ease;max-width:92vw;text-align:center}
+.toast.show{transform:translateX(-50%) translateY(0)}
+.portrait-card{display:grid;grid-template-columns:300px 1fr;gap:0;overflow:hidden;padding:0}
+.portrait-card img{height:100%;object-fit:cover}
+.portrait-card .pc-body{padding:26px}
+@media (max-width:700px){.portrait-card{grid-template-columns:1fr}.portrait-card img{max-height:380px;width:100%}}
+.donate-amounts{display:flex;gap:9px;flex-wrap:wrap;margin-top:14px}
+@media (max-width:640px){nav.main{overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}nav.main::-webkit-scrollbar{display:none}nav.main *{white-space:nowrap}html,body{overflow-x:hidden}}
+</style>
+</head>
+<body>
+
+<div class="ig-strip">
+  <div class="wrap">
+    <p>🐸 Tito posts Tesla tips, FSD drives &amp; new mods first on Instagram — <b>@fastcoqui</b></p>
+    <a href="https://www.instagram.com/fastcoqui/" target="_blank" rel="noopener">Follow @fastcoqui →</a>
+  </div>
+</div>
+
+<nav class="main" aria-label="Sections">
+  <div class="wrap">
+    <a class="brand" href="#top"><span class="dot" aria-hidden="true"></span><span class="dot blue" aria-hidden="true"></span>FASTCOQUI × TITO</a>
+    <div class="links">
+      <a href="#mods">Mods Garage</a><a href="#news">Tesla News</a><a href="#events">Events</a>
+      <a href="#fanclub">Fan Club</a><a href="#support">Support Tito</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <div class="wrap hero-grid">
+    <div class="hero-copy">
+      <span class="tag amber" style="align-self:flex-start">Puerto Rico 🇵🇷 × Tesla Performance</span>
+      <h1 style="margin-top:16px">Tito goes<br><span class="blue">electric.</span><br>Full <span class="red">send.</span></h1>
+      <p class="sub">I'm Tito — a Puerto Rican coquí with a need for speed — and this is my blue <b style="color:#fff">Tesla Model Y Performance</b>. Tesla tips, FSD, AI, and every mod I bolt on, all in one garage.</p>
+      <div class="hero-ctas">
+        <a class="btn btn-ig" href="https://www.instagram.com/fastcoqui/" target="_blank" rel="noopener">Follow on Instagram</a>
+        <a class="btn" style="background:#fff;color:#17181C" href="#mods">Shop Tito's Mods</a>
+        <a class="btn" style="background:transparent;color:#fff;border-color:#4A4E5A" href="#support">♥ Donate</a>
+      </div>
+      <div class="code-chip">
+        <span class="lbl">Promo code</span><span class="code">FASTCOQUI</span>
+        <button class="btn btn-amber btn-sm" id="copyCodeBtn" type="button">Copy code</button>
+        <span class="small" style="color:#9FB0C2">20% off at EVBASE · 5% off at Tesery · check each shop for its FASTCOQUI deal</span>
+      </div>
+      <div class="hero-stats">
+        <div><b>Model Y</b><span>Performance · Blue</span></div>
+        <div><b>FSD</b><span>Supervised · Tested daily</span></div>
+        <div><b>Coquí</b><span>Small frog · Big energy</span></div>
+      </div>
+    </div>
+    <div class="hero-img">
+      <img fetchpriority="high" decoding="async" width="2455" height="1370" src="assets/tito-hero.webp" alt="Tito the coquí leaning out of his blue Tesla Model Y Performance, Puerto Rican flag flying, tires smoking" />
+      <div class="flagbar" aria-hidden="true"></div>
+    </div>
+  </div>
+</header>
+
+<!-- ============ MODS GARAGE ============ -->
+<section id="mods">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="tag red">The Garage</span>
+      <h2 style="margin-top:12px">Tito's Mods — On The Car &amp; Up Next</h2>
+      <p>Every mod on the blue Model Y Performance, what it does, and where to get it. Use code <b>FASTCOQUI</b> at checkout — it supports the page at no extra cost to you.</p><p class="aff-top" style="font-size:.85em;opacity:.85;margin-top:.5em"><strong>Disclosure:</strong> As an Amazon Associate I earn from qualifying purchases. Some links are affiliate links and codes, which support the page at no extra cost to you.</p>
+    </div>
+
+    <h3 class="display" style="font-size:21px;margin-bottom:14px">✓ On the car now</h3>
+    <div class="grid c3">
+      <article class="card">
+        <span class="badge on">Installed</span>
+        <h3 style="margin-top:10px">EVBASE RimCase Wheel Protectors</h3>
+        <p>Rim protection that snaps over the Performance wheels — guards against curb rash and adds a red accent ring. Featured in Tito's Oct 16 post.</p>
+        <div class="price-row"><span class="off">20% OFF with FASTCOQUI</span>
+        <a class="btn btn-dark btn-sm" href="https://www.evbase.com/fastcoqui" target="_blank" rel="noopener sponsored">Get it here →</a></div>
+      </article>
+      <article class="card">
+        <span class="badge on">Installed</span>
+        <h3 style="margin-top:10px">Custom Floor Mats — WitaMats</h3>
+        <p>Custom-fit mats front, rear and cargo — beach sand, rain and coquí-sized messes wipe right off. Shown in the Oct 17 showcase.</p>
+        <div class="price-row"><span class="muted small">Custom fit · WitaMats</span>
+        <a class="btn btn-dark btn-sm" href="https://witamats.com" target="_blank" rel="noopener sponsored">Get it here →</a></div>
+      </article>
+      <article class="card">
+        <span class="badge on">Installed</span>
+        <h3 style="margin-top:10px">Window Tints — XPEL</h3>
+        <p>XPEL window tint all around — heat-rejecting film for Puerto Rico sun and Florida road trips: cooler cabin, less A/C drain, cleaner look against the blue paint.</p>
+        <div class="price-row"><span class="muted small">XPEL film · Pro install</span>
+        <a class="btn btn-dark btn-sm" href="https://www.xpel.com/products/automotive-window-tint" target="_blank" rel="noopener">Get it here →</a></div>
+      </article>
+      <article class="card">
+        <span class="badge on">Installed</span>
+        <h3 style="margin-top:10px">Mud Flaps — Model Y Juniper (Set of 4)</h3>
+        <p>Full set of 4 for the 2025–2027 Model Y Juniper. Keeps road spray and gravel off the blue paint and rear quarters — cheap insurance for a daily-driven Performance.</p>
+        <div class="price-row"><span class="muted small">Set of 4 · Amazon</span>
+        <a class="btn btn-dark btn-sm" href="https://www.amazon.com/dp/B0DZXLG3FD?tag=fastcoqui-20" target="_blank" rel="noopener sponsored">Get it here →</a></div>
+      </article>
+      <article class="card">
+        <span class="badge on">Installed</span>
+        <h3 style="margin-top:10px">Spigen Matte Screen Protectors</h3>
+        <p>Matte-finish Spigen protectors — kill glare and fingerprints, keep FSD visuals crisp. Two fitments depending on your model year:</p>
+        <div class="price-row"><span class="muted small">Model Y 2026–27 · Model 3 2027</span>
+        <a class="btn btn-dark btn-sm" href="https://www.amazon.com/dp/B0FPJ6RYFN?tag=fastcoqui-20" target="_blank" rel="noopener sponsored">Get it here →</a></div>
+        <div class="price-row"><span class="muted small">Model 3 2024–27 · Model Y 2025–27</span>
+        <a class="btn btn-dark btn-sm" href="https://www.amazon.com/dp/B0CS1DQPR9?tag=fastcoqui-20" target="_blank" rel="noopener sponsored">Get it here →</a></div>
+      </article>
+      <article class="card">
+        <span class="badge on">Installed</span>
+        <h3 style="margin-top:10px">Glass Roof Sun Shade</h3>
+        <p>Clip-in shade for the panoramic roof — drops cabin temps on sunny days and makes naps at the Supercharger elite.</p>
+        <div class="price-row"><span class="muted small">Amazon</span>
+        <a class="btn btn-dark btn-sm" href="https://www.amazon.com/dp/B0GKPR13JD?tag=fastcoqui-20" target="_blank" rel="noopener sponsored">Get it here →</a></div>
+      </article>
+      <article class="card">
+        <span class="badge on">Installed</span>
+        <h3 style="margin-top:10px">S3XY Controls by Enhance</h3>
+        <p>The full S3XY family — Dash display, Knob, light Strip and wireless Buttons — all run by the Commander module. Real physical controls and extra data for the Model Y cockpit.</p>
+        <div class="price-row"><span class="muted small">Dash · Knob · Strip · Buttons · Commander</span>
+        <a class="btn btn-dark btn-sm" href="https://www.enhauto.com/pages/dash" target="_blank" rel="noopener sponsored">Get it here →</a></div>
+      </article>
+      <article class="card">
+        <span class="badge on">Installed</span>
+        <h3 style="margin-top:10px">Cabin Scent Diffuser + Ritz-Carlton Scent</h3>
+        <p>A plug-in scent diffuser for the cabin, loaded with the Ritz-Carlton hotel scent — the car smells like a luxury lobby every drive.</p>
+        <div class="price-row"><span class="muted small">The diffuser</span>
+        <a class="btn btn-dark btn-sm" href="https://www.amazon.com/dp/B0F2HY21RJ?tag=fastcoqui-20" target="_blank" rel="noopener sponsored">Get it here →</a></div>
+        <div class="price-row"><span class="muted small">Ritz-Carlton scent</span>
+        <a class="btn btn-dark btn-sm" href="https://www.amazon.com/dp/B0DM8PM5PM?tag=fastcoqui-20" target="_blank" rel="noopener sponsored">Get it here →</a></div>
+      </article>
+      <article class="card">
+        <span class="badge on">Installed</span>
+        <h3 style="margin-top:10px">Fanttik Slim V8 APEX Vacuum &amp; Air Duster</h3>
+        <p>Cordless mini vacuum and air duster in one — crumbs, beach sand and dash dust don't stand a chance. Lives in the car, charges over USB-C.</p>
+        <div class="price-row"><span class="muted small">Cordless · Amazon</span>
+        <a class="btn btn-dark btn-sm" href="https://www.amazon.com/dp/B0CYC46TDF?tag=fastcoqui-20" target="_blank" rel="noopener sponsored">Get it here →</a></div>
+      </article>
+      <article class="card">
+        <span class="badge on">Installed</span>
+        <h3 style="margin-top:10px">GYEON Leather Shield Ceramic Coating</h3>
+        <p>Ceramic leather coating with UV protection and repellency — keeps the seats from fading in the sun and makes spills wipe right off.</p>
+        <div class="price-row"><span class="muted small">GYEON · Amazon</span>
+        <a class="btn btn-dark btn-sm" href="https://www.amazon.com/dp/B01N57S9O6?tag=fastcoqui-20" target="_blank" rel="noopener sponsored">Get it here →</a></div>
+      </article>
+      <article class="card">
+        <span class="badge on">Installed</span>
+        <h3 style="margin-top:10px">Rear Air Vent Covers (2-Pack)</h3>
+        <p>Snap-on covers for the rear under-seat air vents on Model 3 and Model Y — stops coins, fries and mystery debris from falling into the ducts.</p>
+        <div class="price-row"><span class="muted small">2-pack · Amazon</span>
+        <a class="btn btn-dark btn-sm" href="https://www.amazon.com/dp/B0C1S7R8FM?tag=fastcoqui-20" target="_blank" rel="noopener sponsored">Get it here →</a></div>
+      </article>
+      <article class="card">
+        <span class="badge on">Installed</span>
+        <h3 style="margin-top:10px">CAR GUYS Super Cleaner</h3>
+        <p>One-bottle all-purpose cleaner for the whole car — seats, dash, trim, upholstery and more. Tito's go-to for keeping the cabin spotless between deep cleans.</p>
+        <div class="price-row"><span class="muted small">All-purpose · Amazon</span>
+        <a class="btn btn-dark btn-sm" href="https://www.amazon.com/dp/B071XB18BF?tag=fastcoqui-20" target="_blank" rel="noopener sponsored">Get it here →</a></div>
+      </article>
+      <article class="card">
+        <span class="badge soon">Partner</span>
+        <h3 style="margin-top:10px">Tesery: Tesla accessories</h3>
+        <p>Accessories and upgrades for Model Y and Model 3, from interior trim to exterior styling. Use code FASTCOQUI at checkout.</p>
+        <div class="price-row"><span class="off">5% OFF with FASTCOQUI</span>
+        <a class="btn btn-dark btn-sm" href="https://www.tesery.com/fastcoqui" target="_blank" rel="noopener sponsored">Shop Tesery →</a></div>
+      </article>
+    </div>
+
+    <h3 class="display" style="font-size:21px;margin:34px 0 14px">→ Up next — Tito's wishlist</h3>
+    <div class="grid c3">
+      <article class="card">
+        <span class="badge plan">Planned</span>
+        <h3 style="margin-top:10px">Carbon Aero: Front Lip + Spoiler</h3>
+        <p>More downforce look, more aggression — the Performance already has the stance, this finishes the silhouette.</p>
+      </article>
+      <article class="card">
+        <span class="badge plan">Planned</span>
+        <h3 style="margin-top:10px">Ambient Interior Light Kit</h3>
+        <p>Footwell + dash glow in PR blue and red. Night drives and light-show season would go crazy.</p>
+      </article>
+      <article class="card">
+        <span class="badge plan">Planned</span>
+        <h3 style="margin-top:10px">Custom Lock Chime + Light Show Pack</h3>
+        <p>A coquí "co-kee!" lock chime and a Tito choreographed light show for the next meet-up — coming to the page soon.</p>
+      </article>
+    </div>
+
+    <div class="grid" style="margin-top:22px;align-items:start">
+      <div class="card" id="support">
+        <span class="tag amber">Support Tito</span>
+        <h3 style="margin-top:12px;font-size:24px">Fuel the next mod ☕⚡</h3>
+        <p>Mods, filming and FSD road trips cost real money. If Tito's tips saved you time (or a curb-rashed rim), chip in any amount on Cash App — send it to <b>$FastCoqui</b>. Every dollar goes back into the build and the content.</p>
+        <div class="donate-amounts">
+          <a class="btn btn-amber" href="https://cash.app/$FastCoqui/5" target="_blank" rel="noopener">Donate $5</a>
+          <a class="btn btn-amber" href="https://cash.app/$FastCoqui/10" target="_blank" rel="noopener">Donate $10</a>
+          <a class="btn btn-amber" href="https://cash.app/$FastCoqui/25" target="_blank" rel="noopener">Donate $25</a>
+          <a class="btn btn-dark" href="https://cash.app/$FastCoqui" target="_blank" rel="noopener">Any amount →</a>
+        </div>
+        <div class="code-chip" style="margin-top:16px;background:var(--surface2);border-color:var(--line)">
+          <span class="lbl" style="color:var(--muted)">Cash App $cashtag</span><span class="code" style="color:var(--ink)">$FastCoqui</span>
+          <button class="btn btn-amber btn-sm" id="copyCashtagBtn" type="button">Copy $cashtag</button>
+          <span class="small muted">Tap a preset above, or copy the tag and send any amount in the Cash App.</span>
+        </div>
+        <p class="small muted" style="margin-top:12px">Payments open on cash.app. Donations are voluntary support for content creation — not a purchase, and not tax-deductible.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ NEWS ============ -->
+<section id="news" style="background:var(--surface2);padding-top:56px;padding-bottom:56px">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="tag">Tesla News Feed</span>
+      <h2 style="margin-top:12px">What's New In Tesla World</h2>
+      <p>Snapshot checked <b>Oct 19, 2026</b> — software, FSD and Model Y news Tito is actually talking about, with sources linked on every story.</p>
+    </div>
+    <div class="grid c2">
+      <article class="card news-card">
+        <div class="meta"><span class="badge on">Software · 2026.38.5</span><span class="small muted">Rolled out Oct 10–13, 2026</span></div>
+        <h3>FSD v14.3.12 lands — 20% faster reactions + Halloween Mode</h3>
+        <p>Tesla's 2026.38.5 update pairs FSD (Supervised) v14.3.12 for HW4/AI4 cars with FSD v14.3 Lite for eligible HW3 cars — plus a seasonal Halloween package.</p>
+        <ul>
+          <li>Rewritten AI runtime (MLIR) — ~20% faster reaction time</li>
+          <li>Upgraded vision encoder for low-visibility &amp; rare scenes</li>
+          <li>Less lane bias and tailgating; smarter parking-spot picks</li>
+          <li>Halloween Mode: Ghost Costume, Trick-or-Treat sounds &amp; light flicker, scheduled haunting light show, Photobooth</li>
+        </ul>
+        <p class="src">Sources: <a href="https://teslacanadagroup.ca/tesla-rolls-out-fsd-v14-3-12-and-the-2026-38-5-halloween-update-20-faster-reactions-and-better-low-visibility-driving/" target="_blank" rel="noopener">Tesla Canada Group</a> · <a href="https://teslarobotaxi.com/tesla-fsd-v14-3-12-halloween-mode-2026-38-5/" target="_blank" rel="noopener">Tesla Robotaxi</a></p>
+      </article>
+      <article class="card news-card">
+        <div class="meta"><span class="badge on">FSD · HW3</span><span class="small muted">Announced Oct 14, 2026</span></div>
+        <h3>FSD v14 Lite finally reaches legacy Model S &amp; X</h3>
+        <p>Intel-era (MCU2) Hardware 3 Model S and X get a v14 branch for the first time, as 2026.38.5.1 — closing the last HW3 gap Tesla had tracked for weeks.</p>
+        <ul>
+          <li>Distilled HW4 v14 intelligence tuned for HW3 hardware</li>
+          <li>Better merges, pedestrians, traffic lights &amp; cut-ins</li>
+          <li>Speed Profiles + an FSD streak counter included</li>
+          <li>Arrival Options &amp; FSD reversing stay HW3 3/Y-only for now</li>
+        </ul>
+        <p class="src">Sources: <a href="https://www.notateslaapp.com/news/4827/tesla-rolls-out-fsd-v14-lite-to-legacy-model-sx-for-first-time" target="_blank" rel="noopener">Not a Tesla App</a> · <a href="https://teslant.com/en/changelog/tesla-fsd-v14-3-lite-hw3-intel-model-s-x-2026-38-5-1" target="_blank" rel="noopener">TeslAnt changelog</a></p>
+      </article>
+      <article class="card news-card">
+        <div class="meta"><span class="badge plan">Model Y</span><span class="small muted">Oct 17, 2026</span></div>
+        <h3>Model Y L gets Acceleration Boost — 0–100 km/h in 4.5s</h3>
+        <p>The long-wheelbase, six-seat Model Y L shaves half a second off its sprint with a free performance upgrade for cars bought from Oct 1, 2026 — with the claimed 681 km WLTP range unchanged.</p>
+        <ul>
+          <li>Dual-motor AWD, up to 250 kW DC fast charging</li>
+          <li>Adds up to ~288 km in 15 minutes on a Supercharger</li>
+        </ul>
+        <p class="src">Source: <a href="https://www.autocarindia.com/car-news/tesla-model-y-l-powertrain-upgrade-brings-performance-boost-441075" target="_blank" rel="noopener">Autocar India</a></p>
+      </article>
+      <article class="card news-card">
+        <div class="meta"><span class="badge plan">Model Y Performance</span><span class="small muted">Orders open Oct 1, 2026</span></div>
+        <h3>2027 Model Y Performance: price cut + new Glacier Blue</h3>
+        <p>Australia's MY27 Performance drops $4,500 to $84,900 before on-roads as production switches to Shanghai — and gains the Glacier Blue finish closest yet to Tito's own blue.</p>
+        <ul>
+          <li>New Zen Grey interior option joins the range</li>
+          <li>Premium Long Range AWD also gets quicker: 4.8s → 4.3s</li>
+        </ul>
+        <p class="src">Source: <a href="https://www.carexpert.com.au/car-news/2027-tesla-model-y-performance-gets-dollar4500-price-cut-amid-move-to-chinese-sourcing" target="_blank" rel="noopener">CarExpert</a></p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ============ EVENTS ============ -->
+<section id="events">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="tag red">Events &amp; Countdown</span>
+      <h2 style="margin-top:12px">Next Up: Q3 Earnings Call</h2>
+      <p>Tesla reports Q3 2026 results and takes questions live. Tito watches every call — FSD, Robotaxi and Roadster updates usually drop here first.</p>
+    </div>
+    <div class="grid c2" style="align-items:start">
+      <div class="card" style="background:#17181C;color:#EAF1F8;border-color:#17181C">
+        <span class="badge" style="background:var(--red);color:#fff">Live countdown</span>
+        <h3 style="margin-top:12px;font-size:24px;color:#fff">Tesla Q3 2026 Earnings Call</h3>
+        <p style="color:#B9C7D6">Wednesday, Oct 21, 2026 · 5:30 PM ET · Webcast on Tesla IR. Q3 deliveries already landed Oct 2: <b style="color:#fff">486,532 cars</b>.</p>
+        <div class="countdown" role="timer" aria-label="Countdown to Tesla Q3 earnings call">
+          <div class="cd" style="background:#23252C"><b id="cdD">–</b><span>Days</span></div>
+          <div class="cd" style="background:#23252C"><b id="cdH">–</b><span>Hours</span></div>
+          <div class="cd" style="background:#23252C"><b id="cdM">–</b><span>Mins</span></div>
+          <div class="cd" style="background:#23252C"><b id="cdS">–</b><span>Secs</span></div>
+        </div>
+        <p class="small" id="cdNote" style="color:#9FB0C2"></p>
+        <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:14px">
+          <button class="btn btn-ig btn-sm" id="icsBtn" type="button">＋ Add to my calendar (.ics)</button>
+          <a class="btn btn-sm" style="background:#fff;color:#17181C" href="https://www.notateslaapp.com/tesla-events/" target="_blank" rel="noopener">Full Tesla events calendar →</a>
+        </div>
+      </div>
+      <div class="card">
+        <h3>Tesla calendar</h3>
+        <div class="ev-row"><div class="ev-date"><b>21</b><span>Oct</span></div><div><b>Q3 2026 Earnings Call</b><p class="small muted" style="margin:2px 0 0">Results after market close, call 5:30 PM ET — the countdown on the left.</p></div></div>
+        <div class="ev-row"><div class="ev-date"><b>03</b><span>Dec</span></div><div><b>Annual Shareholders Meeting</b><p class="small muted" style="margin:2px 0 0">Listed on the Tesla events calendar — votes, board updates and usually a Musk Q&amp;A.</p></div></div>
+        <div class="ev-row"><div class="ev-date"><b>15</b><span>Oct</span></div><div><b>Roadster Event</b> <span class="badge on">Just held</span><p class="small muted" style="margin:2px 0 0">The rescheduled Roadster showcase date on the events calendar.</p></div></div>
+        <div class="ev-row"><div class="ev-date"><b>02</b><span>Oct</span></div><div><b>Q3 Delivery Numbers</b> <span class="badge on">Reported</span><p class="small muted" style="margin:2px 0 0">486,532 vehicles delivered in Q3 2026, ahead of the company-compiled consensus.</p></div></div>
+        <p class="small muted">Dates from the Tesla events calendar and earnings coverage linked in the news feed. Always confirm final times on Tesla IR before the day.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ FAN CLUB FORUM ============ -->
+<section id="fanclub" style="background:var(--surface2)">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="tag">Tito's Tesla Fan Club</span>
+      <h2 style="margin-top:12px">Show Your Tesla. Talk Shop.</h2>
+      <p>Got a build, mod idea or shout-out? Slide into Tito's DMs — that's where the Tesla talk happens.</p>
+      <div style="margin-top:18px"><a class="btn btn-ig" style="font-size:18px;padding:16px 28px" href="https://ig.me/m/fastcoqui" target="_blank" rel="noopener">💬 DM Tito on IG</a></div>
+      <p class="small muted" style="margin-top:10px">Link not opening? <a href="https://www.instagram.com/fastcoqui/" target="_blank" rel="noopener">Open @fastcoqui on Instagram</a> and tap Message.</p>
+    </div>
+
+    <div class="card portrait-card">
+      <img loading="lazy" decoding="async" width="2455" height="1370" src="assets/tito-hero.webp" alt="Tito the coquí leaning out of his blue Tesla Model Y Performance, Puerto Rican flag flying" />
+      <div class="pc-body">
+        <span class="tag amber">Your host</span>
+        <h3 style="font-size:26px;margin-top:10px">Meet Tito 🐸</h3>
+        <p class="muted">Puerto Rican coquí, Model Y Performance driver, FSD believer. Tito started @fastcoqui to prove a small frog can run a big-energy Tesla page: honest mod reviews, real FSD drives, and zero boring content.</p>
+        <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:16px">
+          <a class="btn btn-ig btn-sm" href="https://www.instagram.com/fastcoqui/" target="_blank" rel="noopener">Follow Tito on Instagram</a>
+          <a class="btn btn-ghost btn-sm" href="#mods">See Tito's Mods ↓</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div style="display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:space-between">
+      <b style="font-family:'Anton',sans-serif;font-size:22px;color:#fff;letter-spacing:.02em">FASTCOQUI × TITO 🐸</b>
+      <div style="display:flex;gap:16px;flex-wrap:wrap">
+        <a href="https://www.instagram.com/fastcoqui/" target="_blank" rel="noopener">Instagram @fastcoqui</a>
+        <a href="#mods">Mods</a><a href="#news">News</a><a href="#fanclub">Fan Club</a><a href="#support">Donate</a>
+      </div>
+    </div>
+    <p class="fine"><strong>Disclosure:</strong> As an Amazon Associate I earn from qualifying purchases. Some links are affiliate links and codes, which support the page at no extra cost to you. FASTCOQUI is an independent creator page and is not affiliated with, endorsed by, or sponsored by Tesla, Inc. Tesla, Model Y, Model 3, Model S, Model X, Cybertruck and FSD are trademarks of Tesla, Inc. News summaries link to their original sources; event dates should be confirmed on Tesla's official investor relations page. ¡Wepa! 🇵🇷</p>
+  </div>
+</footer>
+
+<div class="toast" id="toast" role="status"></div>
+
+<script>
+(function(){
+"use strict";
+var toastEl=document.getElementById('toast'), toastT=null;
+function toast(msg){ toastEl.textContent=msg; toastEl.classList.add('show'); clearTimeout(toastT); toastT=setTimeout(function(){toastEl.classList.remove('show')},3200); }
+function esc(s){ return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]}); }
+
+/* Copy promo code */
+document.getElementById('copyCodeBtn').addEventListener('click',function(){
+  var done=function(){ toast('Code FASTCOQUI copied — paste it at checkout for your discount.'); };
+  if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText('FASTCOQUI').then(done).catch(function(){ fallback(); }); } else fallback();
+  function fallback(){ var ta=document.createElement('textarea'); ta.value='FASTCOQUI'; document.body.appendChild(ta); ta.select(); try{document.execCommand('copy'); done();}catch(e){ toast('Code is FASTCOQUI — type it at checkout.'); } document.body.removeChild(ta); }
+});
+
+/* Copy Cash App $cashtag */
+var cashtagBtn=document.getElementById('copyCashtagBtn');
+if(cashtagBtn){ cashtagBtn.addEventListener('click',function(){
+  var done=function(){ toast('$cashtag $FastCoqui copied — paste it in Cash App to send a tip.'); };
+  if(navigator.clipboard&&navigator.clipboard.writeText){ navigator.clipboard.writeText('$FastCoqui').then(done).catch(function(){ fallback(); }); } else fallback();
+  function fallback(){ var ta=document.createElement('textarea'); ta.value='$FastCoqui'; document.body.appendChild(ta); ta.select(); try{document.execCommand('copy'); done();}catch(e){ toast('The $cashtag is $FastCoqui — type it into Cash App.'); } document.body.removeChild(ta); }
+}); }
+
+/* Countdown to Oct 21 2026 5:30pm ET (21:30 UTC) */
+var target=Date.UTC(2026,9,21,21,30,0);
+function pad(n){ return (n<10?'0':'')+n; }
+function tick(){
+  var diff=target-Date.now(), note=document.getElementById('cdNote');
+  if(diff<=0){ document.getElementById('cdD').textContent='0'; document.getElementById('cdH').textContent='00'; document.getElementById('cdM').textContent='00'; document.getElementById('cdS').textContent='00'; note.textContent='The call is live / just happened — catch the replay on Tesla IR.'; return; }
+  var d=Math.floor(diff/86400000), h=Math.floor(diff%86400000/3600000), m=Math.floor(diff%3600000/60000), s=Math.floor(diff%60000/1000);
+  document.getElementById('cdD').textContent=d; document.getElementById('cdH').textContent=pad(h); document.getElementById('cdM').textContent=pad(m); document.getElementById('cdS').textContent=pad(s);
+  note.textContent='Counting down to Wed Oct 21, 2026 · 5:30 PM ET.';
+}
+tick(); setInterval(tick,1000);
+
+/* ICS download */
+document.getElementById('icsBtn').addEventListener('click',function(){
+  var ics=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//fastcoqui//Tito Events//EN','BEGIN:VEVENT','UID:tsla-q3-2026@fastcoqui','DTSTAMP:20261019T120000Z','DTSTART:20261021T213000Z','DTEND:20261021T223000Z','SUMMARY:Tesla Q3 2026 Earnings Call','DESCRIPTION:Tesla Q3 2026 results + earnings call webcast. Watch live on Tesla Investor Relations.','LOCATION:Tesla IR webcast','END:VEVENT','END:VCALENDAR'].join('\r\n');
+  var a=document.createElement('a'); a.href=URL.createObjectURL(new Blob([ics],{type:'text/calendar'})); a.download='Tesla-Q3-2026-Earnings-Call.ics'; document.body.appendChild(a); a.click(); a.remove();
+  toast('Calendar file downloaded — open it to add the earnings call.');
+});
+
+})();
+</script>
+</body>
+</html>
