@@ -147,6 +147,7 @@ footer .fine{font-size:12.5px;color:#8B99A9;margin-top:18px;max-width:820px}
 .spon-tile{display:flex;flex-direction:column;gap:8px}.spon-tile .lbl{align-self:flex-start;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;padding:3px 8px;border-radius:6px;border:1px solid currentColor;opacity:.75}
 .spon-tile .btn{margin-top:auto;align-self:flex-start}.spon-empty{border:2px dashed var(--muted);background:transparent;box-shadow:none;opacity:.9}
 </style>
+<script data-goatcounter="https://fastcoqui.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </head>
 <body>
 
@@ -592,6 +593,36 @@ function loadNews(manual){
 }
 newsBtn.addEventListener('click',function(){ loadNews(true); });
 loadNews(false);
+
+/* GoatCounter click events: one delegated listener covers static and dynamically rendered links */
+var GC_AMZ={B0DZXLG3FD:'mud-flaps',B0FPJ6RYFN:'spigen-my26',B0CS1DQPR9:'spigen-my25',B0GKPR13JD:'sunshade',B0F2HY21RJ:'airversa-diffuser',B0DM8PM5PM:'ritz-carlton-scent',B0CYC46TDF:'fanttik-vacuum',B01N57S9O6:'gyeon-leather',B0C1S7R8FM:'vent-covers',B071XB18BF:'carguys-cleaner'};
+var GC_NEWS={'electrek.co':'electrek','teslarati.com':'teslarati','notateslaapp.com':'notateslaapp','insideevs.com':'insideevs','teslacanadagroup.ca':'teslacanadagroup','teslarobotaxi.com':'teslarobotaxi','teslant.com':'teslant','autocarindia.com':'autocarindia','carexpert.com.au':'carexpert'};
+function gcEvent(a){
+  var u; try{ u=new URL(a.href); }catch(e){ return null; }
+  var h=u.hostname.replace(/^www\./,''), p=u.pathname;
+  if(h==='evbase.com') return 'aff-evbase';
+  if(h==='tesery.com') return 'aff-tesery';
+  if(h==='amazon.com'){ var m=p.match(/\/dp\/([A-Z0-9]{10})/); return 'amazon-'+(m&&GC_AMZ[m[1]]||(m?m[1].toLowerCase():'other')); }
+  if(h==='enhauto.com'){ var seg=p.split('/').filter(Boolean).pop()||'home'; return 'enhauto-'+seg; }
+  if(h==='witamats.com') return 'wita';
+  if(h==='xpel.com') return 'xpel';
+  if(h==='ig.me') return a.closest('#sponsors')?'sponsor-inquiry':'ig-dm';
+  if(h==='instagram.com') return 'ig-follow';
+  if(h==='cash.app'){ var amt=p.split('/').filter(Boolean)[1]; return 'cashapp-'+(amt||'any'); }
+  for(var k in GC_NEWS){ if(h===k||h.slice(-k.length-1)==='.'+k) return 'news-'+GC_NEWS[k]; }
+  return null;
+}
+function gcCount(name,title){
+  if(window.goatcounter&&window.goatcounter.count) window.goatcounter.count({path:name,title:title||name,event:true});
+}
+document.addEventListener('click',function(e){
+  var a=e.target.closest&&e.target.closest('a[href^="http"]'); if(!a) return;
+  var name=a.getAttribute('data-goatcounter-click')||gcEvent(a); if(!name) return;
+  var sec=a.closest('section,footer,header,.topbar'), where=sec&&(sec.id||sec.tagName.toLowerCase());
+  gcCount(name,(a.textContent||'').trim().slice(0,60)+(where?' ['+where+']':''));
+},true);
+document.getElementById('copyCodeBtn').addEventListener('click',function(){ gcCount('copy-fastcoqui','Copy promo code FASTCOQUI'); });
+document.getElementById('newsRefresh').addEventListener('click',function(){ gcCount('news-refresh','Refresh news button'); });
 })();
 </script>
 </body>
