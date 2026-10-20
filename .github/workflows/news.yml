@@ -1,0 +1,29 @@
+name: Update Tesla news
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: news
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/update_news.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- news.json && git ls-files --error-unmatch news.json >/dev/null 2>&1; then
+            echo "news.json unchanged"; exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git commit -m "Update Tesla news feed"
+          git push
