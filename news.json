@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T04:34:14Z",
+ "updated": "2026-10-20T08:22:38Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "The Boring Company’s latest Tesla tunnel truck mod “fits like a glove”",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/boring-company-tesla-truck-freight-container/",
+   "date": "2026-10-20T05:07:48Z",
+   "snippet": "The Boring Company has modified a Tesla powered tunnel truck to carry freight containers underground. The post The Boring Company’s latest Tesla tunnel truck mod “fits like a…",
+   "image": null
+  },
   {
    "title": "Flying, flipping Tesla Roadster delivered on style, THESE EVs deliver on substance",
    "source": "Electrek",
@@ -94,14 +102,6 @@
    "date": "2026-10-18T16:22:00Z",
    "snippet": "We've going through the Internet and found some of the best Tesla Halloween Frunk (Trunk) or Treat ideas. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/2024/chrisheninger_jaws_halloween.jpg/f0f2d77de69964b223ecf864d0339531/chrisheninger_jaws_halloween.jpg"
-  },
-  {
-   "title": "Tesla Roadster owners to get “Flying Stunt Mode” and looping track access",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-roadster-autonomous-stunt-sentient-hot-wheels-loop-track/",
-   "date": "2026-10-17T22:52:55Z",
-   "snippet": "Musk says Roadster owners can command the unveiling stunts autonomously, with a Texas looping track. The post Tesla Roadster owners to get “Flying Stunt Mode” and looping track…",
-   "image": null
   }
  ]
 }
