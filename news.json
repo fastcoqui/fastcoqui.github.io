@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T20:18:27Z",
+ "updated": "2026-10-21T00:17:28Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Elon Musk just confirmed the Tesla and SpaceX merger step everyone was waiting for",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/elon-musk-tesla-spacex-merger-committee/",
+   "date": "2026-10-20T23:13:48Z",
+   "snippet": "Tesla and SpaceX formed special committees to weigh a merger, and Elon Musk supports it. The post Elon Musk just confirmed the Tesla and SpaceX merger step everyone was waiting…",
+   "image": null
+  },
   {
    "title": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
    "source": "Electrek",
@@ -94,14 +102,6 @@
    "date": "2026-10-19T15:24:06Z",
    "snippet": "Tesla CEO Elon Musk took to his social media platform X on Sunday to remind everyone that the Roadster’s true meaning is not about company growth or adding dollars to…",
    "image": null
-  },
-  {
-   "title": "The Roadster Will Have Tesla’s Most Advanced Battery Pack Yet",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/812290/tesla-roadster-ev-battery-details/",
-   "date": "2026-10-19T14:42:41Z",
-   "snippet": "It’s also the fastest-charging Tesla ever.",
-   "image": "https://cdn.motor1.com/images/mgl/BX1gnm/s3/tesla-roadster-battery.jpg"
   }
  ]
 }
