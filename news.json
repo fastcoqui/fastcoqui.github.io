@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T00:17:28Z",
+ "updated": "2026-10-21T04:21:31Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla and SpaceX take first step towards merger, would dilute all shareholders",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/20/tesla-and-spacex-take-first-step-towards-merger-would-dilute-all-shareholders/",
+   "date": "2026-10-21T03:14:40Z",
+   "snippet": "Tesla and SpaceX have both formed special committees within their corporate boards to explore the possibility of merging the two companies according to Elon Musk, who is CEO of…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?w=1500"
+  },
   {
    "title": "Elon Musk just confirmed the Tesla and SpaceX merger step everyone was waiting for",
    "source": "Teslarati",
@@ -94,14 +102,6 @@
    "date": "2026-10-19T15:58:00Z",
    "snippet": "The new Tesla Roadster hides a lot, including a plug-in wiper, deployable side skirts, a hidden charge port, a fourth base trim, and more Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/roadster/tesla-roadster-2-hero-1.webp/204dcfe3d5303a737b924fde7183e59f/tesla-roadster-2-hero-1.jpg"
-  },
-  {
-   "title": "Tesla CEO Elon Musk reminds everyone about Roadster’s true meaning",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-ceo-elon-musk-reminds-everyone-roadster-true-meaning/",
-   "date": "2026-10-19T15:24:06Z",
-   "snippet": "Tesla CEO Elon Musk took to his social media platform X on Sunday to remind everyone that the Roadster’s true meaning is not about company growth or adding dollars to…",
-   "image": null
   }
  ]
 }
