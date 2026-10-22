@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T16:24:21Z",
+ "updated": "2026-10-22T20:19:36Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,38 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla now says it needs its own maps for FSD after years of dismissing maps",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/22/tesla-building-own-maps-fsd-after-mocking-maps/",
+   "date": "2026-10-22T20:03:18Z",
+   "snippet": "Tesla says it’s building its own maps to fix some of the most common problems with its “Full Self-Driving” system, including reading speed limits, parking, and choosing routes…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/11/Tesla-Software-Update-Interior-2.0.jpg?quality=82&#038;strip=all&#038;w=1400"
+  },
+  {
+   "title": "Tesla Is Building Its Own AI-Based Maps, Will Begin Rolling Out In the Next Few Months With FSD v15",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4868/tesla-is-building-its-own-ai-maps-starting-with-fsd-v15",
+   "date": "2026-10-22T19:54:00Z",
+   "snippet": "Tesla is developing AI-based maps and navigation using fleet data and driver preferences, with initial features planned for FSD v15. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-1.webp/85beac17d20feea27848008a4229f225/fsd-vis-1.jpg"
+  },
+  {
+   "title": "Tesla buyers are buying for Full Self-Driving and not for the car, data shows",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-buyers-buying-full-self-driving-not-for-car-data-shows/",
+   "date": "2026-10-22T17:25:12Z",
+   "snippet": "Tesla Full Self-Driving (Supervised) showed a record attach rate at delivery for new vehicles in the third quarter of 2026. 75 percent of new vehicle deliveries in North America…",
+   "image": null
+  },
+  {
+   "title": "Tesla Q3 2026 Earnings Call Recap: Everything You Need to Know",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4867/tesla-q3-2026-earnings-call-recap-everything-you-need-to-know",
+   "date": "2026-10-22T17:20:00Z",
+   "snippet": "Everything Tesla shared on its Q3 2026 earnings call, from Cybercab and Robotaxi timelines to Optimus production, Terafab, and nearly sold-out Megapacks Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/future-rendering-4.webp/e410e381724e03c1692b31115b2602b3/future-rendering-4.jpg"
+  },
   {
    "title": "Tesla pushes Optimus deliveries to late 2027, says hands still a problem",
    "source": "Electrek",
@@ -70,38 +102,6 @@
    "date": "2026-10-21T22:32:50Z",
    "snippet": "Tesla said today it will sell Cybercab to consumers by the end of this year, raising questions of what end users would do with a vehicle with no steering wheel and no self-driving…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2024/11/img_3082.jpg?quality=82&#038;strip=all&#038;w=1333"
-  },
-  {
-   "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/",
-   "date": "2026-10-21T22:18:57Z",
-   "snippet": "Tesla now says unsupervised “Full Self-Driving” in customer-owned cars will arrive in Q2 2027. It’s the latest date on a promise Elon Musk has been making to FSD buyers for the…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "'End Of The Year': Tesla Says Cybercab Customer Deliveries Will Begin Soon",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/812834/tesla-cybercab-customer-deliveries/",
-   "date": "2026-10-21T22:17:21Z",
-   "snippet": "But the vast majority of Cybercabs will be owned by Tesla, CEO Elon Musk says.",
-   "image": "https://cdn.motor1.com/images/mgl/BX1OLR/s3/tesla-cybercab-robotaxi.jpg"
-  },
-  {
-   "title": "Tesla FSD Hits Record Subs, Purchased With 75% of New Orders",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4862/tesla-fsd-hits-record-subs-purchased-with-75-of-new-orders",
-   "date": "2026-10-21T21:30:00Z",
-   "snippet": "Tesla’s Q3 2026 report shows FSD is bundled with 75% of new North American deliveries and active subscriptions have hit 1.74 million, up 67% year over year and Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_giftcard-1790711572.jpg/2007acb44a5e2531b9b75042b4a2ae2c/fsd_giftcard-1790711572.jpg"
-  },
-  {
-   "title": "Tesla energy revenue drops 16% as it refunds customers over tariffs",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/21/tesla-energy-revenue-drops-tariff-customer-refunds/",
-   "date": "2026-10-21T21:18:18Z",
-   "snippet": "Tesla’s energy business deployed more batteries in Q3 2026 but brought in less money. Energy generation and storage revenue fell 16% year-over-year to $2.88 billion, even though…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-Megapack-3-Megablock.webp?w=1600"
   }
  ]
 }
