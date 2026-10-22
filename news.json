@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T20:18:35Z",
+ "updated": "2026-10-22T00:16:46Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -8,12 +8,84 @@
  ],
  "items": [
   {
+   "title": "Tesla Says 75% Of New Car Buyers Subscribe To FSD In North America",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/812833/tesla-backlog-fsd-driver-sales/",
+   "date": "2026-10-21T23:39:41Z",
+   "snippet": "Tesla's newest subscription numbers show that 75% of buyers subscribe to Tesla's $99 per month autonomy software.",
+   "image": "https://cdn.motor1.com/images/mgl/E6Yvkv/s3/tesla-model-y-standard-ap-fsd-visualization-hero.jpg"
+  },
+  {
+   "title": "Tesla wants to sell you a useless car with no steering wheel this year",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/21/tesla-wants-to-sell-you-a-useless-car-with-no-steering-wheel-this-year/",
+   "date": "2026-10-21T22:32:50Z",
+   "snippet": "Tesla said today it will sell Cybercab to consumers by the end of this year, raising questions of what end users would do with a vehicle with no steering wheel and no self-driving…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/11/img_3082.jpg?quality=82&#038;strip=all&#038;w=1333"
+  },
+  {
+   "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/",
+   "date": "2026-10-21T22:18:57Z",
+   "snippet": "Tesla now says unsupervised “Full Self-Driving” in customer-owned cars will arrive in Q2 2027. It’s the latest date on a promise Elon Musk has been making to FSD buyers for the…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "'End Of The Year': Tesla Says Cybercab Customer Deliveries Will Begin Soon",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/812834/tesla-cybercab-customer-deliveries/",
+   "date": "2026-10-21T22:17:21Z",
+   "snippet": "But the vast majority of Cybercabs will be owned by Tesla, CEO Elon Musk says.",
+   "image": "https://cdn.motor1.com/images/mgl/BX1OLR/s3/tesla-cybercab-robotaxi.jpg"
+  },
+  {
+   "title": "Tesla FSD Hits Record Subs, Purchased With 75% of New Orders",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4862/tesla-fsd-hits-record-subs-purchased-with-75-of-new-orders",
+   "date": "2026-10-21T21:30:00Z",
+   "snippet": "Tesla’s Q3 2026 report shows FSD is bundled with 75% of new North American deliveries and active subscriptions have hit 1.74 million, up 67% year over year and Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_giftcard-1790711572.jpg/2007acb44a5e2531b9b75042b4a2ae2c/fsd_giftcard-1790711572.jpg"
+  },
+  {
+   "title": "Tesla energy revenue drops 16% as it refunds customers over tariffs",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/21/tesla-energy-revenue-drops-tariff-customer-refunds/",
+   "date": "2026-10-21T21:18:18Z",
+   "snippet": "Tesla’s energy business deployed more batteries in Q3 2026 but brought in less money. Energy generation and storage revenue fell 16% year-over-year to $2.88 billion, even though…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-Megapack-3-Megablock.webp?w=1600"
+  },
+  {
+   "title": "Tesla FSD ‘subscriptions’ hit 1.74M, counted the way Musk’s pay package wants",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/",
+   "date": "2026-10-21T20:45:18Z",
+   "snippet": "Tesla says it now has 1.74 million active “Full Self-Driving” subscriptions, up 67% from a year ago. A footnote in its Q3 2026 shareholder letter explains how it gets there: the…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2025/12/Tesla-Full-Self-Driving-.png?w=1600"
+  },
+  {
+   "title": "Tesla blames battery supply for flat sales, but its prices keep falling",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/21/tesla-battery-supply-limiting-sales-prices-falling/",
+   "date": "2026-10-21T20:39:19Z",
+   "snippet": "Tesla says battery supply, not demand, is what’s holding back its car sales. In its Q3 2026 shareholder letter, the automaker wrote that “battery availability continued to be the…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-4680-battery-cell-production-cybertruck.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla Q3 Earnings Call: How to Listen [TODAY]",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4855/tesla-q3-earnings-call-how-to-listen-what-to-expect",
+   "date": "2026-10-21T20:26:00Z",
+   "snippet": "See when Tesla’s Q3 2026 earnings call starts, how to vote on shareholder questions, and the top questions so far about Cybercab, FSD, and Optimus Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_66.jpg/7620b55782eff45301d6a20b7e036258/group_66.jpg"
+  },
+  {
    "title": "Tesla Q3 2026 Earnings results: in-line revenues, slight beat on EPS",
    "source": "Teslarati",
    "link": "https://www.teslarati.com/tesla-tsla-q3-2026-earnings-results/",
    "date": "2026-10-21T20:09:06Z",
    "snippet": "Tesla (NASDAQ: TSLA) reported its earnings for the third quarter of 2026, marking a reasonable performance on the various financial metrics. Tesla still plans to hold a call that…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+   "image": null
   },
   {
    "title": "Tesla (TSLA) releases Q3 2026 financial results: margins rebound, profit still falls",
@@ -30,78 +102,6 @@
    "date": "2026-10-21T19:33:00Z",
    "snippet": "Download eight official Tesla Roadster phone wallpapers from Tesla China, featuring the car’s mid-air kickflip, cold-gas thrusters, and scissor doors. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/roadster/roadster_88.webp/af7c8464cba73c28316182df28201f58/roadster_88.jpg"
-  },
-  {
-   "title": "Tesla Names Next Robotaxi Cities, Shares Miles Driven & Safety Data",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4860/tesla-names-next-robotaxi-cities-shares-miles-driven-safety-data",
-   "date": "2026-10-21T19:04:00Z",
-   "snippet": "Tesla’s Robotaxi fleet has driven over 3.1 million autonomous miles with no injuries, and four new cities are coming soon, including Las Vegas and San Antonio Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/two-cybercabs.webp/560bca7bb71390339f30cd6afcb8a0ae/two-cybercabs.jpg"
-  },
-  {
-   "title": "Tesla Launches iPad and iPhone Duo App",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4859/tesla-launches-new-app-for-ipad-and-iphone-duo",
-   "date": "2026-10-21T17:59:00Z",
-   "snippet": "The Tesla app now has a dedicated big-screen layout with a car-style visualization, Show PSI button, side-by-side menus for tablets and foldables, and more Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-for-tablets-and-foldables-2.webp/989e526b38223149243dc82b47d820e7/tesla-app-for-tablets-and-foldables-2.jpg"
-  },
-  {
-   "title": "Tesla reports Q3 Earnings today: here’s what to expect",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-tsla-q3-earnings-2026-what-to-expect/",
-   "date": "2026-10-21T16:56:56Z",
-   "snippet": "Tesla (NASDAQ: TSLA) reports its earnings for Q3 today. Here’s what to expect, as the company will reveal its balance sheet after the market closes on Wednesday. Tesla already…",
-   "image": null
-  },
-  {
-   "title": "Tesla and SpaceX take first step towards merger, would dilute all shareholders",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/20/tesla-and-spacex-take-first-step-towards-merger-would-dilute-all-shareholders/",
-   "date": "2026-10-21T03:14:40Z",
-   "snippet": "Tesla and SpaceX have both formed special committees within their corporate boards to explore the possibility of merging the two companies according to Elon Musk, who is CEO of…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?w=1500"
-  },
-  {
-   "title": "Elon Musk just confirmed the Tesla and SpaceX merger step everyone was waiting for",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/elon-musk-tesla-spacex-merger-committee/",
-   "date": "2026-10-20T23:13:48Z",
-   "snippet": "Tesla and SpaceX formed special committees to weigh a merger, and Elon Musk supports it. The post Elon Musk just confirmed the Tesla and SpaceX merger step everyone was waiting…",
-   "image": null
-  },
-  {
-   "title": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/20/tesla-tsla-q3-2026-earnings-preview/",
-   "date": "2026-10-20T20:13:48Z",
-   "snippet": "Tesla reports its third-quarter 2026 financial results tomorrow, October 21, after the market closes. The earnings call follows at 5:30 p.m. ET. Wall Street expects revenue to…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Ferrari CEO Praises Tesla, Gives Roadster a Perfect 10/10",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4856/ferrari-ceo-praises-tesla-gives-roadster-a-perfect-1010",
-   "date": "2026-10-20T18:34:00Z",
-   "snippet": "Ferrari’s CEO gave Tesla’s Roadster launch a perfect 10 for technology and presentation, saying it proves even an old industry can still dare Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/roadster/roadster_59.webp/5a4f0d07eac5b902bb6cb1d64d1c23a6/roadster_59.jpg"
-  },
-  {
-   "title": "The Boring Company Uses Tesla Model 3 Sleds To Shuttle Shipping Containers Through Its Tunnels",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/812647/boring-company-model-3-freight/",
-   "date": "2026-10-20T18:19:44Z",
-   "snippet": "The shipping containers fit \"like a glove.\"",
-   "image": "https://cdn.motor1.com/images/mgl/wlkjK6/s3/the-boring-company-liner-truck.jpg"
-  },
-  {
-   "title": "Tesla Q3 Earnings Call: How to Listen & What to Expect",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4855/tesla-q3-earnings-call-how-to-listen-what-to-expect",
-   "date": "2026-10-20T17:12:00Z",
-   "snippet": "See when Tesla’s Q3 2026 earnings call starts, how to vote on shareholder questions, and the top questions so far about Cybercab, FSD, and Optimus Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_66.jpg/7620b55782eff45301d6a20b7e036258/group_66.jpg"
   }
  ]
 }
