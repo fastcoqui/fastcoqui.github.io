@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T08:27:27Z",
+ "updated": "2026-10-22T16:24:21Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -8,11 +8,43 @@
  ],
  "items": [
   {
+   "title": "Tesla pushes Optimus deliveries to late 2027, says hands still a problem",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/22/tesla-optimus-delivery-late-2027-hands-ai-problems/",
+   "date": "2026-10-22T15:56:42Z",
+   "snippet": "Elon Musk now says Tesla will start delivering Optimus humanoid robots to outside customers around the end of 2027. On Tesla’s Q3 2026 earnings call, he said the hands, the…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-Optimus-Hyundai-atlas.png?w=1600"
+  },
+  {
+   "title": "Tesla Officially Begins Optimus Robot Production; Demo Coming Soon",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4866/tesla-officially-begins-optimus-robot-production",
+   "date": "2026-10-22T14:38:00Z",
+   "snippet": "Optimus production has started in Fremont, with an AI5-powered upgrade planned for April and external customer deliveries expected around the end of 2027 Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-human-hands-3.webp/add26bc704a5fd1f8f19c8e0efca2e24/optimus-human-hands-3.jpg"
+  },
+  {
+   "title": "Tesla (TSLA) quietly cuts 2026 capex guidance to $20B",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/22/tesla-cuts-2026-capex-guidance-q3-cash-flow/",
+   "date": "2026-10-22T14:00:01Z",
+   "snippet": "Tesla has lowered its 2026 capital spending forecast. In its Q3 10-Q, the company now says it expects capital expenditures “to be in excess of $20 billion in 2026,” down from the…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-family-hero.png?w=1600"
+  },
+  {
+   "title": "Tesla Says It's Trying to Get Cybercabs to Customers by the End of This Year",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4864/tesla-targets-5m-cars-a-year-by-2030-cybercab-sales-soon",
+   "date": "2026-10-22T13:46:00Z",
+   "snippet": "On its Q3 earnings call, Tesla set a 5 million vehicle production goal for 2030 and said it’s trying to get Cybercabs to customers by the end of 2026 Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-production.webp/4e16d3763b10bcba9a15678f8019b014/cybercab-production.jpg"
+  },
+  {
    "title": "Tesla Cybercab gets a for sale date at last",
    "source": "Teslarati",
    "link": "https://www.teslarati.com/tesla-cybercab-gets-sale-date-at-last/",
    "date": "2026-10-22T00:51:48Z",
-   "snippet": "Tesla Cybercab units finally got a definitive date for when they will be able to be purchased by consumers, ending speculation regarding whether the fully autonomous vehicle would…",
+   "snippet": "Update: 10/22 10:51a – Para 1 consumers changed to “customers” for accuracy. Tesla Cybercab units finally got a definitive date for when they will be able to be purchased by…",
    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
   },
   {
@@ -22,6 +54,14 @@
    "date": "2026-10-21T23:39:41Z",
    "snippet": "Tesla's newest subscription numbers show that 75% of buyers subscribe to Tesla's $99 per month autonomy software.",
    "image": "https://cdn.motor1.com/images/mgl/E6Yvkv/s3/tesla-model-y-standard-ap-fsd-visualization-hero.jpg"
+  },
+  {
+   "title": "Tesla FSD V14.3.12 Down Under Release Notes (Update 2026.38.5.5)",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/software-updates/version/2026.38.5.5/release-notes",
+   "date": "2026-10-21T23:29:00Z",
+   "snippet": "We take a look at the release notes and what's new in Tesla update 2026.38.5.5. Read More",
+   "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.38/fsd-supervised-v14312-down-under.png/42c01d42e0ee1fd19537b42ae8f56ad1/fsd-supervised-v14312-down-under.jpg"
   },
   {
    "title": "Tesla wants to sell you an unusable car with no steering wheel this year",
@@ -62,46 +102,6 @@
    "date": "2026-10-21T21:18:18Z",
    "snippet": "Tesla’s energy business deployed more batteries in Q3 2026 but brought in less money. Energy generation and storage revenue fell 16% year-over-year to $2.88 billion, even though…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-Megapack-3-Megablock.webp?w=1600"
-  },
-  {
-   "title": "Tesla FSD ‘subscriptions’ hit 1.74M, counted the way Musk’s pay package wants",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/",
-   "date": "2026-10-21T20:45:18Z",
-   "snippet": "Tesla says it now has 1.74 million active “Full Self-Driving” subscriptions, up 67% from a year ago. A footnote in its Q3 2026 shareholder letter explains how it gets there: the…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2025/12/Tesla-Full-Self-Driving-.png?w=1600"
-  },
-  {
-   "title": "Tesla blames battery supply for flat sales, but its prices keep falling",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/21/tesla-battery-supply-limiting-sales-prices-falling/",
-   "date": "2026-10-21T20:39:19Z",
-   "snippet": "Tesla says battery supply, not demand, is what’s holding back its car sales. In its Q3 2026 shareholder letter, the automaker wrote that “battery availability continued to be the…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-4680-battery-cell-production-cybertruck.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Q3 Earnings Call: How to Listen [TODAY]",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4855/tesla-q3-earnings-call-how-to-listen-what-to-expect",
-   "date": "2026-10-21T20:26:00Z",
-   "snippet": "See when Tesla’s Q3 2026 earnings call starts, how to vote on shareholder questions, and the top questions so far about Cybercab, FSD, and Optimus Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_66.jpg/7620b55782eff45301d6a20b7e036258/group_66.jpg"
-  },
-  {
-   "title": "Tesla Q3 2026 Earnings results: in-line revenues, slight beat on EPS",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-tsla-q3-2026-earnings-results/",
-   "date": "2026-10-21T20:09:06Z",
-   "snippet": "Tesla (NASDAQ: TSLA) reported its earnings for the third quarter of 2026, marking a reasonable performance on the various financial metrics. Tesla still plans to hold a call that…",
-   "image": null
-  },
-  {
-   "title": "Tesla (TSLA) releases Q3 2026 financial results: margins rebound, profit still falls",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/",
-   "date": "2026-10-21T20:08:17Z",
-   "snippet": "Tesla (TSLA) released its financial results and shareholders’ letter for the third quarter (Q3) 2026 after market close today. We’re updating this post with all the details from…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-Q3-2026-earnings.jpg?quality=82&#038;strip=all&#038;w=1280"
   }
  ]
 }
