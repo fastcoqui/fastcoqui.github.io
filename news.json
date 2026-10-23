@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:19:38Z",
+ "updated": "2026-10-23T16:25:38Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,38 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla to Launch Unsupervised FSD, Let Owners Join Robotaxi Network in Q2 2027",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4879/tesla-to-launch-unsupervised-fsd-let-owners-join-robotaxi-network-in-q2-2027",
+   "date": "2026-10-23T15:31:00Z",
+   "snippet": "Unsupervised FSD could reach the first customer Teslas around Q2 2027, letting owners add their cars to the Robotaxi network within Tesla’s geofences. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-ocean.webp/7582eb2cd0bf68072ef737ca89472885/fsd-ocean.jpg"
+  },
+  {
+   "title": "Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
+   "date": "2026-10-23T14:35:37Z",
+   "snippet": "Tesla has officially cancelled the Cybertruck for Australia and New Zealand. Reservation holders are getting emails today telling them their orders are void and their deposits…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-prices-2025-Cybertruck.jpg?quality=82&#038;strip=all&#038;w=1400"
+  },
+  {
+   "title": "Tesla’s $10B solar factory could get 35 years of tax breaks in Texas",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/",
+   "date": "2026-10-23T14:25:54Z",
+   "snippet": "Tesla’s proposed $10 billion “Project Crystal Sun” solar factory in Texas could get up to 35 years of local tax breaks on its equipment, according to the four agreements Fort Bend…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/Tesla-solar-panels.jpeg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla App Update 4.62: iPad Support, FSD Referral Rewards, X Money Support and More",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.0/release-notes",
+   "date": "2026-10-23T09:35:00Z",
+   "snippet": "We take a look at the release notes and what's new in Tesla app update 4.62.0. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-for-tablets-and-foldables-1.webp/e835eb156b0e9c11ddff5a35f89b4157/tesla-app-for-tablets-and-foldables-1.jpg"
+  },
   {
    "title": "Tesla’s secretive “Project Crystal Sun” gets a big green light in Texas",
    "source": "Teslarati",
@@ -70,38 +102,6 @@
    "date": "2026-10-22T17:20:00Z",
    "snippet": "Everything Tesla shared on its Q3 2026 earnings call, from Cybercab and Robotaxi timelines to Optimus production, Terafab, and nearly sold-out Megapacks Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/future-rendering-4.webp/e410e381724e03c1692b31115b2602b3/future-rendering-4.jpg"
-  },
-  {
-   "title": "Tesla pushes Optimus deliveries to late 2027, says hands still a problem",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/22/tesla-optimus-delivery-late-2027-hands-ai-problems/",
-   "date": "2026-10-22T15:56:42Z",
-   "snippet": "Elon Musk now says Tesla will start delivering Optimus humanoid robots to outside customers around the end of 2027. On Tesla’s Q3 2026 earnings call, he said the hands, the…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Tesla-Optimus-Hyundai-atlas.png?w=1600"
-  },
-  {
-   "title": "Tesla Officially Begins Optimus Robot Production; Demo Coming Soon",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4866/tesla-officially-begins-optimus-robot-production",
-   "date": "2026-10-22T14:38:00Z",
-   "snippet": "Optimus production has started in Fremont, with an AI5-powered upgrade planned for April and external customer deliveries expected around the end of 2027 Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-human-hands-3.webp/add26bc704a5fd1f8f19c8e0efca2e24/optimus-human-hands-3.jpg"
-  },
-  {
-   "title": "Tesla (TSLA) quietly cuts 2026 capex guidance to $20B",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/22/tesla-cuts-2026-capex-guidance-q3-cash-flow/",
-   "date": "2026-10-22T14:00:01Z",
-   "snippet": "Tesla has lowered its 2026 capital spending forecast. In its Q3 10-Q, the company now says it expects capital expenditures “to be in excess of $20 billion in 2026,” down from the…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-family-hero.png?w=1600"
-  },
-  {
-   "title": "Tesla Says It's Trying to Get Cybercabs to Customers by the End of This Year",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4864/tesla-targets-5m-cars-a-year-by-2030-cybercab-sales-soon",
-   "date": "2026-10-22T13:46:00Z",
-   "snippet": "On its Q3 earnings call, Tesla set a 5 million vehicle production goal for 2030 and said it’s trying to get Cybercabs to customers by the end of 2026 Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-production.webp/4e16d3763b10bcba9a15678f8019b014/cybercab-production.jpg"
   }
  ]
 }
