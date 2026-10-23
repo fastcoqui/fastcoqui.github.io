@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T16:25:38Z",
+ "updated": "2026-10-23T20:16:50Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,38 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Supercharger Prices Are Up 15% in the Last Year",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4885/tesla-supercharger-prices-are-up-15-in-the-last-year",
+   "date": "2026-10-23T18:49:00Z",
+   "snippet": "Over the past year, Tesla has gradually hiked Supercharger pricing by up to 15% for both non-Tesla EVs and Tesla owners using the network Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/charging/0x0-supercharger_14.jpg/a0c5259bed4099042b58d2c7c20b40ec/0x0-supercharger_14.jpg"
+  },
+  {
+   "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/813113/tesla-cybertruck-australia-canceled/",
+   "date": "2026-10-23T17:13:54Z",
+   "snippet": "The company has been taking deposits for seven years. But it just told reservation holders that plans have changed.",
+   "image": "https://cdn.motor1.com/images/mgl/Oo2OER/s3/tesla-cybertruck.jpg"
+  },
+  {
+   "title": "Tesla reveals Optimus Academy, where robots teach themselves",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-reveals-optimus-academy-where-robots-teach-themselves/",
+   "date": "2026-10-23T17:11:56Z",
+   "snippet": "Tesla has begun building production quality Optimus robots in Fremont and revealed its training plan. The post Tesla reveals Optimus Academy, where robots teach themselves…",
+   "image": null
+  },
+  {
+   "title": "Tesla Cancels Cybertruck in Australia and New Zealand",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4883/tesla-cancels-cybertruck-in-australia-and-new-zealand",
+   "date": "2026-10-23T16:26:00Z",
+   "snippet": "Cybertruck won’t come to Australia or New Zealand after seven years of reservations, but holders get a refund and one free year of FSD on another purchase Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck_95.webp/d1b131e3f7c61531bad710dba88b2f9b/cybertruck_95.jpg"
+  },
   {
    "title": "Tesla to Launch Unsupervised FSD, Let Owners Join Robotaxi Network in Q2 2027",
    "source": "Not a Tesla App",
@@ -70,38 +102,6 @@
    "date": "2026-10-22T20:35:10Z",
    "snippet": "Its next-generation EVs will offer security camera functionality and autonomous driving. But its gas SUVs won’t get left behind.",
    "image": "https://cdn.motor1.com/images/mgl/nA80Gx/s3/cadillac-lyriq---inline.jpg"
-  },
-  {
-   "title": "Tesla now says it needs its own maps for FSD after years of dismissing maps",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/22/tesla-building-own-maps-fsd-after-mocking-maps/",
-   "date": "2026-10-22T20:03:18Z",
-   "snippet": "Tesla says it’s building its own maps to fix some of the most common problems with its “Full Self-Driving” system, including reading speed limits, parking, and choosing routes…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/11/Tesla-Software-Update-Interior-2.0.jpg?quality=82&#038;strip=all&#038;w=1400"
-  },
-  {
-   "title": "Tesla Is Building Its Own AI-Based Maps, Will Begin Rolling Out In the Next Few Months With FSD v15",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4868/tesla-is-building-its-own-ai-maps-starting-with-fsd-v15",
-   "date": "2026-10-22T19:54:00Z",
-   "snippet": "Tesla is developing AI-based maps and navigation using fleet data and driver preferences, with initial features planned for FSD v15. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-1.webp/85beac17d20feea27848008a4229f225/fsd-vis-1.jpg"
-  },
-  {
-   "title": "Tesla buyers are buying for Full Self-Driving and not for the car, data shows",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-buyers-buying-full-self-driving-not-for-car-data-shows/",
-   "date": "2026-10-22T17:25:12Z",
-   "snippet": "Tesla Full Self-Driving (Supervised) showed a record attach rate at delivery for new vehicles in the third quarter of 2026. 75 percent of new vehicle deliveries in North America…",
-   "image": null
-  },
-  {
-   "title": "Tesla Q3 2026 Earnings Call Recap: Everything You Need to Know",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4867/tesla-q3-2026-earnings-call-recap-everything-you-need-to-know",
-   "date": "2026-10-22T17:20:00Z",
-   "snippet": "Everything Tesla shared on its Q3 2026 earnings call, from Cybercab and Robotaxi timelines to Optimus production, Terafab, and nearly sold-out Megapacks Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/future-rendering-4.webp/e410e381724e03c1692b31115b2602b3/future-rendering-4.jpg"
   }
  ]
 }
