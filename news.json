@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T20:19:36Z",
+ "updated": "2026-10-23T00:19:38Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,38 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla’s secretive “Project Crystal Sun” gets a big green light in Texas",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-project-crystal-sun-texas-approval/",
+   "date": "2026-10-22T22:26:20Z",
+   "snippet": "Fort Bend County approved four incentive agreements Thursday for Tesla's proposed $10.1 billion solar factory. The post Tesla’s secretive “Project Crystal Sun” gets a big green…",
+   "image": null
+  },
+  {
+   "title": "Tesla skipped the most important shareholder question on its earnings call",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/22/tesla-skipped-hw3-shareholder-question-earnings-call/",
+   "date": "2026-10-22T21:23:05Z",
+   "snippet": "Tesla skipped one of its top shareholder questions on its Q3 2026 earnings call: when Hardware 3 owners will find out if they get a free computer upgrade for the unsupervised…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-HW3-overheat-fsd-v14-lite.jpeg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla is building its own maps to fix Navigation issues",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-building-its-own-maps-fix-navigation-issues/",
+   "date": "2026-10-22T21:14:16Z",
+   "snippet": "Tesla revealed plans to develop its own maps internally to fix Navigation issues and give owners more control over their routing. On the company’s Q3 2026 Earnings Call, a…",
+   "image": null
+  },
+  {
+   "title": "‘Propulsion-Agnostic’: GM Wants To Bring Tesla-Style Software Features To Its Gas SUVs, Too",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/features/812982/gm-software-platform-powertrain-agnostic/",
+   "date": "2026-10-22T20:35:10Z",
+   "snippet": "Its next-generation EVs will offer security camera functionality and autonomous driving. But its gas SUVs won’t get left behind.",
+   "image": "https://cdn.motor1.com/images/mgl/nA80Gx/s3/cadillac-lyriq---inline.jpg"
+  },
   {
    "title": "Tesla now says it needs its own maps for FSD after years of dismissing maps",
    "source": "Electrek",
@@ -70,38 +102,6 @@
    "date": "2026-10-22T13:46:00Z",
    "snippet": "On its Q3 earnings call, Tesla set a 5 million vehicle production goal for 2030 and said it’s trying to get Cybercabs to customers by the end of 2026 Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-production.webp/4e16d3763b10bcba9a15678f8019b014/cybercab-production.jpg"
-  },
-  {
-   "title": "Tesla Cybercab gets a for sale date at last",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-cybercab-gets-sale-date-at-last/",
-   "date": "2026-10-22T00:51:48Z",
-   "snippet": "Update: 10/22 10:51a – Para 1 consumers changed to “customers” for accuracy. Tesla Cybercab units finally got a definitive date for when they will be able to be purchased by…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
-  },
-  {
-   "title": "Tesla Says 75% Of New Car Buyers Subscribe To FSD In North America",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/812833/tesla-backlog-fsd-driver-sales/",
-   "date": "2026-10-21T23:39:41Z",
-   "snippet": "Tesla's newest subscription numbers show that 75% of buyers subscribe to Tesla's $99 per month autonomy software.",
-   "image": "https://cdn.motor1.com/images/mgl/E6Yvkv/s3/tesla-model-y-standard-ap-fsd-visualization-hero.jpg"
-  },
-  {
-   "title": "Tesla FSD V14.3.12 Down Under Release Notes (Update 2026.38.5.5)",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/software-updates/version/2026.38.5.5/release-notes",
-   "date": "2026-10-21T23:29:00Z",
-   "snippet": "We take a look at the release notes and what's new in Tesla update 2026.38.5.5. Read More",
-   "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.38/fsd-supervised-v14312-down-under.png/42c01d42e0ee1fd19537b42ae8f56ad1/fsd-supervised-v14312-down-under.jpg"
-  },
-  {
-   "title": "Tesla wants to sell you an unusable car with no steering wheel this year",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/21/tesla-wants-to-sell-you-a-useless-car-with-no-steering-wheel-this-year/",
-   "date": "2026-10-21T22:32:50Z",
-   "snippet": "Tesla said today it will sell Cybercab to consumers by the end of this year, raising questions of what end users would do with a vehicle with no steering wheel and no self-driving…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/11/img_3082.jpg?quality=82&#038;strip=all&#038;w=1333"
   }
  ]
 }
