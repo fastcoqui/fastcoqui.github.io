@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:19:39Z",
+ "updated": "2026-10-24T04:18:20Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -14,6 +14,14 @@
    "date": "2026-10-23T18:49:00Z",
    "snippet": "Over the past year, Tesla has gradually hiked Supercharger pricing by up to 15% for both non-Tesla EVs and Tesla owners using the network Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/0x0-supercharger_14.jpg/a0c5259bed4099042b58d2c7c20b40ec/0x0-supercharger_14.jpg"
+  },
+  {
+   "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/813113/tesla-cybertruck-australia-canceled/",
+   "date": "2026-10-23T17:13:54Z",
+   "snippet": "The company has been taking deposits for seven years. But it just told reservation holders that plans have changed.",
+   "image": "https://cdn.motor1.com/images/mgl/Oo2OER/s3/tesla-cybertruck.jpg"
   },
   {
    "title": "Tesla reveals Optimus Academy, where robots teach themselves",
@@ -94,14 +102,6 @@
    "date": "2026-10-22T20:35:10Z",
    "snippet": "Its next-generation EVs will offer security camera functionality and autonomous driving. But its gas SUVs won’t get left behind.",
    "image": "https://cdn.motor1.com/images/mgl/nA80Gx/s3/cadillac-lyriq---inline.jpg"
-  },
-  {
-   "title": "Tesla now says it needs its own maps for FSD after years of dismissing maps",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/22/tesla-building-own-maps-fsd-after-mocking-maps/",
-   "date": "2026-10-22T20:03:18Z",
-   "snippet": "Tesla says it’s building its own maps to fix some of the most common problems with its “Full Self-Driving” system, including reading speed limits, parking, and choosing routes…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/11/Tesla-Software-Update-Interior-2.0.jpg?quality=82&#038;strip=all&#038;w=1400"
   }
  ]
 }
