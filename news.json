@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:18:20Z",
+ "updated": "2026-10-24T08:17:17Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla shows what Roadster drivers will see on screen before thruster activation",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-roadster-center-display-ui-ux/",
+   "date": "2026-10-24T05:05:40Z",
+   "snippet": "Tesla's Roadster video reveals a fighter jet inspired cockpit with a 5,500 PSI thruster gauge. The post Tesla shows what Roadster drivers will see on screen before thruster…",
+   "image": null
+  },
   {
    "title": "Tesla Supercharger Prices Are Up 15% in the Last Year",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-10-22T21:14:16Z",
    "snippet": "Tesla revealed plans to develop its own maps internally to fix Navigation issues and give owners more control over their routing. On the company’s Q3 2026 Earnings Call, a…",
    "image": null
-  },
-  {
-   "title": "‘Propulsion-Agnostic’: GM Wants To Bring Tesla-Style Software Features To Its Gas SUVs, Too",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/features/812982/gm-software-platform-powertrain-agnostic/",
-   "date": "2026-10-22T20:35:10Z",
-   "snippet": "Its next-generation EVs will offer security camera functionality and autonomous driving. But its gas SUVs won’t get left behind.",
-   "image": "https://cdn.motor1.com/images/mgl/nA80Gx/s3/cadillac-lyriq---inline.jpg"
   }
  ]
 }
