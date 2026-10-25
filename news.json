@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T08:17:17Z",
+ "updated": "2026-10-25T00:13:29Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,46 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "NHTSA Proposes Cyan Lights for Driverless Cars Like Cybercab",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4892/nhtsa-proposes-cyan-lights-for-driverless-cars-like-cybercab",
+   "date": "2026-10-24T23:23:00Z",
+   "snippet": "NHTSA’s FMVSS 108 proposal adds optional cyan ADS marker lamps and drops manual lighting controls for autonomous vehicles without steering wheels or pedals Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-with-cyan-adas-indicator-lights.webp/ed3b93f389724812e7db22f022f4210a/cybercab-with-cyan-adas-indicator-lights.jpg"
+  },
+  {
+   "title": "New Tesla Roadster Now on Display at LA’s Petersen Museum",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4891/new-tesla-roadster-now-on-display-at-las-petersen-museum",
+   "date": "2026-10-24T21:53:00Z",
+   "snippet": "Tesla’s Roadster Thrust prototype is on display at LA’s Petersen Automotive Museum through Oct. 27, but visitors can only look, not touch. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/roadster/roadster-display-petersen-museum.webp/726250baded438fcd0e8b03f96833fab/roadster-display-petersen-museum.jpg"
+  },
+  {
+   "title": "Intel to Make Mystery Chip for Tesla: AI6 or Something New?",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4887/intel-to-make-mystery-chip-for-tesla-ai6-or-something-new",
+   "date": "2026-10-24T20:34:00Z",
+   "snippet": "Tesla signed on as an Intel 14A foundry customer, but the chip remains a mystery, with AI6 and extra AI5 capacity among the likely suspects Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/intel-hero-image-2.webp/8abdb1784278743f1233a147c6aeb66f/intel-hero-image-2.jpg"
+  },
+  {
+   "title": "Tesla Updates App Again, Introduces Fixes to iPad, iPhone Duo and Android Foldables",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.3/release-notes",
+   "date": "2026-10-24T16:59:00Z",
+   "snippet": "We take a look at the release notes and what's new in Tesla app update 4.62.3. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-ipad.webp/52e95675e7b7dc44df98d1d48eb4436c/tesla-app-ipad.jpg"
+  },
+  {
+   "title": "Tesla FSD v14.3.13 & FSD v14.3 Lite Release Notes (Update 2026.38.5.10)",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/software-updates/version/2026.38.5.11/release-notes",
+   "date": "2026-10-24T08:45:06Z",
+   "snippet": "We take a look at the release notes and what's new in Tesla update 2026.38.5.11. Read More",
+   "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.38/halloween-mode.png/3cedbc726c03ff2dc630ce76a946cb5a/halloween-mode.jpg"
+  },
   {
    "title": "Tesla shows what Roadster drivers will see on screen before thruster activation",
    "source": "Teslarati",
@@ -62,46 +102,6 @@
    "date": "2026-10-23T14:35:37Z",
    "snippet": "Tesla has officially cancelled the Cybertruck for Australia and New Zealand. Reservation holders are getting emails today telling them their orders are void and their deposits…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-prices-2025-Cybertruck.jpg?quality=82&#038;strip=all&#038;w=1400"
-  },
-  {
-   "title": "Tesla’s $10B solar factory could get 35 years of tax breaks in Texas",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/",
-   "date": "2026-10-23T14:25:54Z",
-   "snippet": "Tesla’s proposed $10 billion “Project Crystal Sun” solar factory in Texas could get up to 35 years of local tax breaks on its equipment, according to the four agreements Fort Bend…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/Tesla-solar-panels.jpeg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla App Update 4.62: iPad Support, FSD Referral Rewards, X Money Support and More",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.0/release-notes",
-   "date": "2026-10-23T09:35:00Z",
-   "snippet": "We take a look at the release notes and what's new in Tesla app update 4.62.0. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-for-tablets-and-foldables-1.webp/e835eb156b0e9c11ddff5a35f89b4157/tesla-app-for-tablets-and-foldables-1.jpg"
-  },
-  {
-   "title": "Tesla’s secretive “Project Crystal Sun” gets a big green light in Texas",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-project-crystal-sun-texas-approval/",
-   "date": "2026-10-22T22:26:20Z",
-   "snippet": "Fort Bend County approved four incentive agreements Thursday for Tesla's proposed $10.1 billion solar factory. The post Tesla’s secretive “Project Crystal Sun” gets a big green…",
-   "image": null
-  },
-  {
-   "title": "Tesla skipped the most important shareholder question on its earnings call",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/22/tesla-skipped-hw3-shareholder-question-earnings-call/",
-   "date": "2026-10-22T21:23:05Z",
-   "snippet": "Tesla skipped one of its top shareholder questions on its Q3 2026 earnings call: when Hardware 3 owners will find out if they get a free computer upgrade for the unsupervised…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-HW3-overheat-fsd-v14-lite.jpeg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla is building its own maps to fix Navigation issues",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-building-its-own-maps-fix-navigation-issues/",
-   "date": "2026-10-22T21:14:16Z",
-   "snippet": "Tesla revealed plans to develop its own maps internally to fix Navigation issues and give owners more control over their routing. On the company’s Q3 2026 Earnings Call, a…",
-   "image": null
   }
  ]
 }
