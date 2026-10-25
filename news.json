@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T00:13:29Z",
+ "updated": "2026-10-25T16:16:49Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla makes good on its Cybercab promise in just two weeks",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-cybercab-rear-view-camera/",
+   "date": "2026-10-25T14:34:00Z",
+   "snippet": "Tesla Cybercab riders can now pull up a rear camera view and darken the screen. The post Tesla makes good on its Cybercab promise in just two weeks appeared first on TESLARATI .",
+   "image": null
+  },
   {
    "title": "NHTSA Proposes Cyan Lights for Driverless Cars Like Cybercab",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-10-23T15:31:00Z",
    "snippet": "Unsupervised FSD could reach the first customer Teslas around Q2 2027, letting owners add their cars to the Robotaxi network within Tesla’s geofences. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-ocean.webp/7582eb2cd0bf68072ef737ca89472885/fsd-ocean.jpg"
-  },
-  {
-   "title": "Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
-   "date": "2026-10-23T14:35:37Z",
-   "snippet": "Tesla has officially cancelled the Cybertruck for Australia and New Zealand. Reservation holders are getting emails today telling them their orders are void and their deposits…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2025/05/Tesla-prices-2025-Cybertruck.jpg?quality=82&#038;strip=all&#038;w=1400"
   }
  ]
 }
