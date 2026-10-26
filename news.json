@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T16:38:08Z",
+ "updated": "2026-10-26T20:20:52Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla makes another joke of its Robotaxi geofence expansion",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/26/tesla-robotaxi-houston-geofence-expansion-shape/",
+   "date": "2026-10-26T17:23:44Z",
+   "snippet": "Tesla expanded its Robotaxi service area in Houston today, and it shaped the new geofence like a rocket. Plenty of people on X see something else in it, which is fair given the…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-robotaxi-houston-geofence-rocket-map.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
   {
    "title": "Tesla turns to car rental platform Turo for Full Self-Driving test drives",
    "source": "Electrek",
@@ -94,14 +102,6 @@
    "date": "2026-10-24T21:53:00Z",
    "snippet": "Tesla’s Roadster Thrust prototype is on display at LA’s Petersen Automotive Museum through Oct. 27, but visitors can only look, not touch. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/roadster/roadster-display-petersen-museum.webp/726250baded438fcd0e8b03f96833fab/roadster-display-petersen-museum.jpg"
-  },
-  {
-   "title": "Intel to Make Mystery Chip for Tesla: AI6 or Something New?",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4887/intel-to-make-mystery-chip-for-tesla-ai6-or-something-new",
-   "date": "2026-10-24T20:34:00Z",
-   "snippet": "Tesla signed on as an Intel 14A foundry customer, but the chip remains a mystery, with AI6 and extra AI5 capacity among the likely suspects Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/intel-hero-image-2.webp/8abdb1784278743f1233a147c6aeb66f/intel-hero-image-2.jpg"
   }
  ]
 }
