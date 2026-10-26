@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T14:18:11Z",
+ "updated": "2026-10-26T16:38:08Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,38 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla turns to car rental platform Turo for Full Self-Driving test drives",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/26/tesla-turo-full-self-driving-test-drives/",
+   "date": "2026-10-26T16:22:31Z",
+   "snippet": "Turo will soon let US renters search specifically for Teslas with “Full Self-Driving” (Supervised) turned on, using a direct integration with Tesla to verify each car’s FSD…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla Assisted Driving expands to tenth EU country",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-expands-fsd-tad-tenth-eu-country/",
+   "date": "2026-10-26T15:48:45Z",
+   "snippet": "Tesla has expanded its Tesla Assisted Driving (TAD) suite to its tenth European country, as Latvia joined a growing list of European Union member states authorizing the company’s…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
+  {
+   "title": "Tesla expands Robotaxi geofence in Houston with an ode to SpaceX merger",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-expands-robotaxi-geofence-houston-spacex/",
+   "date": "2026-10-26T15:02:45Z",
+   "snippet": "Tesla expanded its Robotaxi geofence in Houston, Texas, today, enlarging the service area and drawing a new rocket-shaped boundary across the city’s northwestern and central…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
+  {
+   "title": "Tesla Robotaxi App Now Supports iPad, iPhone Duo and Improved Live Activities",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4896/tesla-adds-ipad-iphone-duo-support-to-robotaxi-app",
+   "date": "2026-10-26T14:58:00Z",
+   "snippet": "Robotaxi app version 26.10.3 adds a dedicated big-screen layout and Live Activities that glow the same color as your Cybercab’s front light bar Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-app/robotaxi-app-update.webp/7493f533a9cb0c60df38c71af812d248/robotaxi-app-update.jpg"
+  },
   {
    "title": "Tesla and SpaceX Form Special Committees to Discuss Potential Merger",
    "source": "Not a Tesla App",
@@ -70,38 +102,6 @@
    "date": "2026-10-24T20:34:00Z",
    "snippet": "Tesla signed on as an Intel 14A foundry customer, but the chip remains a mystery, with AI6 and extra AI5 capacity among the likely suspects Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/intel-hero-image-2.webp/8abdb1784278743f1233a147c6aeb66f/intel-hero-image-2.jpg"
-  },
-  {
-   "title": "Tesla Updates App Again, Introduces Fixes to iPad, iPhone Duo and Android Foldables",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.3/release-notes",
-   "date": "2026-10-24T16:59:00Z",
-   "snippet": "We take a look at the release notes and what's new in Tesla app update 4.62.3. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-ipad.webp/52e95675e7b7dc44df98d1d48eb4436c/tesla-app-ipad.jpg"
-  },
-  {
-   "title": "Tesla FSD v14.3.13 & FSD v14.3 Lite Release Notes (Update 2026.38.5.10)",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/software-updates/version/2026.38.5.11/release-notes",
-   "date": "2026-10-24T08:45:06Z",
-   "snippet": "We take a look at the release notes and what's new in Tesla update 2026.38.5.11. Read More",
-   "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.38/halloween-mode.png/3cedbc726c03ff2dc630ce76a946cb5a/halloween-mode.jpg"
-  },
-  {
-   "title": "Tesla shows what Roadster drivers will see on screen before thruster activation",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-roadster-center-display-ui-ux/",
-   "date": "2026-10-24T05:05:40Z",
-   "snippet": "Tesla's Roadster video reveals a fighter jet inspired cockpit with a 5,500 PSI thruster gauge. The post Tesla shows what Roadster drivers will see on screen before thruster…",
-   "image": null
-  },
-  {
-   "title": "Tesla Supercharger Prices Are Up 15% in the Last Year",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4885/tesla-supercharger-prices-are-up-15-in-the-last-year",
-   "date": "2026-10-23T18:49:00Z",
-   "snippet": "Over the past year, Tesla has gradually hiked Supercharger pricing by up to 15% for both non-Tesla EVs and Tesla owners using the network Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/charging/0x0-supercharger_14.jpg/a0c5259bed4099042b58d2c7c20b40ec/0x0-supercharger_14.jpg"
   }
  ]
 }
