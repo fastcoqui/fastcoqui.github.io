@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:34:43Z",
+ "updated": "2026-10-26T14:18:11Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla and SpaceX Form Special Committees to Discuss Potential Merger",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4899/tesla-and-spacex-form-special-committees-to-discuss-potential-merger",
+   "date": "2026-10-26T14:02:00Z",
+   "snippet": "Elon Musk says a merger would be a good idea, but independent directors will lead the talks, and Tesla shareholders face a high bar to approve any deal. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-5-1784820303.webp/07156b07bf6de17ed491cd3017d70c5e/spacex-5-1784820303.jpg"
+  },
+  {
+   "title": "Tesla App Lead Talks Upcoming Features: Mac App, More Vehicle Controls and Immersive Powerwall View",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4897/tesla-app-lead-talks-upcoming-features-mac-app-more-vehicle-controls-and-immersive-powerwall-view",
+   "date": "2026-10-26T13:18:00Z",
+   "snippet": "Tesla app lead Alex Guichet says the goal is to make the app feel like your car’s screen, with an immersive Powerwall view coming soon and a Mac app on the list. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-no-controls.webp/0957b2f7636443d9ae3e676baa625c23/tesla-app-no-controls.jpg"
+  },
   {
    "title": "Tesla Cybercabs take over Austin’s F1 weekend",
    "source": "Teslarati",
@@ -86,22 +102,6 @@
    "date": "2026-10-23T18:49:00Z",
    "snippet": "Over the past year, Tesla has gradually hiked Supercharger pricing by up to 15% for both non-Tesla EVs and Tesla owners using the network Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/0x0-supercharger_14.jpg/a0c5259bed4099042b58d2c7c20b40ec/0x0-supercharger_14.jpg"
-  },
-  {
-   "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/813113/tesla-cybertruck-australia-canceled/",
-   "date": "2026-10-23T17:13:54Z",
-   "snippet": "The company has been taking deposits for seven years. But it just told reservation holders that plans have changed.",
-   "image": "https://cdn.motor1.com/images/mgl/Oo2OER/s3/tesla-cybertruck.jpg"
-  },
-  {
-   "title": "Tesla reveals Optimus Academy, where robots teach themselves",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-reveals-optimus-academy-where-robots-teach-themselves/",
-   "date": "2026-10-23T17:11:56Z",
-   "snippet": "Tesla has begun building production quality Optimus robots in Fremont and revealed its training plan. The post Tesla reveals Optimus Academy, where robots teach themselves…",
-   "image": null
   }
  ]
 }
