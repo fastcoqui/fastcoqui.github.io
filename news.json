@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T08:30:18Z",
+ "updated": "2026-10-27T16:37:27Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,38 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Korean police book 80 Tesla drivers over illegal FSD unlock devices",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/27/tesla-fsd-south-korea-police-80-illegal-unlock-devices/",
+   "date": "2026-10-27T15:43:32Z",
+   "snippet": "Seoul police have booked 80 people for using aftermarket devices to switch on Tesla’s “Full Self-Driving” in cars that aren’t allowed to run it in South Korea. Officers also…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2022/04/Tesla-Full-Self-Driving-ad-e1650418988158.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla’s Optimus Robot Will Soon Plug In Robotaxis to Charge",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4904/teslas-optimus-robot-will-soon-plug-in-robotaxis-to-charge",
+   "date": "2026-10-27T15:25:00Z",
+   "snippet": "Tesla execs say Optimus will plug in Robotaxis at Superchargers as a stopgap until wireless inductive charging is ready for the fleet Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/optimus-charging-cybercab-supercharger-render-watermarked.webp/effe3d3faea78b6ec25c80b4c2a32a19/optimus-charging-cybercab-supercharger-render-watermarked.jpg"
+  },
+  {
+   "title": "Tesla Cybercab’s unorthodox paint process explained",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-cybercab-unorthodox-paint-process-explained/",
+   "date": "2026-10-27T14:42:53Z",
+   "snippet": "Tesla Cybercab skips the traditional paint shop entirely, marking an unorthodox process for coloring the fully autonomous vehicle. However, the decision was a smart one, as it…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
+  {
+   "title": "Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/27/musk-robotaxi-victory-waymo-austin-miles/",
+   "date": "2026-10-27T14:21:45Z",
+   "snippet": "Elon Musk says Tesla’s Robotaxi race against Waymo “was never a real contest” after Tesla’s driverless fleet logged 438,000 miles in Austin in a single week, edging past Waymo’s…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/image_9eb965.png?w=1600"
+  },
   {
    "title": "Tesla has a Cybercab problem nobody saw coming",
    "source": "Teslarati",
@@ -70,38 +102,6 @@
    "date": "2026-10-26T16:22:31Z",
    "snippet": "Turo will soon let US renters search specifically for Teslas with “Full Self-Driving” (Supervised) turned on, using a direct integration with Tesla to verify each car’s FSD…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Assisted Driving expands to tenth EU country",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-expands-fsd-tad-tenth-eu-country/",
-   "date": "2026-10-26T15:48:45Z",
-   "snippet": "Tesla has expanded its Tesla Assisted Driving (TAD) suite to its tenth European country, as Latvia joined a growing list of European Union member states authorizing the company’s…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
-  },
-  {
-   "title": "Tesla expands Robotaxi geofence in Houston with an ode to SpaceX merger",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-expands-robotaxi-geofence-houston-spacex/",
-   "date": "2026-10-26T15:02:45Z",
-   "snippet": "Tesla expanded its Robotaxi geofence in Houston, Texas, today, enlarging the service area and drawing a new rocket-shaped boundary across the city’s northwestern and central…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
-  },
-  {
-   "title": "Tesla Robotaxi App Now Supports iPad, iPhone Duo and Improved Live Activities",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4896/tesla-adds-ipad-iphone-duo-support-to-robotaxi-app",
-   "date": "2026-10-26T14:58:00Z",
-   "snippet": "Robotaxi app version 26.10.3 adds a dedicated big-screen layout and Live Activities that glow the same color as your Cybercab’s front light bar Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-app/robotaxi-app-update.webp/7493f533a9cb0c60df38c71af812d248/robotaxi-app-update.jpg"
-  },
-  {
-   "title": "Tesla and SpaceX Form Special Committees to Discuss Potential Merger",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4899/tesla-and-spacex-form-special-committees-to-discuss-potential-merger",
-   "date": "2026-10-26T14:02:00Z",
-   "snippet": "Elon Musk says a merger would be a good idea, but independent directors will lead the talks, and Tesla shareholders face a high bar to approve any deal. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-5-1784820303.webp/07156b07bf6de17ed491cd3017d70c5e/spacex-5-1784820303.jpg"
   }
  ]
 }
