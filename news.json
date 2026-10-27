@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T16:37:27Z",
+ "updated": "2026-10-27T20:26:06Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Goodbye AI4, Hello SI4: Tesla Renames Its FSD Computers",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4910/goodbye-ai4-hello-si4-tesla-renames-its-fsd-computers",
+   "date": "2026-10-27T20:16:00Z",
+   "snippet": "Tesla’s owner’s manuals now say SI Computer instead of FSD Computer, hinting AI4 will become SI4 and AI5 could launch as SI5 Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/ai5-chip-design.webp/9cc7cffa08cedadec4f37dc7238d978e/ai5-chip-design.jpg"
+  },
+  {
+   "title": "Tesla App to Add X Money Support for Payments",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4907/tesla-app-to-add-x-money-support-for-payments",
+   "date": "2026-10-27T17:56:00Z",
+   "snippet": "Tesla app version 4.62.0 includes code for X Money support, letting owners pay for Supercharging, FSD, and Tesla Shop items through X’s payment platform Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-app-x-money-support-render.png/5b74cea645d45ff3d20bbc2abed1e874/tesla-app-x-money-support-render.jpg"
+  },
+  {
+   "title": "Tesla App Code Reveals FSD Referral Rewards Are Coming",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4905/tesla-app-code-reveals-fsd-referral-rewards-are-coming",
+   "date": "2026-10-27T16:55:00Z",
+   "snippet": "Tesla app 4.62 includes code for FSD referral rewards, letting owners earn free FSD time for any vehicle on their account when they bring on other subscribers Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_giftcard-1790711572.jpg/2007acb44a5e2531b9b75042b4a2ae2c/fsd_giftcard-1790711572.jpg"
+  },
   {
    "title": "Korean police book 80 Tesla drivers over illegal FSD unlock devices",
    "source": "Electrek",
@@ -40,6 +64,14 @@
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/image_9eb965.png?w=1600"
   },
   {
+   "title": "This Cheap Tesla Model S With 135,000 Miles Has A Surprising Amount Of Range Left",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/reviews/813410/tesla-model-s-used-emunds/",
+   "date": "2026-10-27T13:49:15Z",
+   "snippet": "After 135,000 miles, Edmunds’ cheap used Model S still has useful range and enough performance to make it look tempting.",
+   "image": "https://cdn.motor1.com/images/mgl/ZnlQE3/s3/model-s.jpg"
+  },
+  {
    "title": "Tesla has a Cybercab problem nobody saw coming",
    "source": "Teslarati",
    "link": "https://www.teslarati.com/tesla-has-a-cybercab-problem-nobody-saw-coming/",
@@ -48,7 +80,7 @@
    "image": null
   },
   {
-   "title": "Tesla Designed The Cybercab To Use LFP Cells In The Future",
+   "title": "Tesla Designed The Cybercab To Use LFP Batteries In The Future",
    "source": "InsideEVs",
    "link": "https://insideevs.com/news/813324/tesla-cybercab-lfp-battery-chemistry/",
    "date": "2026-10-27T00:13:08Z",
@@ -70,38 +102,6 @@
    "date": "2026-10-26T21:42:00Z",
    "snippet": "Tesla Europe says FSD is approved in Latvia with a rollout coming soon, making it the 10th EU country and 18th market worldwide to approve it. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-approval-in-latvia.webp/ad9676a1d805559b4f7b8db321d455c2/fsd-approval-in-latvia.jpg"
-  },
-  {
-   "title": "Tesla appears to be preparing to sell US-built Model 3s in Canada again",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/26/tesla-us-built-model-3-canada-return-584-km/",
-   "date": "2026-10-26T21:18:39Z",
-   "snippet": "Tesla Canada has updated the Model 3 Premium Rear-Wheel Drive on its website with 584 km of range and a 0-100 km/h time of 5.2 seconds. Those are the exact specs of the…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Model-3.jpeg?quality=82&#038;strip=all&#038;w=1400"
-  },
-  {
-   "title": "Tesla And Turo Have A New Way To Get People Hooked On FSD",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/813307/tesla-turo-fsd-tie-up/",
-   "date": "2026-10-26T19:24:29Z",
-   "snippet": "Turo hosts will soon be able to link their Tesla account to confirm to renters which cars have FSD enabled.",
-   "image": "https://cdn.motor1.com/images/mgl/eozkBp/s3/2026-insideevs-breakthrough-awards-editor-s-choice-tesla-model-y.jpg"
-  },
-  {
-   "title": "Tesla makes another joke of its Robotaxi geofence expansion",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/26/tesla-robotaxi-houston-geofence-expansion-shape/",
-   "date": "2026-10-26T17:23:44Z",
-   "snippet": "Tesla expanded its Robotaxi service area in Houston today, and it shaped the new geofence like a rocket. Plenty of people on X see something else in it, which is fair given the…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-robotaxi-houston-geofence-rocket-map.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla turns to car rental platform Turo for Full Self-Driving test drives",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/26/tesla-turo-full-self-driving-test-drives/",
-   "date": "2026-10-26T16:22:31Z",
-   "snippet": "Turo will soon let US renters search specifically for Teslas with “Full Self-Driving” (Supervised) turned on, using a direct integration with Tesla to verify each car’s FSD…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600"
   }
  ]
 }
