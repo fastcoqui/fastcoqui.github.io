@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T04:23:44Z",
+ "updated": "2026-10-27T08:30:18Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla has a Cybercab problem nobody saw coming",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-has-a-cybercab-problem-nobody-saw-coming/",
+   "date": "2026-10-27T04:49:20Z",
+   "snippet": "Tesla’s Cybercab line now builds robotaxis faster than Tesla can deploy them, Lars Moravy says. The post Tesla has a Cybercab problem nobody saw coming appeared first on TESLARATI…",
+   "image": null
+  },
+  {
+   "title": "Tesla Designed The Cybercab To Use LFP Cells In The Future",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/813324/tesla-cybercab-lfp-battery-chemistry/",
+   "date": "2026-10-27T00:13:08Z",
+   "snippet": "Tesla purposely built the Cybercab's battery pack with future LFP chemistry in mind.",
+   "image": "https://cdn.motor1.com/images/mgl/ko8oyn/s3/tesla-cybercab-unboxed-production-line.jpg"
+  },
   {
    "title": "Tesla’s New Houston Robotaxi Area Is Shaped Like a Rocket",
    "source": "Not a Tesla App",
@@ -86,22 +102,6 @@
    "date": "2026-10-26T14:02:00Z",
    "snippet": "Elon Musk says a merger would be a good idea, but independent directors will lead the talks, and Tesla shareholders face a high bar to approve any deal. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/spacex/spacex-5-1784820303.webp/07156b07bf6de17ed491cd3017d70c5e/spacex-5-1784820303.jpg"
-  },
-  {
-   "title": "Tesla App Lead Talks Upcoming Features: Mac App, More Vehicle Controls and Immersive Powerwall View",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4897/tesla-app-lead-talks-upcoming-features-mac-app-more-vehicle-controls-and-immersive-powerwall-view",
-   "date": "2026-10-26T13:18:00Z",
-   "snippet": "Tesla app lead Alex Guichet says the goal is to make the app feel like your car’s screen, with an immersive Powerwall view coming soon and a Mac app on the list. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-no-controls.webp/0957b2f7636443d9ae3e676baa625c23/tesla-app-no-controls.jpg"
-  },
-  {
-   "title": "Tesla Cybercabs take over Austin’s F1 weekend",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-cybercabs-take-over-austins-f1-weekend/",
-   "date": "2026-10-26T05:04:23Z",
-   "snippet": "Tesla Cybercabs swarmed Austin's F1 Grand Prix as sightings hit a record during race weekend. The post Tesla Cybercabs take over Austin’s F1 weekend appeared first on TESLARATI .",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f929.png"
   }
  ]
 }
