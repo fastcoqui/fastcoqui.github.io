@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T00:20:31Z",
+ "updated": "2026-10-27T04:23:44Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -30,6 +30,14 @@
    "date": "2026-10-26T21:18:39Z",
    "snippet": "Tesla Canada has updated the Model 3 Premium Rear-Wheel Drive on its website with 584 km of range and a 0-100 km/h time of 5.2 seconds. Those are the exact specs of the…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Model-3.jpeg?quality=82&#038;strip=all&#038;w=1400"
+  },
+  {
+   "title": "Tesla And Turo Have A New Way To Get People Hooked On FSD",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/813307/tesla-turo-fsd-tie-up/",
+   "date": "2026-10-26T19:24:29Z",
+   "snippet": "Turo hosts will soon be able to link their Tesla account to confirm to renters which cars have FSD enabled.",
+   "image": "https://cdn.motor1.com/images/mgl/eozkBp/s3/2026-insideevs-breakthrough-awards-editor-s-choice-tesla-model-y.jpg"
   },
   {
    "title": "Tesla makes another joke of its Robotaxi geofence expansion",
@@ -94,14 +102,6 @@
    "date": "2026-10-26T05:04:23Z",
    "snippet": "Tesla Cybercabs swarmed Austin's F1 Grand Prix as sightings hit a record during race weekend. The post Tesla Cybercabs take over Austin’s F1 weekend appeared first on TESLARATI .",
    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f929.png"
-  },
-  {
-   "title": "First Look at Tesla's Roadster New User Interface [VIDEO]",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4894/tesla-shows-off-new-roadsters-fighter-jet-inspired-ui-video",
-   "date": "2026-10-25T19:28:00Z",
-   "snippet": "Tesla’s red, fighter jet-inspired Roadster UI highlights active aero, thrusters, and the battery as you adjust them, with a full Track Mode dashboard Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/roadster/new-tesla-roadster-ui-1.png/3fbf39347734365424e8044981ad9b43/new-tesla-roadster-ui-1.jpg"
   }
  ]
 }
