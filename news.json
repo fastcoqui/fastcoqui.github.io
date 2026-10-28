@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T20:26:06Z",
+ "updated": "2026-10-28T00:27:10Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla's Cybercab Fixes A Big Repairability Problem With Its Structural Batteries",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/813446/tesla-cybercab-battery-pack-modules-model-y-structural/",
+   "date": "2026-10-27T20:30:45Z",
+   "snippet": "Tesla gave the Model Y's structural battery pack a \"D\" grade. It says the Cybercab's pack is easier to make and more repairable.",
+   "image": "https://cdn.motor1.com/images/mgl/xqKyJ6/s3/il-tesla-cybercab-visto-dal-vivo.jpg"
+  },
   {
    "title": "Goodbye AI4, Hello SI4: Tesla Renames Its FSD Computers",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-10-26T23:32:00Z",
    "snippet": "Tesla’s Houston Robotaxi geofence jumped from 25 to 254 square miles, covering 1.3 million residents and growing to about five times Waymo’s area Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-app/robotaxi-houston-geofence-10-26-26-1793054085.webp/186b1e48dd58156e129fe1cdb6615ee3/robotaxi-houston-geofence-10-26-26-1793054085.jpg"
-  },
-  {
-   "title": "Latvia Becomes 10th EU Country to Approve Tesla FSD",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4902/latvia-becomes-10th-eu-country-to-approve-tesla-fsd",
-   "date": "2026-10-26T21:42:00Z",
-   "snippet": "Tesla Europe says FSD is approved in Latvia with a rollout coming soon, making it the 10th EU country and 18th market worldwide to approve it. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-approval-in-latvia.webp/ad9676a1d805559b4f7b8db321d455c2/fsd-approval-in-latvia.jpg"
   }
  ]
 }
