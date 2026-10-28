@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T16:38:29Z",
+ "updated": "2026-10-28T20:28:46Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Considered Other Innovative Ways to Color the Cybercab",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4914/tesla-considered-other-innovative-ways-to-color-the-cybercab",
+   "date": "2026-10-28T20:00:00Z",
+   "snippet": "Tesla tried in-mold lamination and film-over-panel options before choosing color-infused plastic panels so the Cybercab could skip paint entirely Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-cybercab-manufacturing-process-factory.webp/5f3444419d86b378bc58eb8a6985a55d/tesla-cybercab-manufacturing-process-factory.jpg"
+  },
+  {
+   "title": "South Korean Police Are Cracking Down On Tesla Owners Jailbreaking FSD",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/813617/korea-tesla-fsd-jailbreak-arrests/",
+   "date": "2026-10-28T18:00:06Z",
+   "snippet": "Only U.S.-built Teslas get FSD, so Korean owners of Chinese-built Teslas are illegally unlocking it.",
+   "image": "https://cdn.motor1.com/images/mgl/E6YrxB/s3/2026-tesla-model-y-standard.jpg"
+  },
+  {
+   "title": "Tesla Semi catches fire in California: what we know",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-semi-catches-fire-california-what-we-know/",
+   "date": "2026-10-28T17:36:38Z",
+   "snippet": "A Tesla Semi caught fire in Hayward, California, which caused both directions of traffic to shut down for hours before being completely reopened early on Wednesday, the California…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
   {
    "title": "Tesla Semi Catches Fire on the Highway [VIDEOS]",
    "source": "Not a Tesla App",
@@ -78,30 +102,6 @@
    "date": "2026-10-28T05:15:28Z",
    "snippet": "Tesla built the Cybercab's battery pack with spare room for a future switch to LFP. The post Tesla’s Cybercab battery design could make robotaxis even cheaper appeared first on…",
    "image": null
-  },
-  {
-   "title": "The Tesla Model Y's Structural Battery Was Nearly Impossible To Repair. The Cybercab Fixes That",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/813446/tesla-cybercab-battery-pack-modules-model-y-structural/",
-   "date": "2026-10-27T20:30:45Z",
-   "snippet": "Tesla gave the Model Y's structural battery pack a \"D\" grade. It says the Cybercab's pack is easier to make and more repairable.",
-   "image": "https://cdn.motor1.com/images/mgl/xqKyJ6/s3/il-tesla-cybercab-visto-dal-vivo.jpg"
-  },
-  {
-   "title": "Goodbye AI4, Hello SI4: Tesla Renames Its FSD Computers",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4910/goodbye-ai4-hello-si4-tesla-renames-its-fsd-computers",
-   "date": "2026-10-27T20:16:00Z",
-   "snippet": "Tesla’s owner’s manuals now say SI Computer instead of FSD Computer, hinting AI4 will become SI4 and AI5 could launch as SI5 Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/ai5-chip-design.webp/9cc7cffa08cedadec4f37dc7238d978e/ai5-chip-design.jpg"
-  },
-  {
-   "title": "Tesla App to Add X Money Support for Payments",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4907/tesla-app-to-add-x-money-support-for-payments",
-   "date": "2026-10-27T17:56:00Z",
-   "snippet": "Tesla app version 4.62.0 includes code for X Money support, letting owners pay for Supercharging, FSD, and Tesla Shop items through X’s payment platform Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-app-x-money-support-render.png/5b74cea645d45ff3d20bbc2abed1e874/tesla-app-x-money-support-render.jpg"
   }
  ]
 }
