@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T04:30:38Z",
+ "updated": "2026-10-28T08:37:35Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla’s Cybercab battery design could make robotaxis even cheaper",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-cybercab-battery-pack-design-structure/",
+   "date": "2026-10-28T05:15:28Z",
+   "snippet": "Tesla built the Cybercab's battery pack with spare room for a future switch to LFP. The post Tesla’s Cybercab battery design could make robotaxis even cheaper appeared first on…",
+   "image": null
+  },
   {
    "title": "The Tesla Model Y's Structural Battery Was Nearly Impossible To Repair. The Cybercab Fixes That",
    "source": "InsideEVs",
@@ -94,14 +102,6 @@
    "date": "2026-10-27T00:13:08Z",
    "snippet": "Tesla purposely built the Cybercab's battery pack with future LFP chemistry in mind.",
    "image": "https://cdn.motor1.com/images/mgl/ko8oyn/s3/tesla-cybercab-unboxed-production-line.jpg"
-  },
-  {
-   "title": "Tesla’s New Houston Robotaxi Area Is Shaped Like a Rocket",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4903/teslas-new-houston-robotaxi-area-is-shaped-like-a-rocket",
-   "date": "2026-10-26T23:32:00Z",
-   "snippet": "Tesla’s Houston Robotaxi geofence jumped from 25 to 254 square miles, covering 1.3 million residents and growing to about five times Waymo’s area Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-app/robotaxi-houston-geofence-10-26-26-1793054085.webp/186b1e48dd58156e129fe1cdb6615ee3/robotaxi-houston-geofence-10-26-26-1793054085.jpg"
   }
  ]
 }
