@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T08:40:36Z",
+ "updated": "2026-10-29T16:40:06Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Breaks Compatibility With Third-Party V2L Devices",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4916/tesla-breaks-compatibility-with-third-party-v2l-devices",
+   "date": "2026-10-29T16:17:00Z",
+   "snippet": "Third-party V2L adapters now shut off within minutes on software version 2026.38.5.1 and later, ending a workaround owners have used for years Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/myp-v2l.webp/292d8ce0d52dad773c5fc0112e625046/myp-v2l.jpg"
+  },
+  {
+   "title": "Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/10/29/ex-tesla-autopilot-head-vision-only-weird-religious-stance/",
+   "date": "2026-10-29T16:10:00Z",
+   "snippet": "GM Chief Product Officer Sterling Anderson, who ran Tesla’s Autopilot program in 2015 and 2016, says dropping radar for a camera-only self-driving system is “a weird religious…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Night-Street_-Camera-vs-Lidar.png?w=1600"
+  },
+  {
+   "title": "Tesla FSD Is Hitting Europe. It's Not Perfect",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/813661/tesla-full-self-driving-bratislava/",
+   "date": "2026-10-29T09:31:24Z",
+   "snippet": "Steep hills and tight gaps showed what FSD can do. Missed signs and driver takeovers showed how much supervision it still needs.",
+   "image": "https://cdn.motor1.com/images/mgl/Rqbr9K/s3/fsd-bratislava.jpg"
+  },
   {
    "title": "Tesla’s Roadster appearance at SpaceX has merger watchers talking",
    "source": "Teslarati",
@@ -78,30 +102,6 @@
    "date": "2026-10-28T14:28:21Z",
    "snippet": "Tesla has started hiring in Vietnam, and one of its recruiters says the company is now “officially coming” to the country. The five open roles include a sales manager, a service…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-Vietnam.jpeg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Ford casts 5,000 ‘unicastings’ for Fathom EV truck in Tesla-style shift",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/28/ford-fathom-5000-unicastings-tesla-giga-press/",
-   "date": "2026-10-28T13:56:15Z",
-   "snippet": "Ford has now produced more than 5,000 large aluminum “unicastings” for the Fathom, its upcoming $28,350 midsize electric pickup, as it fine-tunes the process ahead of a 2027…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/ford-fathom-unicasting-inspection.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Semi catches fire on I-880 with no crash, closes freeway for 10 hours",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
-   "date": "2026-10-28T12:34:10Z",
-   "snippet": "A Tesla Semi caught fire on Interstate 880 in Hayward, California, on Tuesday evening, and there was no crash. The electric truck’s lithium-ion battery burned long enough to keep…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-semi-fire-i-880-hayward-chp.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla’s ‘Emergency Drive Away’ function gets its first use in the real world",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-emergency-drive-away-function-first-use-real-world/",
-   "date": "2026-10-28T12:34:09Z",
-   "snippet": "Tesla’s launch of the “Emergency Drive Away” function a few months back offered owners a safe option to evacuate an area if they were in reasonable danger. The function finally…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
   }
  ]
 }
