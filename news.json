@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T16:40:06Z",
+ "updated": "2026-10-29T20:29:49Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Semi Wins Top Gear’s 2027 Tech Award",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4918/tesla-semi-wins-top-gears-2027-tech-award",
+   "date": "2026-10-29T19:32:00Z",
+   "snippet": "The Tesla Semi took the TG Tech Award at Top Gear’s US Car Awards 2027, as high-volume production ramps at Tesla’s new Nevada factory. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/semi/tesla-semi-top-gear-tech-award-2027.webp/49d729e82d1d435643466d9f6b11c7d4/tesla-semi-top-gear-tech-award-2027.jpg"
+  },
+  {
+   "title": "Tesla Offers Free Robotaxi Rides for First-Time Riders",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4917/tesla-offers-free-robotaxi-rides-for-first-time-riders",
+   "date": "2026-10-29T17:54:00Z",
+   "snippet": "The Robotaxi app now shows a $0.00 fare for first-time riders in Houston and Dallas, though riders in other markets are left out of the promotion for now Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi_rear_screen.jpg/3257c5dc37ca7ed182205ae77ec677a9/robotaxi_rear_screen.jpg"
+  },
   {
    "title": "Tesla Breaks Compatibility With Third-Party V2L Devices",
    "source": "Not a Tesla App",
@@ -24,7 +40,7 @@
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Night-Street_-Camera-vs-Lidar.png?w=1600"
   },
   {
-   "title": "Tesla FSD Is Hitting Europe. It's Not Perfect",
+   "title": "Locals Sent Tesla FSD Down Bratislava’s Toughest Streets. It Needed Help",
    "source": "InsideEVs",
    "link": "https://insideevs.com/news/813661/tesla-full-self-driving-bratislava/",
    "date": "2026-10-29T09:31:24Z",
@@ -86,22 +102,6 @@
    "date": "2026-10-28T15:20:00Z",
    "snippet": "A tired driver at an Austin Supercharger clicked through every warning and broke away from the stall, raising questions about whether Tesla’s safeguards Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/emergency-drive-away-supercharger.webp/ed7bd73b3d79fc7ed936c7b2083a92db/emergency-drive-away-supercharger.jpg"
-  },
-  {
-   "title": "Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/28/tesla-robotaxi-houston-rocket-service-area-fake/",
-   "date": "2026-10-28T15:18:25Z",
-   "snippet": "Tesla’s new rocket-shaped Robotaxi service area in Houston includes parts of downtown where the service won’t actually pick you up, according to Ethan McKanna, the creator of…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/tesla-robotaxi-houston-geofence-rocket-map.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla confirms Vietnam entry to take on VinFast and its 36% market share",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/28/tesla-vietnam-entry-vinfast/",
-   "date": "2026-10-28T14:28:21Z",
-   "snippet": "Tesla has started hiring in Vietnam, and one of its recruiters says the company is now “officially coming” to the country. The five open roles include a sales manager, a service…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-Vietnam.jpeg?quality=82&#038;strip=all&#038;w=1600"
   }
  ]
 }
