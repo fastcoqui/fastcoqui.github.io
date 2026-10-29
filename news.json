@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T20:28:46Z",
+ "updated": "2026-10-29T08:40:36Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla’s Roadster appearance at SpaceX has merger watchers talking",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-roadster-spacex-hq-display/",
+   "date": "2026-10-29T04:56:29Z",
+   "snippet": "Tesla's next generation Roadster was spotted at SpaceX's Hawthorne headquarters, two weeks after its unveiling. The post Tesla’s Roadster appearance at SpaceX has merger watchers…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f680.png"
+  },
   {
    "title": "Tesla Considered Other Innovative Ways to Color the Cybercab",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-10-28T12:34:09Z",
    "snippet": "Tesla’s launch of the “Emergency Drive Away” function a few months back offered owners a safe option to evacuate an area if they were in reasonable danger. The function finally…",
    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
-  },
-  {
-   "title": "Tesla’s Cybercab battery design could make robotaxis even cheaper",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-cybercab-battery-pack-design-structure/",
-   "date": "2026-10-28T05:15:28Z",
-   "snippet": "Tesla built the Cybercab's battery pack with spare room for a future switch to LFP. The post Tesla’s Cybercab battery design could make robotaxis even cheaper appeared first on…",
-   "image": null
   }
  ]
 }
