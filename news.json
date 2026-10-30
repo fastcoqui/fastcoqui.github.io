@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T04:34:06Z",
+ "updated": "2026-10-30T16:36:00Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Italy Backs EU-Wide Tesla FSD Approval After Salvini Speaks With Elon Musk",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4921/italy-backs-eu-wide-tesla-fsd-approval-after-salvini-speaks-with-elon-musk",
+   "date": "2026-10-30T15:56:00Z",
+   "snippet": "Italy backs EU-wide Tesla FSD approval after Salvini’s conversation with Musk. See the approved markets, hardware requirements and next steps. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-european-approvals-hero.webp/9f6af298530cf63d2b2cc23527475bc7/tesla-fsd-european-approvals-hero.jpg"
+  },
+  {
+   "title": "Tesla Extends Robotaxi Hours to 2 AM, Adds New Calm Mode That Hides FSD Visuals",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4920/tesla-extends-robotaxi-hours-to-2-am-adds-new-calm-mode-that-hides-fsd-visuals",
+   "date": "2026-10-30T15:17:00Z",
+   "snippet": "Tesla extends Robotaxi hours to 2 AM and adds Calm Mode, rear camera views and updated Live Activities. Florida beach expansion is planned. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-city.webp/6cfc18a991dac3558bfc5bb8ff9a8dc8/robotaxi-city.jpg"
+  },
+  {
+   "title": "Tesla Full Self-Driving becomes main pillar of new Referral Program",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-full-self-driving-becomes-main-pillar-new-referral-program/",
+   "date": "2026-10-30T14:42:52Z",
+   "snippet": "Tesla Full Self-Driving is now the centerpiece of the company’s newly revised Referral Program, which launched on October 29. Instead of referring people to purchase vehicles and…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
   {
    "title": "Tesla made napping in a Robotaxi easier with its latest update",
    "source": "Teslarati",
@@ -78,30 +102,6 @@
    "date": "2026-10-28T18:00:06Z",
    "snippet": "Only U.S.-built Teslas get FSD, so Korean owners of Chinese-built Teslas are illegally unlocking it.",
    "image": "https://cdn.motor1.com/images/mgl/E6YrxB/s3/2026-tesla-model-y-standard.jpg"
-  },
-  {
-   "title": "Tesla Semi catches fire in California: what we know",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-semi-catches-fire-california-what-we-know/",
-   "date": "2026-10-28T17:36:38Z",
-   "snippet": "A Tesla Semi caught fire in Hayward, California, which caused both directions of traffic to shut down for hours before being completely reopened early on Wednesday, the California…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
-  },
-  {
-   "title": "Tesla Semi Catches Fire on the Highway [VIDEOS]",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4912/tesla-semi-catches-fire-on-the-highway-videos",
-   "date": "2026-10-28T16:26:00Z",
-   "snippet": "A Tesla Semi caught fire on I-880 in Hayward without a crash, closing southbound lanes for about 10 hours while the cause remains unknown Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/semi/tesla-semi-i-880-fire-1.webp/a869eee5eda591de787aee08e248a188/tesla-semi-i-880-fire-1.jpg"
-  },
-  {
-   "title": "Do Those Funky Tesla Wheel Covers Actually Boost Range?",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/813477/tesla-wheel-cover-boost-range/",
-   "date": "2026-10-28T15:27:20Z",
-   "snippet": "Haloblk wheel covers are supposed to boost range while giving disc wheel vibes, but they only do one of those.",
-   "image": "https://cdn.motor1.com/images/mgl/bgOwg6/s3/tesla-model-y-haloblk-wheel-covers.jpg"
   }
  ]
 }
