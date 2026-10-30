@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T00:28:25Z",
+ "updated": "2026-10-30T04:34:06Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla made napping in a Robotaxi easier with its latest update",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-robotaxi-sleeping-nap-quiet-mode/",
+   "date": "2026-10-30T03:44:34Z",
+   "snippet": "Tesla's quiet mode reaches Model Y Robotaxis, blacking out the screen for riders wanting rest. The post Tesla made napping in a Robotaxi easier with its latest update appeared…",
+   "image": null
+  },
   {
    "title": "Tesla Semi Wins Top Gear’s 2027 Tech Award",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-10-28T15:27:20Z",
    "snippet": "Haloblk wheel covers are supposed to boost range while giving disc wheel vibes, but they only do one of those.",
    "image": "https://cdn.motor1.com/images/mgl/bgOwg6/s3/tesla-model-y-haloblk-wheel-covers.jpg"
-  },
-  {
-   "title": "Tesla Driver Accidentally Uses Emergency Drive Away [VIDEO]",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4911/tesla-driver-accidentally-uses-emergency-drive-away-video",
-   "date": "2026-10-28T15:20:00Z",
-   "snippet": "A tired driver at an Austin Supercharger clicked through every warning and broke away from the stall, raising questions about whether Tesla’s safeguards Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/charging/emergency-drive-away-supercharger.webp/ed7bd73b3d79fc7ed936c7b2083a92db/emergency-drive-away-supercharger.jpg"
   }
  ]
 }
