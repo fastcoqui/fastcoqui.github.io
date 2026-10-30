@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T16:36:00Z",
+ "updated": "2026-10-30T20:26:16Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Reveals 36 New Supercharger Sites Picked by Owners",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4922/tesla-reveals-36-new-supercharger-sites-picked-by-owners",
+   "date": "2026-10-30T19:23:00Z",
+   "snippet": "Tesla has announced 36 community-voted Supercharger sites for Q3 2026 and opened its next voting round, so here’s the full list and how to vote Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/charging/superchargers-announced.webp/9213105f7a8024150d5246bbd08bdcd2/superchargers-announced.jpg"
+  },
+  {
+   "title": "Tesla's Cybercab Is Built In A Radical New Way. Here's How It Works",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/813774/tesla-cybercab-factory-munro-live/",
+   "date": "2026-10-30T15:57:11Z",
+   "snippet": "The Cybercab skips the paint shop and reaches final assembly mostly built. Tesla says it needs roughly half the factory space.",
+   "image": "https://cdn.motor1.com/images/mgl/qk8GKy/s3/munro-cybercab-factory.jpg"
+  },
   {
    "title": "Italy Backs EU-Wide Tesla FSD Approval After Salvini Speaks With Elon Musk",
    "source": "Not a Tesla App",
@@ -86,22 +102,6 @@
    "date": "2026-10-29T04:56:29Z",
    "snippet": "Tesla's next generation Roadster was spotted at SpaceX's Hawthorne headquarters, two weeks after its unveiling. The post Tesla’s Roadster appearance at SpaceX has merger watchers…",
    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f680.png"
-  },
-  {
-   "title": "Tesla Considered Other Innovative Ways to Color the Cybercab",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4914/tesla-considered-other-innovative-ways-to-color-the-cybercab",
-   "date": "2026-10-28T20:00:00Z",
-   "snippet": "Tesla tried in-mold lamination and film-over-panel options before choosing color-infused plastic panels so the Cybercab could skip paint entirely Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-cybercab-manufacturing-process-factory.webp/5f3444419d86b378bc58eb8a6985a55d/tesla-cybercab-manufacturing-process-factory.jpg"
-  },
-  {
-   "title": "South Korean Police Are Cracking Down On Tesla Owners Jailbreaking FSD",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/813617/korea-tesla-fsd-jailbreak-arrests/",
-   "date": "2026-10-28T18:00:06Z",
-   "snippet": "Only U.S.-built Teslas get FSD, so Korean owners of Chinese-built Teslas are illegally unlocking it.",
-   "image": "https://cdn.motor1.com/images/mgl/E6YrxB/s3/2026-tesla-model-y-standard.jpg"
   }
  ]
 }
