@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T00:32:31Z",
+ "updated": "2026-10-31T20:20:52Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "What Happens If You Use Tesla's Emergency Drive Away Feature",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4928/what-happens-if-you-use-teslas-emergency-drive-away-feature",
+   "date": "2026-10-31T20:00:00Z",
+   "snippet": "Activating Emergency Drive Away triggers a service alert and charge port inspection, which cost one owner $539 even without moving the car Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-emergency-drive-away-service-alert.webp/fa3715902f54cc4329521cbe1bb4771d/tesla-emergency-drive-away-service-alert.jpg"
+  },
+  {
+   "title": "Tesla Adds Grok Files to Intel Cars in Update 2026.38: Will It Be Enabled?",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4927/tesla-adds-grok-files-to-intel-cars-in-update-202638-will-it-be-enabled",
+   "date": "2026-10-31T18:06:00Z",
+   "snippet": "Software update 2026.38 quietly added Grok files to Intel Model 3 and Model Y vehicles, hinting Tesla could bring Grok to older cars Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-ui-3.webp/bf6c99cdc1d0b627d04ddf1ba8b580ef/grok-ui-3.jpg"
+  },
   {
    "title": "Tesla’s New FSD Referral Program Is Live: How It Works",
    "source": "Not a Tesla App",
@@ -86,22 +102,6 @@
    "date": "2026-10-29T16:17:00Z",
    "snippet": "Third-party V2L adapters now shut off within minutes on software version 2026.38.5.1 and later, ending a workaround owners have used for years Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/myp-v2l.webp/292d8ce0d52dad773c5fc0112e625046/myp-v2l.jpg"
-  },
-  {
-   "title": "Ex-Tesla Autopilot head calls vision-only a ‘weird religious stance’",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/10/29/ex-tesla-autopilot-head-vision-only-weird-religious-stance/",
-   "date": "2026-10-29T16:10:00Z",
-   "snippet": "GM Chief Product Officer Sterling Anderson, who ran Tesla’s Autopilot program in 2015 and 2016, says dropping radar for a camera-only self-driving system is “a weird religious…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Night-Street_-Camera-vs-Lidar.png?w=1600"
-  },
-  {
-   "title": "Tesla FSD Is Hitting Europe. It's Not Perfect",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/813661/tesla-full-self-driving-bratislava/",
-   "date": "2026-10-29T09:31:24Z",
-   "snippet": "Steep hills and tight gaps showed what FSD can do. Missed signs and driver takeovers showed how much supervision it still needs.",
-   "image": "https://cdn.motor1.com/images/mgl/Rqbr9K/s3/fsd-bratislava.jpg"
   }
  ]
 }
