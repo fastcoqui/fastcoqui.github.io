@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T20:26:16Z",
+ "updated": "2026-10-31T00:32:31Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla’s New FSD Referral Program Is Live: How It Works",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4923/teslas-new-fsd-referral-program-is-live-how-it-works",
+   "date": "2026-10-30T21:27:00Z",
+   "snippet": "Tesla’s FSD referral program gives friends a free month of FSD (Supervised) and rewards you with a month free or $99 credit when they subscribe Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-referral-program-hero.webp/c8af4f660223f7255e1b49953ca03374/tesla-fsd-referral-program-hero.jpg"
+  },
   {
    "title": "Tesla Reveals 36 New Supercharger Sites Picked by Owners",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-10-29T09:31:24Z",
    "snippet": "Steep hills and tight gaps showed what FSD can do. Missed signs and driver takeovers showed how much supervision it still needs.",
    "image": "https://cdn.motor1.com/images/mgl/Rqbr9K/s3/fsd-bratislava.jpg"
-  },
-  {
-   "title": "Tesla’s Roadster appearance at SpaceX has merger watchers talking",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-roadster-spacex-hq-display/",
-   "date": "2026-10-29T04:56:29Z",
-   "snippet": "Tesla's next generation Roadster was spotted at SpaceX's Hawthorne headquarters, two weeks after its unveiling. The post Tesla’s Roadster appearance at SpaceX has merger watchers…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f680.png"
   }
  ]
 }
