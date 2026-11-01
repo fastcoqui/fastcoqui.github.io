@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T20:20:52Z",
+ "updated": "2026-11-01T00:31:14Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Driver in Mexico Makes His Model Y Fly [VIDEO]",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4929/tesla-driver-in-mexico-makes-his-model-y-fly-video",
+   "date": "2026-10-31T20:25:00Z",
+   "snippet": "A Tesla Model Y lost control on a steep curve in Mexico City, crashed through a home’s garage, and flew off a ledge Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/model-y-flying-accident-mexico.webp/cc12ee3f1b033356a045dd336a4f40a6/model-y-flying-accident-mexico.jpg"
+  },
   {
    "title": "What Happens If You Use Tesla's Emergency Drive Away Feature",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-10-29T17:54:00Z",
    "snippet": "The Robotaxi app now shows a $0.00 fare for first-time riders in Houston and Dallas, though riders in other markets are left out of the promotion for now Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi_rear_screen.jpg/3257c5dc37ca7ed182205ae77ec677a9/robotaxi_rear_screen.jpg"
-  },
-  {
-   "title": "Tesla Breaks Compatibility With Third-Party V2L Devices",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4916/tesla-breaks-compatibility-with-third-party-v2l-devices",
-   "date": "2026-10-29T16:17:00Z",
-   "snippet": "Third-party V2L adapters now shut off within minutes on software version 2026.38.5.1 and later, ending a workaround owners have used for years Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/myp-v2l.webp/292d8ce0d52dad773c5fc0112e625046/myp-v2l.jpg"
   }
  ]
 }
