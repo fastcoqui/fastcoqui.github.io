@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T16:25:28Z",
+ "updated": "2026-11-01T20:21:52Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "This Fan-Made Browser Game Lets You Fly Tesla’s New Roadster",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4931/this-fan-made-browser-game-lets-you-fly-teslas-new-roadster",
+   "date": "2026-11-01T17:00:00Z",
+   "snippet": "A fan-made Three.js racing game lets you use the Roadster’s thrusters to boost, jump, and flip past seven rivals, right in your browser Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-roadster-browser-game-road-thruster-hero.png/df469072dd58002612dbdc139945a274/tesla-roadster-browser-game-road-thruster-hero.jpg"
+  },
   {
    "title": "Tesla to Update App To Better Handle Android Foldables",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-10-30T03:44:34Z",
    "snippet": "Tesla's quiet mode reaches Model Y Robotaxis, blacking out the screen for riders wanting rest. The post Tesla made napping in a Robotaxi easier with its latest update appeared…",
    "image": null
-  },
-  {
-   "title": "Tesla Semi Wins Top Gear’s 2027 Tech Award",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4918/tesla-semi-wins-top-gears-2027-tech-award",
-   "date": "2026-10-29T19:32:00Z",
-   "snippet": "The Tesla Semi took the TG Tech Award at Top Gear’s US Car Awards 2027, as high-volume production ramps at Tesla’s new Nevada factory. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/semi/tesla-semi-top-gear-tech-award-2027.webp/49d729e82d1d435643466d9f6b11c7d4/tesla-semi-top-gear-tech-award-2027.jpg"
   }
  ]
 }
