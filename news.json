@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:31:14Z",
+ "updated": "2026-11-01T16:25:28Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla to Update App To Better Handle Android Foldables",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4930/tesla-to-update-app-to-better-handle-android-foldables",
+   "date": "2026-11-01T15:30:00Z",
+   "snippet": "Tesla’s new big-screen app doesn’t always kick in on Android foldables, but a Tesla engineer says layout breakpoints will be refined in an upcoming update Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-for-tablets-and-foldables-2.webp/989e526b38223149243dc82b47d820e7/tesla-app-for-tablets-and-foldables-2.jpg"
+  },
   {
    "title": "Tesla Driver in Mexico Makes His Model Y Fly [VIDEO]",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-10-29T19:32:00Z",
    "snippet": "The Tesla Semi took the TG Tech Award at Top Gear’s US Car Awards 2027, as high-volume production ramps at Tesla’s new Nevada factory. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/semi/tesla-semi-top-gear-tech-award-2027.webp/49d729e82d1d435643466d9f6b11c7d4/tesla-semi-top-gear-tech-award-2027.jpg"
-  },
-  {
-   "title": "Tesla Offers Free Robotaxi Rides for First-Time Riders",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4917/tesla-offers-free-robotaxi-rides-for-first-time-riders",
-   "date": "2026-10-29T17:54:00Z",
-   "snippet": "The Robotaxi app now shows a $0.00 fare for first-time riders in Houston and Dallas, though riders in other markets are left out of the promotion for now Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi_rear_screen.jpg/3257c5dc37ca7ed182205ae77ec677a9/robotaxi_rear_screen.jpg"
   }
  ]
 }
