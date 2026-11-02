@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T08:50:55Z",
+ "updated": "2026-11-02T16:50:49Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Cybercab Goes on Tour in Europe: Cities & Dates",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4933/tesla-cybercab-goes-on-tour-in-europe-cities-dates",
+   "date": "2026-11-02T16:10:00Z",
+   "snippet": "Tesla’s Cybercab is touring Europe from November 5 to January 17, with stops in Zürich, Berlin, Prague, Warsaw, Vienna, and more Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-europe-tour-schedule-1793635237.webp/a16a5fbbd2367e76e45eb339646a9308/cybercab-europe-tour-schedule-1793635237.jpg"
+  },
+  {
+   "title": "Tesla Expands Robotaxi Service, Launches Unsupervised Rides in Fort Worth",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4932/tesla-expands-robotaxi-service-launches-unsupervised-rides-in-fort-worth",
+   "date": "2026-11-02T14:00:00Z",
+   "snippet": "Tesla’s Robotaxi service is now live in Fort Worth with unsupervised rides in a 143-square-mile zone, its first new city launch in over three months Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-geofence-fort-worth-november-2026-2.webp/b3bc43a8602e9507e58514a8d88cd5fd/tesla-robotaxi-geofence-fort-worth-november-2026-2.jpg"
+  },
   {
    "title": "Tesla owners who tap Emergency Drive Away for fun are in for a surprise",
    "source": "Teslarati",
@@ -86,22 +102,6 @@
    "date": "2026-10-30T15:56:00Z",
    "snippet": "Italy backs EU-wide Tesla FSD approval after Salvini’s conversation with Musk. See the approved markets, hardware requirements and next steps. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-european-approvals-hero.webp/9f6af298530cf63d2b2cc23527475bc7/tesla-fsd-european-approvals-hero.jpg"
-  },
-  {
-   "title": "Tesla Extends Robotaxi Hours to 2 AM, Adds New Calm Mode That Hides FSD Visuals",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4920/tesla-extends-robotaxi-hours-to-2-am-adds-new-calm-mode-that-hides-fsd-visuals",
-   "date": "2026-10-30T15:17:00Z",
-   "snippet": "Tesla extends Robotaxi hours to 2 AM and adds Calm Mode, rear camera views and updated Live Activities. Florida beach expansion is planned. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-city.webp/6cfc18a991dac3558bfc5bb8ff9a8dc8/robotaxi-city.jpg"
-  },
-  {
-   "title": "Tesla Full Self-Driving becomes main pillar of new Referral Program",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-full-self-driving-becomes-main-pillar-new-referral-program/",
-   "date": "2026-10-30T14:42:52Z",
-   "snippet": "Tesla Full Self-Driving is now the centerpiece of the company’s newly revised Referral Program, which launched on October 29. Instead of referring people to purchase vehicles and…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
   }
  ]
 }
