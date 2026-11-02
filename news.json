@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T16:50:49Z",
+ "updated": "2026-11-02T20:34:59Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Powerwall 3 now boosts heat pumps to store cheap solar as heat",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/02/tesla-powerwall-3-heat-pump-optimization-sg-ready/",
+   "date": "2026-11-02T20:30:29Z",
+   "snippet": "Tesla has launched Heat Pump Optimization, a feature that lets the Powerwall 3 and three-phase Powerwall 3P tell a compatible heat pump when to run harder so a home can bank cheap…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/tesla-powerwall-backup-lease.jpg?quality=82&#038;strip=all&#038;w=1200"
+  },
+  {
+   "title": "Tesla Drops New Cybercab Backpack, Tees, and Gold Cup",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4935/tesla-drops-new-cybercab-backpack-tees-and-gold-cup",
+   "date": "2026-11-02T20:09:00Z",
+   "snippet": "Tesla Shop’s Cybercab Collection adds a backpack, two tees, and a gold paint-to-match cup, priced from $35 to $85 Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-cybercab-shop-collection-november-2026-hero-1793648024.webp/4f94a7a1d2f34d551935305baf98a550/tesla-cybercab-shop-collection-november-2026-hero-1793648024.jpg"
+  },
   {
    "title": "Tesla Cybercab Goes on Tour in Europe: Cities & Dates",
    "source": "Not a Tesla App",
@@ -86,22 +102,6 @@
    "date": "2026-10-30T19:23:00Z",
    "snippet": "Tesla has announced 36 community-voted Supercharger sites for Q3 2026 and opened its next voting round, so here’s the full list and how to vote Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/charging/superchargers-announced.webp/9213105f7a8024150d5246bbd08bdcd2/superchargers-announced.jpg"
-  },
-  {
-   "title": "Tesla's Cybercab Is Built In A Radical New Way. Here's How It Works",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/813774/tesla-cybercab-factory-munro-live/",
-   "date": "2026-10-30T15:57:11Z",
-   "snippet": "The Cybercab skips the paint shop and reaches final assembly mostly built. Tesla says it needs roughly half the factory space.",
-   "image": "https://cdn.motor1.com/images/mgl/qk8GKy/s3/munro-cybercab-factory.jpg"
-  },
-  {
-   "title": "Italy Backs EU-Wide Tesla FSD Approval After Salvini Speaks With Elon Musk",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4921/italy-backs-eu-wide-tesla-fsd-approval-after-salvini-speaks-with-elon-musk",
-   "date": "2026-10-30T15:56:00Z",
-   "snippet": "Italy backs EU-wide Tesla FSD approval after Salvini’s conversation with Musk. See the approved markets, hardware requirements and next steps. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-european-approvals-hero.webp/9f6af298530cf63d2b2cc23527475bc7/tesla-fsd-european-approvals-hero.jpg"
   }
  ]
 }
