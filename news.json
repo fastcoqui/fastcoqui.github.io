@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T00:32:48Z",
+ "updated": "2026-11-02T08:50:55Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla owners who tap Emergency Drive Away for fun are in for a surprise",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-emergency-drive-away-service-cost/",
+   "date": "2026-11-02T05:36:38Z",
+   "snippet": "Tapping Activate on Tesla's Emergency Drive Away reportedly triggers a $539 service bill without moving. The post Tesla owners who tap Emergency Drive Away for fun are in for a…",
+   "image": null
+  },
   {
    "title": "Race and Fly the New Tesla Roadster in New ‘Need for Speed’ Type Game",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-10-30T14:42:52Z",
    "snippet": "Tesla Full Self-Driving is now the centerpiece of the company’s newly revised Referral Program, which launched on October 29. Instead of referring people to purchase vehicles and…",
    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
-  },
-  {
-   "title": "Tesla made napping in a Robotaxi easier with its latest update",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-robotaxi-sleeping-nap-quiet-mode/",
-   "date": "2026-10-30T03:44:34Z",
-   "snippet": "Tesla's quiet mode reaches Model Y Robotaxis, blacking out the screen for riders wanting rest. The post Tesla made napping in a Robotaxi easier with its latest update appeared…",
-   "image": null
   }
  ]
 }
