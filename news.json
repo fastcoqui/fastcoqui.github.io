@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T16:41:48Z",
+ "updated": "2026-11-03T20:34:43Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,54 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Model 3/Y Could Get an Inverter Upgrade From Cybercab",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4939/tesla-model-3y-could-get-an-inverter-upgrade-from-cybercab",
+   "date": "2026-11-03T20:08:00Z",
+   "snippet": "The Cybercab’s simpler, dual-sourced inverter fits the same housing as today’s Model Y unit, and Tesla’s answer to whether it’s coming was pretty cheeky Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-drive-unit-munro-live-walkthrough-2.webp/9519da167564948d6d5b9bb42fc4a838/cybercab-drive-unit-munro-live-walkthrough-2.jpg"
+  },
+  {
+   "title": "Tesla Full Self-Driving gets hit with some adjustments in Europe",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-full-self-driving-gets-hit-with-some-adjustments-europe/",
+   "date": "2026-11-03T19:46:21Z",
+   "snippet": "Tesla Full Self-Driving, which is now referred to in Europe as “Tesla Assisted Driving” (TAD), is getting hit with a handful of new changes at the hands of the Netherlands’…",
+   "image": null
+  },
+  {
+   "title": "Tesla shows off Roadster ‘kickflip’ over vehicle lineup in crazy new POV video",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-shows-off-roadster-kickflip-new-pov-video/",
+   "date": "2026-11-03T19:22:34Z",
+   "snippet": "Tesla has released a fresh point-of-view video capturing the next-generation Roadster’s headline stunt from its October 15 unveiling, giving fans a visceral look at the car as it…",
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/Roadster_58.jpg"
+  },
+  {
+   "title": "Tesla FSD Gets Reduced Speed Offset & More Changes in Europe",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4938/tesla-fsd-gets-reduced-speed-offset-more-changes-in-europe",
+   "date": "2026-11-03T19:13:00Z",
+   "snippet": "The Dutch RDW approved a new name for Full Self-Driving, cutting its max speed offset from +50% to +10%, and more changes ahead of December’s EU vote Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg"
+  },
+  {
+   "title": "Tesla cuts FSD’s speed margin from 50% to 10% over the limit in Europe",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/03/tesla-assisted-driving-rdw-speed-cap-10-percent-europe/",
+   "date": "2026-11-03T17:55:10Z",
+   "snippet": "Tesla’s driver-assistance system in Europe can no longer be set to drive 50% over the speed limit. The Netherlands’ RDW, which approved the system in April, confirmed today that…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla Cybercab Teardown Reveals Modular Battery, Improved Inverter & More",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4937/tesla-cybercab-teardown-reveals-modular-battery-improved-inverter-more",
+   "date": "2026-11-03T17:29:00Z",
+   "snippet": "Munro Live tore down Tesla’s Cybercab with Lars Moravy, revealing swappable battery modules, no paint shop, a 500,000-mile design life, and much more Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/two-cybercabs.webp/560bca7bb71390339f30cd6afcb8a0ae/two-cybercabs.jpg"
+  },
   {
    "title": "Tesla wins trade zone status for Texas Megapacks, but China tariffs stay",
    "source": "Electrek",
@@ -54,54 +102,6 @@
    "date": "2026-11-02T16:10:00Z",
    "snippet": "Tesla’s Cybercab is touring Europe from November 5 to January 17, with stops in Zürich, Berlin, Prague, Warsaw, Vienna, and more Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-europe-tour-schedule-1793635237.webp/a16a5fbbd2367e76e45eb339646a9308/cybercab-europe-tour-schedule-1793635237.jpg"
-  },
-  {
-   "title": "Tesla Expands Robotaxi Service, Launches Unsupervised Rides in Fort Worth",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4932/tesla-expands-robotaxi-service-launches-unsupervised-rides-in-fort-worth",
-   "date": "2026-11-02T14:00:00Z",
-   "snippet": "Tesla’s Robotaxi service is now live in Fort Worth with unsupervised rides in a 143-square-mile zone, its first new city launch in over three months Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-geofence-fort-worth-november-2026-2.webp/b3bc43a8602e9507e58514a8d88cd5fd/tesla-robotaxi-geofence-fort-worth-november-2026-2.jpg"
-  },
-  {
-   "title": "Tesla owners who tap Emergency Drive Away for fun are in for a surprise",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-emergency-drive-away-service-cost/",
-   "date": "2026-11-02T05:36:38Z",
-   "snippet": "Tapping Activate on Tesla's Emergency Drive Away reportedly triggers a $539 service bill without moving. The post Tesla owners who tap Emergency Drive Away for fun are in for a…",
-   "image": null
-  },
-  {
-   "title": "Race and Fly the New Tesla Roadster in New ‘Need for Speed’ Type Game",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4931/this-fan-made-browser-game-lets-you-fly-teslas-new-roadster",
-   "date": "2026-11-01T17:00:00Z",
-   "snippet": "A fan-made Three.js racing game lets you use the Roadster’s thrusters to boost, jump, and flip past seven rivals, right in your browser Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-roadster-browser-game-road-thruster-hero.png/df469072dd58002612dbdc139945a274/tesla-roadster-browser-game-road-thruster-hero.jpg"
-  },
-  {
-   "title": "Tesla to Update App To Better Handle Android Foldables",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4930/tesla-to-update-app-to-better-handle-android-foldables",
-   "date": "2026-11-01T15:30:00Z",
-   "snippet": "Tesla’s new big-screen app doesn’t always kick in on Android foldables, but a Tesla engineer says layout breakpoints will be refined in an upcoming update Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-for-tablets-and-foldables-2.webp/989e526b38223149243dc82b47d820e7/tesla-app-for-tablets-and-foldables-2.jpg"
-  },
-  {
-   "title": "Tesla Driver in Mexico Makes His Model Y Fly [VIDEO]",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4929/tesla-driver-in-mexico-makes-his-model-y-fly-video",
-   "date": "2026-10-31T20:25:00Z",
-   "snippet": "A Tesla Model Y lost control on a steep curve in Mexico City, crashed through a home’s garage, and flew off a ledge Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/model-y-flying-accident-mexico.webp/cc12ee3f1b033356a045dd336a4f40a6/model-y-flying-accident-mexico.jpg"
-  },
-  {
-   "title": "What Happens If You Use Tesla's Emergency Drive Away Feature",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4928/what-happens-if-you-use-teslas-emergency-drive-away-feature",
-   "date": "2026-10-31T20:00:00Z",
-   "snippet": "Activating Emergency Drive Away triggers a service alert and charge port inspection, which cost one owner $539 even without moving the car Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-emergency-drive-away-service-alert.webp/fa3715902f54cc4329521cbe1bb4771d/tesla-emergency-drive-away-service-alert.jpg"
   }
  ]
 }
