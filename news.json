@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T00:33:10Z",
+ "updated": "2026-11-03T04:40:35Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -30,6 +30,14 @@
    "date": "2026-11-02T20:09:00Z",
    "snippet": "Tesla Shop’s Cybercab Collection adds a backpack, two tees, and a gold paint-to-match cup, priced from $35 to $85 Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-cybercab-shop-collection-november-2026-hero-1793648024.webp/4f94a7a1d2f34d551935305baf98a550/tesla-cybercab-shop-collection-november-2026-hero-1793648024.jpg"
+  },
+  {
+   "title": "Tesla Warned Owners Not To Test Emergency Drive Away. Some Did Anyway.",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/814089/tesla-supercharger-inspection-drive-away/",
+   "date": "2026-11-02T18:40:21Z",
+   "snippet": "One owner was reportedly hit with a $539 bill for pressing the \"Activate\" button (despite Tesla's warning).",
+   "image": "https://cdn.motor1.com/images/mgl/XBb7mp/s3/tesla-emergency-drive-away-regret-hero.jpg"
   },
   {
    "title": "Tesla Cybercab Goes on Tour in Europe: Cities & Dates",
@@ -94,14 +102,6 @@
    "date": "2026-10-31T18:06:00Z",
    "snippet": "Software update 2026.38 quietly added Grok files to Intel Model 3 and Model Y vehicles, hinting Tesla could bring Grok to older cars Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-ui-3.webp/bf6c99cdc1d0b627d04ddf1ba8b580ef/grok-ui-3.jpg"
-  },
-  {
-   "title": "Tesla’s New FSD Referral Program Is Live: How It Works",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4923/teslas-new-fsd-referral-program-is-live-how-it-works",
-   "date": "2026-10-30T21:27:00Z",
-   "snippet": "Tesla’s FSD referral program gives friends a free month of FSD (Supervised) and rewards you with a month free or $99 credit when they subscribe Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-referral-program-hero.webp/c8af4f660223f7255e1b49953ca03374/tesla-fsd-referral-program-hero.jpg"
   }
  ]
 }
