@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T04:40:35Z",
+ "updated": "2026-11-03T16:41:48Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla wins trade zone status for Texas Megapacks, but China tariffs stay",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/03/tesla-megapack-texas-foreign-trade-zone-china-tariffs/",
+   "date": "2026-11-03T14:15:23Z",
+   "snippet": "Tesla’s Megapack factory in Brookshire, Texas, is now officially a foreign-trade zone, a US customs program that lets manufacturers defer duties on imported parts. The FTZ Board’s…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-Megapack-3-Megablock.webp?w=1600"
+  },
   {
    "title": "Tesla’s Next Earnings Call Will Have Video, Musk Says",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-10-31T20:00:00Z",
    "snippet": "Activating Emergency Drive Away triggers a service alert and charge port inspection, which cost one owner $539 even without moving the car Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-emergency-drive-away-service-alert.webp/fa3715902f54cc4329521cbe1bb4771d/tesla-emergency-drive-away-service-alert.jpg"
-  },
-  {
-   "title": "Tesla Adds Grok Files to Intel Cars in Update 2026.38: Will It Be Enabled?",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4927/tesla-adds-grok-files-to-intel-cars-in-update-202638-will-it-be-enabled",
-   "date": "2026-10-31T18:06:00Z",
-   "snippet": "Software update 2026.38 quietly added Grok files to Intel Model 3 and Model Y vehicles, hinting Tesla could bring Grok to older cars Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2025/grok-ui-3.webp/bf6c99cdc1d0b627d04ddf1ba8b580ef/grok-ui-3.jpg"
   }
  ]
 }
