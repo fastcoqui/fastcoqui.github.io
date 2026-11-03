@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T20:34:59Z",
+ "updated": "2026-11-03T00:33:10Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla’s Next Earnings Call Will Have Video, Musk Says",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4936/teslas-next-earnings-call-will-have-video-musk-says",
+   "date": "2026-11-02T21:09:00Z",
+   "snippet": "Musk says Tesla’s next earnings call will be a video call and more entertaining, after fans compared it to SpaceX’s Q3 webcast. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_66.jpg/7620b55782eff45301d6a20b7e036258/group_66.jpg"
+  },
   {
    "title": "Tesla Powerwall 3 now boosts heat pumps to store cheap solar as heat",
    "source": "Electrek",
@@ -94,14 +102,6 @@
    "date": "2026-10-30T21:27:00Z",
    "snippet": "Tesla’s FSD referral program gives friends a free month of FSD (Supervised) and rewards you with a month free or $99 credit when they subscribe Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-referral-program-hero.webp/c8af4f660223f7255e1b49953ca03374/tesla-fsd-referral-program-hero.jpg"
-  },
-  {
-   "title": "Tesla Reveals 36 New Supercharger Sites Picked by Owners",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4922/tesla-reveals-36-new-supercharger-sites-picked-by-owners",
-   "date": "2026-10-30T19:23:00Z",
-   "snippet": "Tesla has announced 36 community-voted Supercharger sites for Q3 2026 and opened its next voting round, so here’s the full list and how to vote Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/charging/superchargers-announced.webp/9213105f7a8024150d5246bbd08bdcd2/superchargers-announced.jpg"
   }
  ]
 }
