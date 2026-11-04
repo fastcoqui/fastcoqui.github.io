@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T14:05:09Z",
+ "updated": "2026-11-04T16:43:06Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla accused of selling FSD to Korean owners who can’t legally use it",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/04/tesla-fsd-south-korea-consumer-group-complaint-kftc/",
+   "date": "2026-11-04T14:27:02Z",
+   "snippet": "A South Korean consumer group is asking regulators to stop Tesla from marketing “Full Self-Driving” to customers whose cars can’t legally run it. By Tesla’s own numbers, that…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2020/07/Tesla-Korea.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
   {
    "title": "What does a blue Texas sweep mean for Tesla, SpaceX & Elon Musk?",
    "source": "Electrek",
@@ -94,14 +102,6 @@
    "date": "2026-11-02T21:09:00Z",
    "snippet": "Musk says Tesla’s next earnings call will be a video call and more entertaining, after fans compared it to SpaceX’s Q3 webcast. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_66.jpg/7620b55782eff45301d6a20b7e036258/group_66.jpg"
-  },
-  {
-   "title": "Tesla Powerwall 3 now boosts heat pumps to store cheap solar as heat",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/02/tesla-powerwall-3-heat-pump-optimization-sg-ready/",
-   "date": "2026-11-02T20:30:29Z",
-   "snippet": "Tesla has launched Heat Pump Optimization, a feature that lets the Powerwall 3 and three-phase Powerwall 3P tell a compatible heat pump when to run harder so a home can bank cheap…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/tesla-powerwall-backup-lease.jpg?quality=82&#038;strip=all&#038;w=1200"
   }
  ]
 }
