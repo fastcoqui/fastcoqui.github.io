@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T20:34:43Z",
+ "updated": "2026-11-04T00:32:38Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Your Tesla Runs Cleaner Today Than When You Bought It",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4941/your-tesla-runs-cleaner-today-than-when-you-bought-it",
+   "date": "2026-11-03T22:09:00Z",
+   "snippet": "U.S. grid data shows renewables rose from 17% to 24% of power since 2017 while coal fell 39%, making every EV on the road cleaner over the years Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/charging/wallconnector_95-1776464297.jpeg/4e4ecc8f74eb517a5bdd32c742aaa372/wallconnector_95-1776464297.jpg"
+  },
   {
    "title": "Tesla Model 3/Y Could Get an Inverter Upgrade From Cybercab",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-11-02T18:40:21Z",
    "snippet": "One owner was reportedly hit with a $539 bill for pressing the \"Activate\" button (despite Tesla's warning).",
    "image": "https://cdn.motor1.com/images/mgl/XBb7mp/s3/tesla-emergency-drive-away-regret-hero.jpg"
-  },
-  {
-   "title": "Tesla Cybercab Goes on Tour in Europe: Cities & Dates",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4933/tesla-cybercab-goes-on-tour-in-europe-cities-dates",
-   "date": "2026-11-02T16:10:00Z",
-   "snippet": "Tesla’s Cybercab is touring Europe from November 5 to January 17, with stops in Zürich, Berlin, Prague, Warsaw, Vienna, and more Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-europe-tour-schedule-1793635237.webp/a16a5fbbd2367e76e45eb339646a9308/cybercab-europe-tour-schedule-1793635237.jpg"
   }
  ]
 }
