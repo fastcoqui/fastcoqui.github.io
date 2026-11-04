@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T00:32:38Z",
+ "updated": "2026-11-04T14:05:09Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "What does a blue Texas sweep mean for Tesla, SpaceX & Elon Musk?",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/04/what-does-a-blue-texas-sweep-mean-for-tesla-spacex-elon-musk/",
+   "date": "2026-11-04T14:00:00Z",
+   "snippet": "After a historic election defeat in one of the most expensive elections in US election history, the state of Texas has turned blue. Along with this come potential implications for…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?w=1500"
+  },
+  {
+   "title": "Tesla 2026 Shareholder Meeting: What’s on the Ballot",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4943/tesla-2026-shareholder-meeting-whats-on-the-ballot",
+   "date": "2026-11-04T14:00:00Z",
+   "snippet": "Tesla’s annual shareholder meeting has only three board proposals this time around — here's what they are and how you can vote Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-human-hands-1.webp/5eda2cf04bea6526acda329d6188bfc1/optimus-human-hands-1.jpg"
+  },
   {
    "title": "Your Tesla Runs Cleaner Today Than When You Bought It",
    "source": "Not a Tesla App",
@@ -86,22 +102,6 @@
    "date": "2026-11-02T20:30:29Z",
    "snippet": "Tesla has launched Heat Pump Optimization, a feature that lets the Powerwall 3 and three-phase Powerwall 3P tell a compatible heat pump when to run harder so a home can bank cheap…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/tesla-powerwall-backup-lease.jpg?quality=82&#038;strip=all&#038;w=1200"
-  },
-  {
-   "title": "Tesla Drops New Cybercab Backpack, Tees, and Gold Cup",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4935/tesla-drops-new-cybercab-backpack-tees-and-gold-cup",
-   "date": "2026-11-02T20:09:00Z",
-   "snippet": "Tesla Shop’s Cybercab Collection adds a backpack, two tees, and a gold paint-to-match cup, priced from $35 to $85 Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-cybercab-shop-collection-november-2026-hero-1793648024.webp/4f94a7a1d2f34d551935305baf98a550/tesla-cybercab-shop-collection-november-2026-hero-1793648024.jpg"
-  },
-  {
-   "title": "Tesla Warned Owners Not To Test Emergency Drive Away. Some Did Anyway.",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/814089/tesla-supercharger-inspection-drive-away/",
-   "date": "2026-11-02T18:40:21Z",
-   "snippet": "One owner was reportedly hit with a $539 bill for pressing the \"Activate\" button (despite Tesla's warning).",
-   "image": "https://cdn.motor1.com/images/mgl/XBb7mp/s3/tesla-emergency-drive-away-regret-hero.jpg"
   }
  ]
 }
