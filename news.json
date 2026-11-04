@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T16:43:06Z",
+ "updated": "2026-11-04T20:40:14Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,38 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "The Model S Is Gone, but Tesla Just Patented Its Design",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4946/the-model-s-is-gone-but-tesla-just-patented-its-design",
+   "date": "2026-11-04T20:26:00Z",
+   "snippet": "Tesla’s new U.S. design patent covers the Model S body for 15 years, months after the sedan’s production ended at Fremont Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/model-s/model-s_72.jpg/c4602752cce2bcfd6db47ce11d608d67/model-s_72.jpg"
+  },
+  {
+   "title": "Tesla Is Reportedly Doubling Production at Giga Texas",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4945/tesla-is-reportedly-doubling-production-at-giga-texas",
+   "date": "2026-11-04T19:01:00Z",
+   "snippet": "A new report indicates Gigafactory Texas is adding a night shift to double production, possibly to ramp Cybercab and Model Y L output as demand grows Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/giga-factories/5_gigafactorytexas_06.webp/bc5da0640238fdeb8a0cf99bd2ab3d69/5_gigafactorytexas_06.jpg"
+  },
+  {
+   "title": "Musk’s Tesla and SpaceX decline after Democratic Midterm sweep",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/musk-tesla-tsla-spacex-spcx-decline-after-democratic-midterm-sweep/",
+   "date": "2026-11-04T18:49:56Z",
+   "snippet": "Tesla and SpaceX shares fell on Wednesday after Democrats swept both chambers of Congress. The decline stood out as broader market securities recovered and turned positive, while…",
+   "image": null
+  },
+  {
+   "title": "Tesla registrations in Germany nearly quadruple in October",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-registrations-germany-nearly-quadruple-october/",
+   "date": "2026-11-04T17:47:52Z",
+   "snippet": "Tesla’s new vehicle registrations in Germany rose sharply in October, nearly quadrupling from the same month a year earlier. That’s according to data from the KBA, Germany’s…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e9-1f1ea.png"
+  },
   {
    "title": "Tesla accused of selling FSD to Korean owners who can’t legally use it",
    "source": "Electrek",
@@ -21,7 +53,7 @@
    "link": "https://electrek.co/2026/11/04/what-does-a-blue-texas-sweep-mean-for-tesla-spacex-elon-musk/",
    "date": "2026-11-04T14:00:00Z",
    "snippet": "After a historic election defeat in one of the most expensive elections in US election history, the state of Texas has turned blue. Along with this come potential implications for…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?w=1500"
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/05/Elon-Musk-wrecking-ball.jpg?quality=82&#038;strip=all&#038;w=1600"
   },
   {
    "title": "Tesla 2026 Shareholder Meeting: What’s on the Ballot",
@@ -70,38 +102,6 @@
    "date": "2026-11-03T19:13:00Z",
    "snippet": "The Dutch RDW approved a new name for Full Self-Driving, cutting its max speed offset from +50% to +10%, and more changes ahead of December’s EU vote Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg"
-  },
-  {
-   "title": "Tesla cuts FSD’s speed margin from 50% to 10% over the limit in Europe",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/03/tesla-assisted-driving-rdw-speed-cap-10-percent-europe/",
-   "date": "2026-11-03T17:55:10Z",
-   "snippet": "Tesla’s driver-assistance system in Europe can no longer be set to drive 50% over the speed limit. The Netherlands’ RDW, which approved the system in April, confirmed today that…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Cybercab Teardown Reveals Modular Battery, Improved Inverter & More",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4937/tesla-cybercab-teardown-reveals-modular-battery-improved-inverter-more",
-   "date": "2026-11-03T17:29:00Z",
-   "snippet": "Munro Live tore down Tesla’s Cybercab with Lars Moravy, revealing swappable battery modules, no paint shop, a 500,000-mile design life, and much more Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/two-cybercabs.webp/560bca7bb71390339f30cd6afcb8a0ae/two-cybercabs.jpg"
-  },
-  {
-   "title": "Tesla wins trade zone status for Texas Megapacks, but China tariffs stay",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/03/tesla-megapack-texas-foreign-trade-zone-china-tariffs/",
-   "date": "2026-11-03T14:15:23Z",
-   "snippet": "Tesla’s Megapack factory in Brookshire, Texas, is now officially a foreign-trade zone, a US customs program that lets manufacturers defer duties on imported parts. The FTZ Board’s…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-Megapack-3-Megablock.webp?w=1600"
-  },
-  {
-   "title": "Tesla’s Next Earnings Call Will Have Video, Musk Says",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4936/teslas-next-earnings-call-will-have-video-musk-says",
-   "date": "2026-11-02T21:09:00Z",
-   "snippet": "Musk says Tesla’s next earnings call will be a video call and more entertaining, after fans compared it to SpaceX’s Q3 webcast. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/multiple-models/group_66.jpg/7620b55782eff45301d6a20b7e036258/group_66.jpg"
   }
  ]
 }
