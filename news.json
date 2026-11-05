@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T04:47:17Z",
+ "updated": "2026-11-05T12:48:28Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "This Startup Wants To Turn Teslas Into Anything, From 11-Seat Minibuses To Pickups",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/814513/tesla-custom-ev-bus-pickup-hoffman-badger/",
+   "date": "2026-11-05T11:10:07Z",
+   "snippet": "The Hoffman Badger made its debut at this year’s SEMA show, driving all the way from Wisconsin to Las Vegas.",
+   "image": "https://cdn.motor1.com/images/mgl/XBbNJ2/s3/hoffman-badger-at-a-tesla-supercharger.jpg"
+  },
+  {
+   "title": "Tesla opens new “Cybaer” Engineering Center in Berlin",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-berlin-btec-engineering-center/",
+   "date": "2026-11-05T10:06:27Z",
+   "snippet": "Tesla opened its Berlin Engineering Center, uniting four sites and 30 labs near Giga Berlin. The post Tesla opens new “Cybaer” Engineering Center in Berlin appeared first on…",
+   "image": null
+  },
   {
    "title": "Tesla Sold FSD To Koreans Who Still Can't Use It. Now It's Facing A Complaint",
    "source": "InsideEVs",
@@ -86,22 +102,6 @@
    "date": "2026-11-03T20:08:00Z",
    "snippet": "The Cybercab’s simpler, dual-sourced inverter fits the same housing as today’s Model Y unit, and Tesla’s answer to whether it’s coming was pretty cheeky Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-drive-unit-munro-live-walkthrough-2.webp/9519da167564948d6d5b9bb42fc4a838/cybercab-drive-unit-munro-live-walkthrough-2.jpg"
-  },
-  {
-   "title": "Tesla Full Self-Driving gets hit with some adjustments in Europe",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-full-self-driving-gets-hit-with-some-adjustments-europe/",
-   "date": "2026-11-03T19:46:21Z",
-   "snippet": "Tesla Full Self-Driving, which is now referred to in Europe as “Tesla Assisted Driving” (TAD), is getting hit with a handful of new changes at the hands of the Netherlands’…",
-   "image": null
-  },
-  {
-   "title": "Tesla shows off Roadster ‘kickflip’ over vehicle lineup in crazy new POV video",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-shows-off-roadster-kickflip-new-pov-video/",
-   "date": "2026-11-03T19:22:34Z",
-   "snippet": "Tesla has released a fresh point-of-view video capturing the next-generation Roadster’s headline stunt from its October 15 unveiling, giving fans a visceral look at the car as it…",
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/10/Roadster_58.jpg"
   }
  ]
 }
