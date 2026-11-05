@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T12:48:28Z",
+ "updated": "2026-11-05T16:55:48Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Wouldn’t Build a Cybervan, So Hoffman EV Did",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4950/tesla-wouldnt-build-a-cybervan-so-hoffman-ev-did",
+   "date": "2026-11-05T15:44:00Z",
+   "snippet": "Hoffman EV showed off a boxy, Cyber-style van at SEMA built on a recycled Model 3, with more body types available and sales expected next year Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/hoffman-ev-badger-van-sema-5-1793892869.webp/14c3b85b24afea1f0adf9929894591fd/hoffman-ev-badger-van-sema-5-1793892869.jpg"
+  },
+  {
+   "title": "Tesla Giga Texas reportedly moves to 24/7 production",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-giga-texas-reportedly-moves-24-7-production/",
+   "date": "2026-11-05T15:39:26Z",
+   "snippet": "Tesla’s Austin Gigafactory is reportedly shifting to round-the-clock vehicle production through the end of 2026, according to longtime drone observer Joe Tegtmeyer. In his…",
+   "image": null
+  },
   {
    "title": "This Startup Wants To Turn Teslas Into Anything, From 11-Seat Minibuses To Pickups",
    "source": "InsideEVs",
@@ -86,22 +102,6 @@
    "date": "2026-11-04T14:00:00Z",
    "snippet": "Tesla’s annual shareholder meeting has only three board proposals this time around — here's what they are and how you can vote Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-human-hands-1.webp/5eda2cf04bea6526acda329d6188bfc1/optimus-human-hands-1.jpg"
-  },
-  {
-   "title": "Your Tesla Runs Cleaner Today Than When You Bought It",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4941/your-tesla-runs-cleaner-today-than-when-you-bought-it",
-   "date": "2026-11-03T22:09:00Z",
-   "snippet": "U.S. grid data shows renewables rose from 17% to 24% of power since 2017 while coal fell 39%, making every EV on the road cleaner over the years Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/charging/wallconnector_95-1776464297.jpeg/4e4ecc8f74eb517a5bdd32c742aaa372/wallconnector_95-1776464297.jpg"
-  },
-  {
-   "title": "Tesla Model 3/Y Could Get an Inverter Upgrade From Cybercab",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4939/tesla-model-3y-could-get-an-inverter-upgrade-from-cybercab",
-   "date": "2026-11-03T20:08:00Z",
-   "snippet": "The Cybercab’s simpler, dual-sourced inverter fits the same housing as today’s Model Y unit, and Tesla’s answer to whether it’s coming was pretty cheeky Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-drive-unit-munro-live-walkthrough-2.webp/9519da167564948d6d5b9bb42fc4a838/cybercab-drive-unit-munro-live-walkthrough-2.jpg"
   }
  ]
 }
