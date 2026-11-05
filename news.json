@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T16:55:48Z",
+ "updated": "2026-11-05T20:37:40Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,46 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla's Robotaxi Geofences Are Smaller Than Advertised: Their Actual Sizes",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4953/teslas-robotaxi-geofences-are-smaller-than-advertised-their-actual-sizes",
+   "date": "2026-11-05T19:58:00Z",
+   "snippet": "Tesla’s real Robotaxi pickup zones in Austin, Dallas, Houston, and Fort Worth are 22% to 41% smaller than the advertised geofences Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-regions.webp/c182c3d2d25e5815d74fb5f8440ef4ed/robotaxi-regions.jpg"
+  },
+  {
+   "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/",
+   "date": "2026-11-05T18:32:57Z",
+   "snippet": "Tesla has answered NHTSA’s Special Order demanding it prove, under oath, that the Cybercab meets federal safety standards. The response landed on the October 30 deadline, and…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "All of Tesla's Robotaxi Markets and Their Actual Sizes [UPDATED]",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4748/teslas-active-robotaxi-markets-and-their-sizes",
+   "date": "2026-11-05T18:06:00Z",
+   "snippet": "Tesla’s Robotaxi service has steadily grown from an experimental pilot in Austin into a commercial footprint spanning seven major regions across the U.S. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-regions.webp/c182c3d2d25e5815d74fb5f8440ef4ed/robotaxi-regions.jpg"
+  },
+  {
+   "title": "Introducing Our Tesla Feature Requests Feature, Where Owners Can Submit and Vote on Ideas",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4951/introducing-our-tesla-feature-requests-feature-where-owners-can-submit-and-vote-on-ideas",
+   "date": "2026-11-05T18:03:00Z",
+   "snippet": "We launched our Tesla software wishlist page, where Tesla owners can submit feature requests that they'd like to see added to their Teslas. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd_parking_concept_1.jpg/35df8fed388d3da62191822cb64ca660/fsd_parking_concept_1.jpg"
+  },
+  {
+   "title": "EVgo taps Tesla Superchargers for mass charging expansion",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/evgo-taps-tesla-superchargers-mass-charging-expansion/",
+   "date": "2026-11-05T17:15:30Z",
+   "snippet": "EVgo has tapped Tesla Superchargers for its most recent efforts to expand its charging presence in the United States, a move that seems logical based on the effectiveness of the…",
+   "image": null
+  },
   {
    "title": "Tesla Wouldn’t Build a Cybervan, So Hoffman EV Did",
    "source": "Not a Tesla App",
@@ -62,46 +102,6 @@
    "date": "2026-11-04T19:01:00Z",
    "snippet": "A new report indicates Gigafactory Texas is adding a night shift to double production, possibly to ramp Cybercab and Model Y L output as demand grows Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/giga-factories/5_gigafactorytexas_06.webp/bc5da0640238fdeb8a0cf99bd2ab3d69/5_gigafactorytexas_06.jpg"
-  },
-  {
-   "title": "Musk’s Tesla and SpaceX decline after Democratic Midterm sweep",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/musk-tesla-tsla-spacex-spcx-decline-after-democratic-midterm-sweep/",
-   "date": "2026-11-04T18:49:56Z",
-   "snippet": "Tesla and SpaceX shares fell on Wednesday after Democrats swept both chambers of Congress. The decline stood out as broader market securities recovered and turned positive, while…",
-   "image": null
-  },
-  {
-   "title": "Tesla registrations in Germany nearly quadruple in October",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-registrations-germany-nearly-quadruple-october/",
-   "date": "2026-11-04T17:47:52Z",
-   "snippet": "Tesla’s new vehicle registrations in Germany rose sharply in October, nearly quadrupling from the same month a year earlier. That’s according to data from the KBA, Germany’s…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f1e9-1f1ea.png"
-  },
-  {
-   "title": "Tesla accused of selling FSD to Korean owners who can’t legally use it",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/04/tesla-fsd-south-korea-consumer-group-complaint-kftc/",
-   "date": "2026-11-04T14:27:02Z",
-   "snippet": "A South Korean consumer group is asking regulators to stop Tesla from marketing “Full Self-Driving” to customers whose cars can’t legally run it. By Tesla’s own numbers, that…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2020/07/Tesla-Korea.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "What does a blue Texas sweep mean for Elon Musk, Tesla & SpaceX?",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/04/what-does-a-blue-texas-sweep-mean-for-tesla-spacex-elon-musk/",
-   "date": "2026-11-04T14:00:00Z",
-   "snippet": "After a historic election defeat in one of the most expensive elections in US election history, the state of Texas has turned blue. Along with this come potential implications for…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/05/Elon-Musk-wrecking-ball.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla 2026 Shareholder Meeting: What’s on the Ballot",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4943/tesla-2026-shareholder-meeting-whats-on-the-ballot",
-   "date": "2026-11-04T14:00:00Z",
-   "snippet": "Tesla’s annual shareholder meeting has only three board proposals this time around — here's what they are and how you can vote Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-human-hands-1.webp/5eda2cf04bea6526acda329d6188bfc1/optimus-human-hands-1.jpg"
   }
  ]
 }
