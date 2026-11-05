@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T00:39:32Z",
+ "updated": "2026-11-05T04:47:17Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Sold FSD To Koreans Who Still Can't Use It. Now It's Facing A Complaint",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/814404/tesla-fsd-south-korea-claims/",
+   "date": "2026-11-04T22:35:46Z",
+   "snippet": "Data shows that 99% of Teslas imported into Korea last year can't activate Full Self-Driving, even if owners paid for the feature.",
+   "image": "https://cdn.motor1.com/images/mgl/zxJB6K/s3/tesla-fsd-europe-quiz-netherlands.jpg"
+  },
   {
    "title": "The Model S Is Gone, but Tesla Just Patented Its Design",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-11-03T19:22:34Z",
    "snippet": "Tesla has released a fresh point-of-view video capturing the next-generation Roadster’s headline stunt from its October 15 unveiling, giving fans a visceral look at the car as it…",
    "image": "https://www.teslarati.com/wp-content/uploads/2026/10/Roadster_58.jpg"
-  },
-  {
-   "title": "Tesla FSD Gets Reduced Speed Offset & More Changes in Europe",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4938/tesla-fsd-gets-reduced-speed-offset-more-changes-in-europe",
-   "date": "2026-11-03T19:13:00Z",
-   "snippet": "The Dutch RDW approved a new name for Full Self-Driving, cutting its max speed offset from +50% to +10%, and more changes ahead of December’s EU vote Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg"
   }
  ]
 }
