@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T20:37:40Z",
+ "updated": "2026-11-06T00:37:36Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -14,6 +14,22 @@
    "date": "2026-11-05T19:58:00Z",
    "snippet": "Tesla’s real Robotaxi pickup zones in Austin, Dallas, Houston, and Fort Worth are 22% to 41% smaller than the advertised geofences Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-regions.webp/c182c3d2d25e5815d74fb5f8440ef4ed/robotaxi-regions.jpg"
+  },
+  {
+   "title": "Tesla Is Now Powering One Of Its Biggest Charging Rivals",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/814582/tesla-supercharging-ev-go-chicago/",
+   "date": "2026-11-05T19:13:57Z",
+   "snippet": "EVgo just opened its first station featuring Tesla Superchargers, with hundreds more stalls on the way.",
+   "image": "https://cdn.motor1.com/images/mgl/6ZOxXE/s3/evgo-tesla.jpg"
+  },
+  {
+   "title": "Tesla's Kickflipping Roadster Looks Like A Great Way To Lose Your Lunch",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/814440/tesla-roadster-flip-pov-video/",
+   "date": "2026-11-05T18:37:21Z",
+   "snippet": "Watch a POV video of the Roadster doing what it does best.",
+   "image": "https://cdn.motor1.com/images/mgl/9mWkkp/s3/tesla-roadster-barrel-roll.jpg"
   },
   {
    "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
@@ -86,22 +102,6 @@
    "date": "2026-11-04T22:35:46Z",
    "snippet": "Data shows that 99% of Teslas imported into Korea last year can't activate Full Self-Driving, even if owners paid for the feature.",
    "image": "https://cdn.motor1.com/images/mgl/zxJB6K/s3/tesla-fsd-europe-quiz-netherlands.jpg"
-  },
-  {
-   "title": "The Model S Is Gone, but Tesla Just Patented Its Design",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4946/the-model-s-is-gone-but-tesla-just-patented-its-design",
-   "date": "2026-11-04T20:26:00Z",
-   "snippet": "Tesla’s new U.S. design patent covers the Model S body for 15 years, months after the sedan’s production ended at Fremont Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/model-s/model-s_72.jpg/c4602752cce2bcfd6db47ce11d608d67/model-s_72.jpg"
-  },
-  {
-   "title": "Tesla Is Reportedly Doubling Production at Giga Texas",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4945/tesla-is-reportedly-doubling-production-at-giga-texas",
-   "date": "2026-11-04T19:01:00Z",
-   "snippet": "A new report indicates Gigafactory Texas is adding a night shift to double production, possibly to ramp Cybercab and Model Y L output as demand grows Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/giga-factories/5_gigafactorytexas_06.webp/bc5da0640238fdeb8a0cf99bd2ab3d69/5_gigafactorytexas_06.jpg"
   }
  ]
 }
