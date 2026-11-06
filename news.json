@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:39:28Z",
+ "updated": "2026-11-06T20:35:53Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Musk: Tesla Will Rent Optimus Robots Instead of Selling Them",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4959/musk-tesla-will-rent-optimus-robots-instead-of-selling-them",
+   "date": "2026-11-06T20:09:00Z",
+   "snippet": "Musk says Optimus will likely be rented rather than sold, with costs starting near $30,000 and falling toward $20,000 over time Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-gen-3-eth-zurich.webp/104cfdf0eecac83331e34fe1cec7ea74/optimus-gen-3-eth-zurich.jpg"
+  },
+  {
+   "title": "Everything You Can Control With Grok in Your Tesla",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4958/everything-you-can-control-with-grok-in-your-tesla",
+   "date": "2026-11-06T17:41:00Z",
+   "snippet": "Here’s everything Grok can control in your Tesla, what still needs the mic button, and the features coming next, like texting and FSD commands Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/grok-ui-3.webp/bf6c99cdc1d0b627d04ddf1ba8b580ef/grok-ui-3.jpg"
+  },
+  {
+   "title": "It’s Official: The Cybertruck Is One Of The Greatest Flops In Automotive History",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/features/814702/tesla-cybertruck-failure/",
+   "date": "2026-11-06T17:29:56Z",
+   "snippet": "Tesla broke almost every promise it made about the Cybertruck. The result was unambiguous: A failure of historic proportions.",
+   "image": "https://cdn.motor1.com/images/mgl/AkOqGW/s3/tesla-cybertruck-breakthrough.jpg"
+  },
   {
    "title": "Tesla Raises Cybertruck Prices, Pauses Base Trim Orders",
    "source": "Not a Tesla App",
@@ -78,30 +102,6 @@
    "date": "2026-11-05T18:37:21Z",
    "snippet": "Watch a POV video of the Roadster doing what it does best.",
    "image": "https://cdn.motor1.com/images/mgl/9mWkkp/s3/tesla-roadster-barrel-roll.jpg"
-  },
-  {
-   "title": "Tesla wants its sworn Cybercab answers to NHTSA kept entirely secret",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/05/tesla-cybercab-nhtsa-sworn-answers-confidential/",
-   "date": "2026-11-05T18:32:57Z",
-   "snippet": "Tesla has answered NHTSA’s Special Order demanding it prove, under oath, that the Cybercab meets federal safety standards. The response landed on the October 30 deadline, and…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "All of Tesla's Robotaxi Markets and Their Actual Sizes [UPDATED]",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4748/teslas-active-robotaxi-markets-and-their-sizes",
-   "date": "2026-11-05T18:06:00Z",
-   "snippet": "Tesla’s Robotaxi service has steadily grown from an experimental pilot in Austin into a commercial footprint spanning seven major regions across the U.S. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-regions.webp/c182c3d2d25e5815d74fb5f8440ef4ed/robotaxi-regions.jpg"
-  },
-  {
-   "title": "Introducing Our Tesla Feature Requests Feature, Where Owners Can Submit and Vote on Ideas",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4951/introducing-our-tesla-feature-requests-feature-where-owners-can-submit-and-vote-on-ideas",
-   "date": "2026-11-05T18:03:00Z",
-   "snippet": "We launched our Tesla software wishlist page, where Tesla owners can submit feature requests that they'd like to see added to their Teslas. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd_parking_concept_1.jpg/35df8fed388d3da62191822cb64ca660/fsd_parking_concept_1.jpg"
   }
  ]
 }
