@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T00:37:36Z",
+ "updated": "2026-11-06T12:45:32Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla to end Cybertruck production as sales stall at ~10% of plan",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/06/tesla-ending-cybertruck-production-sales-10-percent-plan/",
+   "date": "2026-11-06T11:33:25Z",
+   "snippet": "Tesla is ending Cybertruck production. CEO Elon Musk announced early Friday that the automaker will “wind down” the electric pickup at Gigafactory Texas around the middle of 2027…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla Is Killing The Cybertruck To Make Room For More Robotaxis",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/814618/tesla-cybertruck-production-ending-official/",
+   "date": "2026-11-06T08:00:25Z",
+   "snippet": "Tesla CEO Elon Musk said the company will “wind down” production of the controversial pickup in Texas.",
+   "image": "https://cdn.motor1.com/images/mgl/L3x4qG/s3/2024-breakthrough-award-nominee-the-tesla-cybertruck.jpg"
+  },
   {
    "title": "Tesla's Robotaxi Geofences Are Smaller Than Advertised: Their Actual Sizes",
    "source": "Not a Tesla App",
@@ -86,22 +102,6 @@
    "date": "2026-11-05T11:10:07Z",
    "snippet": "The Hoffman Badger made its debut at this year’s SEMA show, driving all the way from Wisconsin to Las Vegas.",
    "image": "https://cdn.motor1.com/images/mgl/XBbNJ2/s3/hoffman-badger-at-a-tesla-supercharger.jpg"
-  },
-  {
-   "title": "Tesla opens new “Cybaer” Engineering Center in Berlin",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-berlin-btec-engineering-center/",
-   "date": "2026-11-05T10:06:27Z",
-   "snippet": "Tesla opened its Berlin Engineering Center, uniting four sites and 30 labs near Giga Berlin. The post Tesla opens new “Cybaer” Engineering Center in Berlin appeared first on…",
-   "image": null
-  },
-  {
-   "title": "Tesla Sold FSD To Koreans Who Still Can't Use It. Now It's Facing A Complaint",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/814404/tesla-fsd-south-korea-claims/",
-   "date": "2026-11-04T22:35:46Z",
-   "snippet": "Data shows that 99% of Teslas imported into Korea last year can't activate Full Self-Driving, even if owners paid for the feature.",
-   "image": "https://cdn.motor1.com/images/mgl/zxJB6K/s3/tesla-fsd-europe-quiz-netherlands.jpg"
   }
  ]
 }
