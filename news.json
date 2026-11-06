@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:45:32Z",
+ "updated": "2026-11-06T16:39:28Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,38 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Raises Cybertruck Prices, Pauses Base Trim Orders",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4955/tesla-raises-cybertruck-prices-pauses-base-trim-orders",
+   "date": "2026-11-06T16:24:00Z",
+   "snippet": "All three trims have increased in price and the Dual Motor AWD can no longer be ordered, just as Tesla plans to end Cybertruck production Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/ct_saudi.jpg/aae9704d91c0fc5019e754f8bd9ec8b3/ct_saudi.jpg"
+  },
+  {
+   "title": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/06/tesla-raises-cybertruck-prices-after-ending-production/",
+   "date": "2026-11-06T14:03:57Z",
+   "snippet": "Tesla has raised Cybertruck prices in the US by up to 10% and stopped taking orders for the base Dual Motor AWD trim. The cheapest Cybertruck you can actually order now costs…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-Cybertruck-off-roading-hero.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla Announces It Will Discontinue the Cybertruck",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4954/tesla-will-end-cybertruck-production-to-make-more-cybercabs",
+   "date": "2026-11-06T14:00:00Z",
+   "snippet": "Tesla is ending Cybertruck production in mid-2027 to build more Cybercabs, about three and a half years after the truck’s first deliveries. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/ct_saudi-1793979667.jpg/aa8dd269e0cb6233cdfdfdf178717bfd/ct_saudi-1793979667.jpg"
+  },
+  {
+   "title": "Tesla is ending Cybertruck production",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-is-ending-cybertruck-production/",
+   "date": "2026-11-06T13:46:24Z",
+   "snippet": "Tesla is ending Cybertruck production sometime in mid-2027, according to CEO Elon Musk. Musk made the announcement on X last night, which came as a shock to many. He said that the…",
+   "image": null
+  },
   {
    "title": "Tesla to end Cybertruck production as sales stall at ~10% of plan",
    "source": "Electrek",
@@ -70,38 +102,6 @@
    "date": "2026-11-05T18:03:00Z",
    "snippet": "We launched our Tesla software wishlist page, where Tesla owners can submit feature requests that they'd like to see added to their Teslas. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/fsd_parking_concept_1.jpg/35df8fed388d3da62191822cb64ca660/fsd_parking_concept_1.jpg"
-  },
-  {
-   "title": "EVgo taps Tesla Superchargers for mass charging expansion",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/evgo-taps-tesla-superchargers-mass-charging-expansion/",
-   "date": "2026-11-05T17:15:30Z",
-   "snippet": "EVgo has tapped Tesla Superchargers for its most recent efforts to expand its charging presence in the United States, a move that seems logical based on the effectiveness of the…",
-   "image": null
-  },
-  {
-   "title": "Tesla Wouldn’t Build a Cybervan, So Hoffman EV Did",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4950/tesla-wouldnt-build-a-cybervan-so-hoffman-ev-did",
-   "date": "2026-11-05T15:44:00Z",
-   "snippet": "Hoffman EV showed off a boxy, Cyber-style van at SEMA built on a recycled Model 3, with more body types available and sales expected next year Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/hoffman-ev-badger-van-sema-5-1793892869.webp/14c3b85b24afea1f0adf9929894591fd/hoffman-ev-badger-van-sema-5-1793892869.jpg"
-  },
-  {
-   "title": "Tesla Giga Texas reportedly moves to 24/7 production",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-giga-texas-reportedly-moves-24-7-production/",
-   "date": "2026-11-05T15:39:26Z",
-   "snippet": "Tesla’s Austin Gigafactory is reportedly shifting to round-the-clock vehicle production through the end of 2026, according to longtime drone observer Joe Tegtmeyer. In his…",
-   "image": null
-  },
-  {
-   "title": "This Startup Wants To Turn Teslas Into Anything, From 11-Seat Minibuses To Pickups",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/814513/tesla-custom-ev-bus-pickup-hoffman-badger/",
-   "date": "2026-11-05T11:10:07Z",
-   "snippet": "The Hoffman Badger made its debut at this year’s SEMA show, driving all the way from Wisconsin to Las Vegas.",
-   "image": "https://cdn.motor1.com/images/mgl/XBbNJ2/s3/hoffman-badger-at-a-tesla-supercharger.jpg"
   }
  ]
 }
