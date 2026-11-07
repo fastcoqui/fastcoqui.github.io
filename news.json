@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T16:26:02Z",
+ "updated": "2026-11-07T20:24:27Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Robotaxi app update now tells riders if Cybercab is the better choice",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-robotaxi-app-cybercab-vs-model-y/",
+   "date": "2026-11-07T18:27:46Z",
+   "snippet": "Tesla's Robotaxi app now shows ETAs, wait times and availability for Cybercab and Model Y. The post Tesla Robotaxi app update now tells riders if Cybercab is the better choice…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9c8.png"
+  },
   {
    "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
    "source": "Electrek",
@@ -94,14 +102,6 @@
    "date": "2026-11-06T11:33:25Z",
    "snippet": "Tesla is ending Cybertruck production. CEO Elon Musk announced early Friday that the automaker will “wind down” the electric pickup at Gigafactory Texas around the middle of 2027…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Is Killing The Cybertruck To Make Room For More Robotaxis",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/814618/tesla-cybertruck-production-ending-official/",
-   "date": "2026-11-06T08:00:25Z",
-   "snippet": "Tesla CEO Elon Musk said the company will “wind down” production of the controversial pickup in Texas.",
-   "image": "https://cdn.motor1.com/images/mgl/L3x4qG/s3/2024-breakthrough-award-nominee-the-tesla-cybertruck.jpg"
   }
  ]
 }
