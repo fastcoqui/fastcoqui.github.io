@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T20:35:53Z",
+ "updated": "2026-11-07T16:26:02Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/",
+   "date": "2026-11-07T16:01:23Z",
+   "snippet": "A California judge has deemed Tesla liable for fraud in a Solar Roof lawsuit, after the company repeatedly failed to hand over evidence. Tesla had already admitted it breached the…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2019/08/Tesla-Solar-Roof-quote.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "EVgo Opens Its First Tesla Supercharger Site in Chicago",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4961/evgo-opens-its-first-tesla-supercharger-site-in-chicago",
+   "date": "2026-11-07T15:30:00Z",
+   "snippet": "EVgo opened its first Tesla Supercharger site near Chicago, with 12 V4 stalls that charge both NACS and CCS EVs and show up in Tesla navigation Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/charging/evgo-tesla-supercharger-chicago.webp/1a6b3b9173726d476d990c7beacece45/evgo-tesla-supercharger-chicago.jpg"
+  },
+  {
+   "title": "Tesla’s Giga Shanghai Now Sources 98% of Parts Locally",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4960/teslas-giga-shanghai-now-sources-98-of-parts-locally",
+   "date": "2026-11-07T14:30:00Z",
+   "snippet": "Giga Shanghai’s parts localization rose from over 95% to 98%, with 400+ local tier-1 suppliers and 60+ in Tesla’s global supply chain. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-gigafactory-shanghai.webp/06b4e2b596aa5b658f49bdfc0039d386/model-y-l-gigafactory-shanghai.jpg"
+  },
   {
    "title": "Musk: Tesla Will Rent Optimus Robots Instead of Selling Them",
    "source": "Not a Tesla App",
@@ -78,30 +102,6 @@
    "date": "2026-11-06T08:00:25Z",
    "snippet": "Tesla CEO Elon Musk said the company will “wind down” production of the controversial pickup in Texas.",
    "image": "https://cdn.motor1.com/images/mgl/L3x4qG/s3/2024-breakthrough-award-nominee-the-tesla-cybertruck.jpg"
-  },
-  {
-   "title": "Tesla's Robotaxi Geofences Are Smaller Than Advertised: Their Actual Sizes",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4953/teslas-robotaxi-geofences-are-smaller-than-advertised-their-actual-sizes",
-   "date": "2026-11-05T19:58:00Z",
-   "snippet": "Tesla’s real Robotaxi pickup zones in Austin, Dallas, Houston, and Fort Worth are 22% to 41% smaller than the advertised geofences Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-regions.webp/c182c3d2d25e5815d74fb5f8440ef4ed/robotaxi-regions.jpg"
-  },
-  {
-   "title": "Tesla Is Now Powering One Of Its Biggest Charging Rivals",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/814582/tesla-supercharging-ev-go-chicago/",
-   "date": "2026-11-05T19:13:57Z",
-   "snippet": "EVgo just opened its first station featuring Tesla Superchargers, with hundreds more stalls on the way.",
-   "image": "https://cdn.motor1.com/images/mgl/6ZOxXE/s3/evgo-tesla.jpg"
-  },
-  {
-   "title": "Tesla's Kickflipping Roadster Looks Like A Great Way To Lose Your Lunch",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/814440/tesla-roadster-flip-pov-video/",
-   "date": "2026-11-05T18:37:21Z",
-   "snippet": "Watch a POV video of the Roadster doing what it does best.",
-   "image": "https://cdn.motor1.com/images/mgl/9mWkkp/s3/tesla-roadster-barrel-roll.jpg"
   }
  ]
 }
