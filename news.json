@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T16:25:59Z",
+ "updated": "2026-11-08T20:24:24Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -8,12 +8,20 @@
  ],
  "items": [
   {
+   "title": "Tesla Explains Why the Cybertruck Was Canceled, Will Increase Production to Clear Backlog",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4967/tesla-to-add-extra-cybertruck-shift-to-clear-order-backlog",
+   "date": "2026-11-08T16:30:00Z",
+   "snippet": "Tesla will add an extra Cybertruck shift to fill its order backlog before the line is dismantled for Cybercab around June or July 2027 Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck-production.jpg/5b1ea95b2b64b46f5f077d7e9767c51c/cybertruck-production.jpg"
+  },
+  {
    "title": "Musk: Silver Cybercab With Smaller 40 kWh Battery Is Coming",
    "source": "Not a Tesla App",
    "link": "https://www.notateslaapp.com/news/4965/musk-silver-cybercab-with-smaller-40-kwh-battery-is-coming",
    "date": "2026-11-08T15:30:00Z",
    "snippet": "Tesla is planning a Cybercab with a 16% smaller 40 kWh battery and a new liquid silver color, according to Elon Musk Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-liquid-silver-cybercab-concept-1.webp/126cdf9ad80c4e2c24506b727e26d5c5/tesla-liquid-silver-cybercab-concept-1.jpg"
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-silver.png/e2086f40380ec6ec096c5766ac122502/cybercab-silver.jpg"
   },
   {
    "title": "Tesla Cybercab is set to get some massive improvements",
@@ -94,14 +102,6 @@
    "date": "2026-11-06T14:03:57Z",
    "snippet": "Tesla has raised Cybertruck prices in the US by up to 10% and stopped taking orders for the base Dual Motor AWD trim. The cheapest Cybertruck you can actually order now costs…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-Cybertruck-off-roading-hero.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Announces It Will Discontinue the Cybertruck",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4954/tesla-will-end-cybertruck-production-to-make-more-cybercabs",
-   "date": "2026-11-06T14:00:00Z",
-   "snippet": "Tesla is ending Cybertruck production in mid-2027 to build more Cybercabs, about three and a half years after the truck’s first deliveries. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/ct_saudi-1793979667.jpg/aa8dd269e0cb6233cdfdfdf178717bfd/ct_saudi-1793979667.jpg"
   }
  ]
 }
