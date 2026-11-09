@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T16:54:01Z",
+ "updated": "2026-11-09T20:40:51Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,38 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Robotaxi enters its newest city, reaching San Antonio",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-robotaxi-enters-newest-city-san-antonio/",
+   "date": "2026-11-09T20:27:19Z",
+   "snippet": "Tesla launched unsupervised Robotaxi service in San Antonio, Texas, on November 9, 2026, with the first rides beginning at 5 a.m. local time. The company’s official Robotaxi…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
+  {
+   "title": "Tesla Robotaxi Area Expands in Austin, Increases Hours Again",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4975/tesla-robotaxi-area-expands-in-austin-increases-hours-again",
+   "date": "2026-11-09T19:37:00Z",
+   "snippet": "Tesla’s Austin Robotaxi zone grew from 272 to 443 square miles, and rides now run 21 hours a day from 5 a.m. to 2 a.m. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-autin-robotaxi-geofence-expansion-10-november-2026.webp/1e65404ce27c5c376b0814bc7944c0e1/tesla-autin-robotaxi-geofence-expansion-10-november-2026.jpg"
+  },
+  {
+   "title": "Tesla VP Talks About How Lasers May Make Their Way to the Cybercab",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4974/tesla-vp-talks-about-how-lasers-may-make-their-way-to-the-cybercab",
+   "date": "2026-11-09T18:51:00Z",
+   "snippet": "Tesla VP Lars Moravy discusses laser windshield cleaning for robotaxis, renewing interest in Tesla’s patents and a possible Cybercab application. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-3.webp/a86b471d10f2b679b82c97f847f1d84a/cybercab-3.jpg"
+  },
+  {
+   "title": "Tesla begins groundworks on $10B ‘Project Crystal Sun’ in Texas",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-begins-10b-project-solar-panel-manufacturing-project/",
+   "date": "2026-11-09T17:21:34Z",
+   "snippet": "Tesla has started to perform earthworks engineering on the roughly 3,000-acre site in Fort Bend County, Texas, advancing the massive $10 billion Project Crystal Sun plan to build…",
+   "image": null
+  },
   {
    "title": "Musk admits Tesla doesn’t have enough talent to build more than one car at a time after exodus",
    "source": "Electrek",
@@ -44,7 +76,7 @@
    "source": "Not a Tesla App",
    "link": "https://www.notateslaapp.com/news/4969/tesla-launches-largest-robotaxi-zone-yet-in-san-antonio",
    "date": "2026-11-09T12:16:00Z",
-   "snippet": "Tesla’s unsupervised Robotaxi service launched in San Antonio with a ~275 sq. mile zone, one week after Fort Worth and its biggest launch yet Read More",
+   "snippet": "Tesla’s unsupervised Robotaxi service launched in San Antonio with a ~274 sq. mile zone, one week after Fort Worth and its biggest launch yet Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-san-antonio-launch-geofence-november-2026.webp/15c24a66573f2c23a52ed673b865bc09/tesla-robotaxi-san-antonio-launch-geofence-november-2026.jpg"
   },
   {
@@ -70,38 +102,6 @@
    "date": "2026-11-08T14:45:16Z",
    "snippet": "Tesla Cybercab is going to get some pretty substantial updates, including improvements to efficiency and a new color. CEO Elon Musk said in a post on X on Saturday that Tesla…",
    "image": "https://www.teslarati.com/wp-content/uploads/2026/07/tesla-cybercab-employee-rides-texas.jpg"
-  },
-  {
-   "title": "Tesla Robotaxi app update now tells riders if Cybercab is the better choice",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-robotaxi-app-cybercab-vs-model-y/",
-   "date": "2026-11-07T18:27:46Z",
-   "snippet": "Tesla's Robotaxi app now shows ETAs, wait times and availability for Cybercab and Model Y. The post Tesla Robotaxi app update now tells riders if Cybercab is the better choice…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9c8.png"
-  },
-  {
-   "title": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/",
-   "date": "2026-11-07T16:01:23Z",
-   "snippet": "A California judge has deemed Tesla liable for fraud in a Solar Roof lawsuit, after the company repeatedly failed to hand over evidence. Tesla had already admitted it breached the…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2019/08/Tesla-Solar-Roof-quote.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "EVgo Opens Its First Tesla Supercharger Site in Chicago",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4961/evgo-opens-its-first-tesla-supercharger-site-in-chicago",
-   "date": "2026-11-07T15:30:00Z",
-   "snippet": "EVgo opened its first Tesla Supercharger site near Chicago, with 12 V4 stalls that charge both NACS and CCS EVs and show up in Tesla navigation Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/charging/evgo-tesla-supercharger-chicago.webp/1a6b3b9173726d476d990c7beacece45/evgo-tesla-supercharger-chicago.jpg"
-  },
-  {
-   "title": "Tesla’s Giga Shanghai Now Sources 98% of Parts Locally",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4960/teslas-giga-shanghai-now-sources-98-of-parts-locally",
-   "date": "2026-11-07T14:30:00Z",
-   "snippet": "Giga Shanghai’s parts localization rose from over 95% to 98%, with 400+ local tier-1 suppliers and 60+ in Tesla’s global supply chain. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-gigafactory-shanghai.webp/06b4e2b596aa5b658f49bdfc0039d386/model-y-l-gigafactory-shanghai.jpg"
   }
  ]
 }
