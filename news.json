@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T20:24:24Z",
+ "updated": "2026-11-09T12:50:22Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Launches Largest Robotaxi Region Yet in San Antonio",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4969/tesla-launches-largest-robotaxi-zone-yet-in-san-antonio",
+   "date": "2026-11-09T12:16:00Z",
+   "snippet": "Tesla’s unsupervised Robotaxi service launched in San Antonio with a ~275 sq. mile zone, one week after Fort Worth and its biggest launch yet Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-san-antonio-launch-geofence-november-2026.webp/15c24a66573f2c23a52ed673b865bc09/tesla-robotaxi-san-antonio-launch-geofence-november-2026.jpg"
+  },
   {
    "title": "Tesla Explains Why the Cybertruck Was Canceled, Will Increase Production to Clear Backlog",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-11-06T16:24:00Z",
    "snippet": "All three trims have increased in price and the Dual Motor AWD can no longer be ordered, just as Tesla plans to end Cybertruck production Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck-snow.jpeg/f9de7965e622ae382c3b4382ccce3965/cybertruck-snow.jpg"
-  },
-  {
-   "title": "Tesla hikes Cybertruck prices up to 10% after announcing it will kill production",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/06/tesla-raises-cybertruck-prices-after-ending-production/",
-   "date": "2026-11-06T14:03:57Z",
-   "snippet": "Tesla has raised Cybertruck prices in the US by up to 10% and stopped taking orders for the base Dual Motor AWD trim. The cheapest Cybertruck you can actually order now costs…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/03/Tesla-Cybertruck-off-roading-hero.jpg?quality=82&#038;strip=all&#038;w=1600"
   }
  ]
 }
