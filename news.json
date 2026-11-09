@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T12:50:22Z",
+ "updated": "2026-11-09T16:54:01Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -8,7 +8,39 @@
  ],
  "items": [
   {
-   "title": "Tesla Launches Largest Robotaxi Region Yet in San Antonio",
+   "title": "Musk admits Tesla doesn’t have enough talent to build more than one car at a time after exodus",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/",
+   "date": "2026-11-09T16:41:29Z",
+   "snippet": "Elon Musk now says Tesla can’t build the Cybertruck and the Cybercab at the same time because there are only so many “smart, dedicated people” to go around. Half the executives he…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-lineup-2024-crossed-out-question-marks.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Elon Musk keeps justifying Tesla Cybertruck’s cancelation, but it’s confusing",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/elon-musk-keeps-justifying-tesla-cybertruck-cancelation-confusing/",
+   "date": "2026-11-09T16:19:25Z",
+   "snippet": "Elon Musk continues to shed more reasons that justify the cancelation of the Tesla Cybertruck, but some of the reasons for the sunset, as well as the process the company is…",
+   "image": null
+  },
+  {
+   "title": "Tesla launches Robotaxi in San Antonio with a 274 sq mi geofence on paper",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/09/tesla-robotaxi-san-antonio-launch-geofence/",
+   "date": "2026-11-09T14:36:37Z",
+   "snippet": "Tesla is launching its Robotaxi service in San Antonio, its eighth city, with a launch geofence covering about 274 square miles. That’s the biggest day-one map Tesla has ever…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-robotaxi-san-antonio-geofence.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Musk says Cybertruck isn’t dying from weak sales — the numbers disagree",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/09/musk-cybertruck-demand-claim-data/",
+   "date": "2026-11-09T13:56:47Z",
+   "snippet": "Elon Musk now claims Cybertruck orders “far exceed” Tesla’s production rate, and that the truck isn’t being killed because it’s unprofitable. It’s his second explanation in three…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-Cybertruck-production-April-2024.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla Launches Robotaxi in San Antonio, Its 9th and Largest Region Yet",
    "source": "Not a Tesla App",
    "link": "https://www.notateslaapp.com/news/4969/tesla-launches-largest-robotaxi-zone-yet-in-san-antonio",
    "date": "2026-11-09T12:16:00Z",
@@ -70,38 +102,6 @@
    "date": "2026-11-07T14:30:00Z",
    "snippet": "Giga Shanghai’s parts localization rose from over 95% to 98%, with 400+ local tier-1 suppliers and 60+ in Tesla’s global supply chain. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-gigafactory-shanghai.webp/06b4e2b596aa5b658f49bdfc0039d386/model-y-l-gigafactory-shanghai.jpg"
-  },
-  {
-   "title": "Musk: Tesla Will Rent Optimus Robots Instead of Selling Them",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4959/musk-tesla-will-rent-optimus-robots-instead-of-selling-them",
-   "date": "2026-11-06T20:09:00Z",
-   "snippet": "Musk says Optimus will likely be rented rather than sold, with costs starting near $30,000 and falling toward $20,000 over time Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-gen-3-eth-zurich.webp/104cfdf0eecac83331e34fe1cec7ea74/optimus-gen-3-eth-zurich.jpg"
-  },
-  {
-   "title": "Everything You Can Control With Grok in Your Tesla",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4958/everything-you-can-control-with-grok-in-your-tesla",
-   "date": "2026-11-06T17:41:00Z",
-   "snippet": "Here’s everything Grok can control in your Tesla, what still needs the mic button, and the features coming next, like texting and FSD commands Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/grok-ui-3.webp/bf6c99cdc1d0b627d04ddf1ba8b580ef/grok-ui-3.jpg"
-  },
-  {
-   "title": "It’s Official: The Cybertruck Is One Of The Greatest Flops In Automotive History",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/features/814702/tesla-cybertruck-failure/",
-   "date": "2026-11-06T17:29:56Z",
-   "snippet": "Tesla broke almost every promise it made about the Cybertruck. The result was unambiguous: A failure of historic proportions.",
-   "image": "https://cdn.motor1.com/images/mgl/AkOqGW/s3/tesla-cybertruck-breakthrough.jpg"
-  },
-  {
-   "title": "Tesla Raises Cybertruck Prices, Pauses Base Trim Orders",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4955/tesla-raises-cybertruck-prices-pauses-base-trim-orders",
-   "date": "2026-11-06T16:24:00Z",
-   "snippet": "All three trims have increased in price and the Dual Motor AWD can no longer be ordered, just as Tesla plans to end Cybertruck production Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck-snow.jpeg/f9de7965e622ae382c3b4382ccce3965/cybertruck-snow.jpg"
   }
  ]
 }
