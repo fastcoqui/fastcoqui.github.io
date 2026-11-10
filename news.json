@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:40:34Z",
+ "updated": "2026-11-10T12:46:28Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Hikes Cyberbeast Price Again, Ends Cybertruck Premium Ordering",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4979/tesla-ends-cybertruck-premium-orders-hikes-cyberbeast-price",
+   "date": "2026-11-10T12:40:00Z",
+   "snippet": "Tesla stopped taking Cybertruck Premium AWD orders and raised the Cyberbeast to $109,990, its only remaining trim before production ends in 2027 Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/9-1778246822.jpg/4bf597ce6c3d057e0986ab485e5e2621/9-1778246822.jpg"
+  },
   {
    "title": "Tesla exec hints at a wild fix for Robotaxi’s biggest weather problem",
    "source": "Teslarati",
@@ -94,14 +102,6 @@
    "date": "2026-11-09T12:16:00Z",
    "snippet": "Tesla’s unsupervised Robotaxi service launched in San Antonio with a ~274 sq. mile zone, one week after Fort Worth and its biggest launch yet Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-san-antonio-launch-geofence-november-2026.webp/15c24a66573f2c23a52ed673b865bc09/tesla-robotaxi-san-antonio-launch-geofence-november-2026.jpg"
-  },
-  {
-   "title": "Tesla Explains Why the Cybertruck Was Canceled, Will Increase Production to Clear Backlog",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4967/tesla-to-add-extra-cybertruck-shift-to-clear-order-backlog",
-   "date": "2026-11-08T16:30:00Z",
-   "snippet": "Tesla will add an extra Cybertruck shift to fill its order backlog before the line is dismantled for Cybercab around June or July 2027 Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck-production.jpg/5b1ea95b2b64b46f5f077d7e9767c51c/cybertruck-production.jpg"
   }
  ]
 }
