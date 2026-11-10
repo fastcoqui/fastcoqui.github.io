@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T00:33:07Z",
+ "updated": "2026-11-10T04:40:34Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla exec hints at a wild fix for Robotaxi’s biggest weather problem",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-lars-moravy-robotaxi-laser-windshield/",
+   "date": "2026-11-10T03:12:07Z",
+   "snippet": "Tesla VP Lars Moravy says focused lasers could keep robotaxi cameras clear instead of wipers. The post Tesla exec hints at a wild fix for Robotaxi’s biggest weather problem…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
   {
    "title": "Musk Says Cybertruck Is Profitable, Explains Cancellation",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-11-08T16:30:00Z",
    "snippet": "Tesla will add an extra Cybertruck shift to fill its order backlog before the line is dismantled for Cybercab around June or July 2027 Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck-production.jpg/5b1ea95b2b64b46f5f077d7e9767c51c/cybertruck-production.jpg"
-  },
-  {
-   "title": "Musk: Silver Cybercab With Smaller 40 kWh Battery Is Coming",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4965/musk-silver-cybercab-with-smaller-40-kwh-battery-is-coming",
-   "date": "2026-11-08T15:30:00Z",
-   "snippet": "Tesla is planning a Cybercab with a 16% smaller 40 kWh battery and a new liquid silver color, according to Elon Musk Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-silver.png/e2086f40380ec6ec096c5766ac122502/cybercab-silver.jpg"
   }
  ]
 }
