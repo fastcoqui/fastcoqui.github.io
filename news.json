@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:46:28Z",
+ "updated": "2026-11-10T16:39:05Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,38 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla slims Cybertruck offerings to only its most expensive trim",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-slims-cybertruck-offerings-most-expensive-trim/",
+   "date": "2026-11-10T16:25:50Z",
+   "snippet": "Tesla has slimmed its Cybertruck offerings to offer only its most expensive trim: the Cyberbeast. After announcing that the Cybertruck would no longer be produced and the company…",
+   "image": null
+  },
+  {
+   "title": "Tesla’s China sales crash 66% to lowest level in over four years",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/10/tesla-china-sales-crash-october-2026-lowest-four-years/",
+   "date": "2026-11-10T16:04:43Z",
+   "snippet": "Only 8,817 of the cars Tesla delivered from Giga Shanghai in October went to Chinese buyers. That’s down 66% from a year ago and Tesla’s worst month in China since July 2022…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-China-sales.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla Explains Why It Dropped Sunroofs From Its Vehicles",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4980/tesla-explains-why-it-dropped-sunroofs-from-its-vehicles",
+   "date": "2026-11-10T15:47:00Z",
+   "snippet": "Tesla’s data showed owners rarely used opening sunroofs after the first week, so it switched to fixed glass roofs that block more heat and UV Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2023/model-s-roof.jpg/e6de8ed99e50239ba771f0e70c89a37d/model-s-roof.jpg"
+  },
+  {
+   "title": "You May Never Get Your Cybertruck; Tesla Says It Will Refund ‘a Lot of People’",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4978/you-may-never-get-your-cybertruck-as-tesla-says-it-will-refund-a-lot-of-people",
+   "date": "2026-11-10T14:23:00Z",
+   "snippet": "Tesla can’t build every Cybertruck on order before the line shuts down in about 8 months, so many buyers will get their deposits back. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2025/textile_seats.webp/415158b3532ca591f0a556f5eee73ed8/textile_seats.jpg"
+  },
   {
    "title": "Tesla Hikes Cyberbeast Price Again, Ends Cybertruck Premium Ordering",
    "source": "Not a Tesla App",
@@ -70,38 +102,6 @@
    "date": "2026-11-09T16:41:29Z",
    "snippet": "Elon Musk now says Tesla can’t build the Cybertruck and the Cybercab at the same time because there are only so many “smart, dedicated people” to go around. Half the executives he…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-lineup-2024-crossed-out-question-marks.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Elon Musk keeps justifying Tesla Cybertruck’s cancelation, but it’s confusing",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/elon-musk-keeps-justifying-tesla-cybertruck-cancelation-confusing/",
-   "date": "2026-11-09T16:19:25Z",
-   "snippet": "Elon Musk continues to shed more reasons that justify the cancelation of the Tesla Cybertruck, but some of the reasons for the sunset, as well as the process the company is…",
-   "image": null
-  },
-  {
-   "title": "Tesla launches Robotaxi in San Antonio with a 274 sq mi geofence on paper",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/09/tesla-robotaxi-san-antonio-launch-geofence/",
-   "date": "2026-11-09T14:36:37Z",
-   "snippet": "Tesla is launching its Robotaxi service in San Antonio, its eighth city, with a launch geofence covering about 274 square miles. That’s the biggest day-one map Tesla has ever…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-robotaxi-san-antonio-geofence.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Musk says Cybertruck isn’t dying from weak sales — the numbers disagree",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/09/musk-cybertruck-demand-claim-data/",
-   "date": "2026-11-09T13:56:47Z",
-   "snippet": "Elon Musk now claims Cybertruck orders “far exceed” Tesla’s production rate, and that the truck isn’t being killed because it’s unprofitable. It’s his second explanation in three…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/04/Tesla-Cybertruck-production-April-2024.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Launches Robotaxi in San Antonio, Its 9th and Largest Region Yet",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4969/tesla-launches-largest-robotaxi-zone-yet-in-san-antonio",
-   "date": "2026-11-09T12:16:00Z",
-   "snippet": "Tesla’s unsupervised Robotaxi service launched in San Antonio with a ~274 sq. mile zone, one week after Fort Worth and its biggest launch yet Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-robotaxi-san-antonio-launch-geofence-november-2026.webp/15c24a66573f2c23a52ed673b865bc09/tesla-robotaxi-san-antonio-launch-geofence-november-2026.jpg"
   }
  ]
 }
