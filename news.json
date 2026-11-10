@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:40:51Z",
+ "updated": "2026-11-10T00:33:07Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Musk Says Cybertruck Is Profitable, Explains Cancellation",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4976/musk-says-cybertruck-is-profitable-explains-cancellation",
+   "date": "2026-11-09T21:30:00Z",
+   "snippet": "Musk says Cybertruck is profitable and in demand, but Tesla will still end production in about 8 months and refund many deposits Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2025/cybertruck_armor_installed.jpg/fc5db164d8183247521c77b5fc891e14/cybertruck_armor_installed.jpg"
+  },
   {
    "title": "Tesla Robotaxi enters its newest city, reaching San Antonio",
    "source": "Teslarati",
@@ -94,14 +102,6 @@
    "date": "2026-11-08T15:30:00Z",
    "snippet": "Tesla is planning a Cybercab with a 16% smaller 40 kWh battery and a new liquid silver color, according to Elon Musk Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-silver.png/e2086f40380ec6ec096c5766ac122502/cybercab-silver.jpg"
-  },
-  {
-   "title": "Tesla Cybercab is set to get some massive improvements",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-cybercab-set-some-massive-improvements/",
-   "date": "2026-11-08T14:45:16Z",
-   "snippet": "Tesla Cybercab is going to get some pretty substantial updates, including improvements to efficiency and a new color. CEO Elon Musk said in a post on X on Saturday that Tesla…",
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/07/tesla-cybercab-employee-rides-texas.jpg"
   }
  ]
 }
