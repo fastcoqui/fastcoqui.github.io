@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T20:33:51Z",
+ "updated": "2026-11-11T00:34:58Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla upfitter offers to keep Cybertruck alive",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-upfitter-offers-keep-cybertruck-alive/",
+   "date": "2026-11-11T00:21:21Z",
+   "snippet": "A Tesla upfitter has offered to take over Cybertruck lines from the company in a last-ditch effort to save the all-electric pickup from being completely canceled in the middle of…",
+   "image": null
+  },
+  {
+   "title": "Tesla App 4.62.5 Update Adds Ability to Remove Vehicle Keys and More",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.5/release-notes",
+   "date": "2026-11-10T20:48:56Z",
+   "snippet": "We take a look at the release notes and what's new in Tesla app update 4.62.5. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-key.webp/cab8d34ef4be330aee5d2653eb0236a0/tesla-app-key.jpg"
+  },
   {
    "title": "Elon Musk says Tesla Cybercab future is ‘obvious to anyone with eyes and a brain’",
    "source": "Teslarati",
@@ -86,22 +102,6 @@
    "date": "2026-11-09T19:37:00Z",
    "snippet": "Tesla’s Austin Robotaxi zone grew from 272 to 443 square miles, and rides now run 21 hours a day from 5 a.m. to 2 a.m. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-autin-robotaxi-geofence-expansion-10-november-2026.webp/1e65404ce27c5c376b0814bc7944c0e1/tesla-autin-robotaxi-geofence-expansion-10-november-2026.jpg"
-  },
-  {
-   "title": "Tesla VP Talks About How Lasers May Make Their Way to the Cybercab",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4974/tesla-vp-talks-about-how-lasers-may-make-their-way-to-the-cybercab",
-   "date": "2026-11-09T18:51:00Z",
-   "snippet": "Tesla VP Lars Moravy discusses laser windshield cleaning for robotaxis, renewing interest in Tesla’s patents and a possible Cybercab application. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-3.webp/a86b471d10f2b679b82c97f847f1d84a/cybercab-3.jpg"
-  },
-  {
-   "title": "Tesla begins groundworks on $10B ‘Project Crystal Sun’ in Texas",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-begins-10b-project-solar-panel-manufacturing-project/",
-   "date": "2026-11-09T17:21:34Z",
-   "snippet": "Tesla has started to perform earthworks engineering on the roughly 3,000-acre site in Fort Bend County, Texas, advancing the massive $10 billion Project Crystal Sun plan to build…",
-   "image": null
   }
  ]
 }
