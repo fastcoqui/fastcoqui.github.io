@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T04:46:14Z",
+ "updated": "2026-11-11T16:51:35Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla FSD Approved in Finland, Rolling Out Soon",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4986/tesla-fsd-approved-in-finland-rolling-out-soon",
+   "date": "2026-11-11T16:10:00Z",
+   "snippet": "Finland’s Traficom recognized the Dutch approval for Tesla Assisted Driving so owners can get used to it before winter, bringing FSD to 19 countries worldwide Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-approval-finland-november-2026.png/4b4266c41a95b058e52792b8c0f9af9c/tesla-fsd-approval-finland-november-2026.jpg"
+  },
+  {
+   "title": "Tesla Is Squeezing More Money Out Of The Cybertruck Before It Dies",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/815084/tesla-cybertruck-squeezing-pennies-death/",
+   "date": "2026-11-11T16:09:30Z",
+   "snippet": "Want one of the last Cybertrucks? You're stuck with just one trim. And it just got another price hike.",
+   "image": "https://cdn.motor1.com/images/mgl/3WmAkL/s3/tesla-cybertruck.jpg"
+  },
+  {
+   "title": "Porsche CEO takes a shot at Tesla’s ‘flying’ Roadster stunt show",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/11/porsche-ceo-tesla-flying-roadster-stunt/",
+   "date": "2026-11-11T14:34:00Z",
+   "snippet": "Tesla’s “flying” Roadster just took a hit from Porsche. Speaking at a conference in Berlin today, CEO Michael Leiters said Porsche wants “to completely steer clear from any kind…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/porsche-tesla-roadster-mission-s.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
   {
    "title": "Tesla tuner Unplugged offers to take over Cybertruck production",
    "source": "Electrek",
@@ -78,30 +102,6 @@
    "date": "2026-11-10T12:40:00Z",
    "snippet": "Tesla stopped taking Cybertruck Premium AWD orders and raised the Cyberbeast to $109,990, its only remaining trim before production ends in 2027 Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/9-1778246822.jpg/4bf597ce6c3d057e0986ab485e5e2621/9-1778246822.jpg"
-  },
-  {
-   "title": "Tesla exec hints at a wild fix for Robotaxi’s biggest weather problem",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-lars-moravy-robotaxi-laser-windshield/",
-   "date": "2026-11-10T03:12:07Z",
-   "snippet": "Tesla VP Lars Moravy says focused lasers could keep robotaxi cameras clear instead of wipers. The post Tesla exec hints at a wild fix for Robotaxi’s biggest weather problem…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
-  },
-  {
-   "title": "Musk Says Cybertruck Is Profitable, Explains Cancellation",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4976/musk-says-cybertruck-is-profitable-explains-cancellation",
-   "date": "2026-11-09T21:30:00Z",
-   "snippet": "Musk says Cybertruck is profitable and in demand, but Tesla will still end production in about 8 months and refund many deposits Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2025/cybertruck_armor_installed.jpg/fc5db164d8183247521c77b5fc891e14/cybertruck_armor_installed.jpg"
-  },
-  {
-   "title": "Tesla Robotaxi enters its newest city, reaching San Antonio",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-robotaxi-enters-newest-city-san-antonio/",
-   "date": "2026-11-09T20:27:19Z",
-   "snippet": "Tesla launched unsupervised Robotaxi service in San Antonio, Texas, on November 9, 2026, with the first rides beginning at 5 a.m. local time. The company’s official Robotaxi…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
   }
  ]
 }
