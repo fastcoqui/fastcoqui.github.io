@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T00:34:58Z",
+ "updated": "2026-11-11T04:46:14Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla tuner Unplugged offers to take over Cybertruck production",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/10/unplugged-performance-offers-take-over-tesla-cybertruck-production/",
+   "date": "2026-11-11T01:48:28Z",
+   "snippet": "Unplugged Performance, the biggest name in Tesla aftermarket tuning, wants to keep the Cybertruck alive. The company publicly offered on Tuesday to take the Cybertruck line off…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla-Cybertruck-police-vehicle-unplugged-performance-1-e1717773548814.jpeg?quality=82&#038;strip=all&#038;w=1600"
+  },
   {
    "title": "Tesla upfitter offers to keep Cybertruck alive",
    "source": "Teslarati",
@@ -94,14 +102,6 @@
    "date": "2026-11-09T20:27:19Z",
    "snippet": "Tesla launched unsupervised Robotaxi service in San Antonio, Texas, on November 9, 2026, with the first rides beginning at 5 a.m. local time. The company’s official Robotaxi…",
    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
-  },
-  {
-   "title": "Tesla Robotaxi Area Expands in Austin, Increases Hours Again",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4975/tesla-robotaxi-area-expands-in-austin-increases-hours-again",
-   "date": "2026-11-09T19:37:00Z",
-   "snippet": "Tesla’s Austin Robotaxi zone grew from 272 to 443 square miles, and rides now run 21 hours a day from 5 a.m. to 2 a.m. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-autin-robotaxi-geofence-expansion-10-november-2026.webp/1e65404ce27c5c376b0814bc7944c0e1/tesla-autin-robotaxi-geofence-expansion-10-november-2026.jpg"
   }
  ]
 }
