@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T12:50:52Z",
+ "updated": "2026-11-12T16:49:21Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Robotaxi Now Runs 24/7 in Every City",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4991/tesla-robotaxi-now-runs-247-in-every-city",
+   "date": "2026-11-12T15:49:00Z",
+   "snippet": "Tesla’s Robotaxi service now runs 24 hours a day in Austin, San Antonio, Houston, Fort Worth, Dallas, Miami, Orlando, and Tampa Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/two-cybercabs.webp/560bca7bb71390339f30cd6afcb8a0ae/two-cybercabs.jpg"
+  },
+  {
+   "title": "Police charge another Tesla driver caught asleep in rush hour as cases pile up",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/12/tesla-driver-asleep-ottawa-opp-careless-driving-fsd/",
+   "date": "2026-11-12T14:36:09Z",
+   "snippet": "A Tesla driver caught asleep behind the wheel on Ottawa’s Highway 417 during Tuesday’s rush hour now faces a careless driving charge from the Ontario Provincial Police. The photo…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-asleep.jpeg?quality=82&#038;strip=all&#038;w=1600"
+  },
   {
    "title": "Tesla Shop Launches Cybertruck RC Car, New Optimus Figure",
    "source": "Not a Tesla App",
@@ -16,7 +32,7 @@
    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-rc-cybertruck-and-optimus-2-5-figurine.webp/b4edcdad6c67558a7e5cfa5cd23612d0/tesla-rc-cybertruck-and-optimus-2-5-figurine.jpg"
   },
   {
-   "title": "Tesla to Still Build the Model 2? Giga Berlin May Build a New Vehicle",
+   "title": "Tesla Giga Berlin May Build a New Vehicle. Will It Be a Model 2, Cybercab?",
    "source": "Not a Tesla App",
    "link": "https://www.notateslaapp.com/news/4989/tesla-to-still-build-the-model-2-giga-berlin-may-build-a-new-vehicle",
    "date": "2026-11-11T20:10:00Z",
@@ -86,22 +102,6 @@
    "date": "2026-11-11T16:10:00Z",
    "snippet": "Finland’s Traficom recognized the Dutch approval for Tesla Assisted Driving so owners can get used to it before winter, bringing FSD to 19 countries worldwide Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-approval-finland-november-2026.png/4b4266c41a95b058e52792b8c0f9af9c/tesla-fsd-approval-finland-november-2026.jpg"
-  },
-  {
-   "title": "Tesla Is Squeezing More Money Out Of The Cybertruck Before It Dies",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/815084/tesla-cybertruck-squeezing-pennies-death/",
-   "date": "2026-11-11T16:09:30Z",
-   "snippet": "Want one of the last Cybertrucks? You're stuck with just one trim. And it just got another price hike.",
-   "image": "https://cdn.motor1.com/images/mgl/3WmAkL/s3/tesla-cybertruck.jpg"
-  },
-  {
-   "title": "Porsche CEO takes a shot at Tesla’s ‘flying’ Roadster stunt show",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/11/porsche-ceo-tesla-flying-roadster-stunt/",
-   "date": "2026-11-11T14:34:00Z",
-   "snippet": "Tesla’s “flying” Roadster just took a hit from Porsche. Speaking at a conference in Berlin today, CEO Michael Leiters said Porsche wants “to completely steer clear from any kind…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/porsche-tesla-roadster-mission-s.jpg?quality=82&#038;strip=all&#038;w=1600"
   }
  ]
 }
