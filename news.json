@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T16:51:35Z",
+ "updated": "2026-11-12T00:49:16Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,78 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Shop Launches Cybertruck RC Car, New Optimus Figure",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4990/tesla-shop-launches-cybertruck-rc-car-new-optimus-figure",
+   "date": "2026-11-11T21:27:00Z",
+   "snippet": "The 1:10 RC Cybertruck hits 60 km/h with four-wheel drive, while a $28 Optimus figure comes with a hard hat, vest, and tools, both in China for now Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-rc-cybertruck-and-optimus-2-5-figurine.webp/b4edcdad6c67558a7e5cfa5cd23612d0/tesla-rc-cybertruck-and-optimus-2-5-figurine.jpg"
+  },
+  {
+   "title": "Tesla to Still Build the Model 2? Giga Berlin May Build a New Vehicle",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4989/tesla-to-still-build-the-model-2-giga-berlin-may-build-a-new-vehicle",
+   "date": "2026-11-11T20:10:00Z",
+   "snippet": "Giga Berlin’s plant manager says an expansion wouldn’t add more Model Y capacity, hinting that the factory might start building a new vehicle Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/model-2-q-design-concept-june-20262.webp/6919164f6a3369ccd2c7c492fe7c9e18/model-2-q-design-concept-june-20262.jpg"
+  },
+  {
+   "title": "Exclusive: Musk Cut Basic Autopilot From New Vehicles to Boost FSD Subscriptions",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4988/exclusive-musk-cut-basic-autopilot-from-new-vehicles-to-boost-fsd-subscriptions",
+   "date": "2026-11-11T20:08:00Z",
+   "snippet": "A source has told us Musk decided to remove Basic Autopilot from new Teslas to grow FSD subscriptions, a key milestone in his trillion-dollar pay package Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-3.webp/32b160c783084075049a257c2e5f5cff/fsd-vis-3.jpg"
+  },
+  {
+   "title": "Tesla Extends Cybertruck Production Run To Work Through Order Backlog",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/815183/tesla-extends-cybertruck-production-summer-2027/",
+   "date": "2026-11-11T19:18:59Z",
+   "snippet": "Elon Musk called it \"not the smartest move from a profit-maximizing standpoint.\"",
+   "image": "https://cdn.motor1.com/images/mgl/ojy2e4/s3/2024-breakthrough-award-nominee-the-tesla-cybertruck.jpg"
+  },
+  {
+   "title": "Tesla extends Cybertruck production to late summer 2027 amid fan backlash",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/11/tesla-extends-cybertruck-production-summer-2027-fan-backlash/",
+   "date": "2026-11-11T18:24:50Z",
+   "snippet": "Elon Musk now says Tesla will keep building the Cybertruck “through the end of summer 2027” to “work through more of the Cybertruck order backlog.” That buys the electric pickup…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla confirms rare new delivery of 50 Semi electric trucks in Chicago",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/11/tesla-semi-delivery-50-trucks-chicago-hmd/",
+   "date": "2026-11-11T18:03:12Z",
+   "snippet": "Tesla has confirmed a new batch of Tesla Semi deliveries, with its official Semi account saying today that “Chicago’s first 50 Semis” are on their way to the city. It’s a rare…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Semi-deliveries-Chicago.jpeg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla extends Cybertruck production as Musk concedes ‘sentimentality’",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-extends-cybertruck-production-slightly-handle-order-log/",
+   "date": "2026-11-11T17:52:53Z",
+   "snippet": "Tesla CEO Elon Musk announced that the company will extend Cybertruck production slightly to handle its extensive order backlog. On Wednesday, Musk announced that “In order to…",
+   "image": null
+  },
+  {
+   "title": "Tesla Is Extending Cybertruck Production After Backlash and Strong Demand",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4987/tesla-is-extending-cybertruck-production-after-backlash-and-strong-demand",
+   "date": "2026-11-11T17:41:00Z",
+   "snippet": "Musk says Cybertruck production will now continue through the end of summer 2027 as Tesla tackles its backlog. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/ct_saudi_3.jpg/1a0309b032b86dd7c006f37a2fc5ad48/ct_saudi_3.jpg"
+  },
+  {
+   "title": "Tesla overtakes Waymo in Texas as Robotaxi fleet performs shock flip",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-overtakes-waymo-texas-robotaxi-fleet-performs-shock-flip/",
+   "date": "2026-11-11T17:05:52Z",
+   "snippet": "In a sudden and closely watched milestone, Tesla Robotaxi has edged past Waymo on the Texas Department of Motor Vehicles automated vehicle registry. As of November 10, Tesla lists…",
+   "image": null
+  },
   {
    "title": "Tesla FSD Approved in Finland, Rolling Out Soon",
    "source": "Not a Tesla App",
@@ -30,78 +102,6 @@
    "date": "2026-11-11T14:34:00Z",
    "snippet": "Tesla’s “flying” Roadster just took a hit from Porsche. Speaking at a conference in Berlin today, CEO Michael Leiters said Porsche wants “to completely steer clear from any kind…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/porsche-tesla-roadster-mission-s.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla tuner Unplugged offers to take over Cybertruck production",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/10/unplugged-performance-offers-take-over-tesla-cybertruck-production/",
-   "date": "2026-11-11T01:48:28Z",
-   "snippet": "Unplugged Performance, the biggest name in Tesla aftermarket tuning, wants to keep the Cybertruck alive. The company publicly offered on Tuesday to take the Cybertruck line off…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla-Cybertruck-police-vehicle-unplugged-performance-1-e1717773548814.jpeg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla upfitter offers to keep Cybertruck alive",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-upfitter-offers-keep-cybertruck-alive/",
-   "date": "2026-11-11T00:21:21Z",
-   "snippet": "A Tesla upfitter has offered to take over Cybertruck lines from the company in a last-ditch effort to save the all-electric pickup from being completely canceled in the middle of…",
-   "image": null
-  },
-  {
-   "title": "Tesla App 4.62.5 Update Adds Ability to Remove Vehicle Keys and More",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.62.5/release-notes",
-   "date": "2026-11-10T20:48:56Z",
-   "snippet": "We take a look at the release notes and what's new in Tesla app update 4.62.5. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-key.webp/cab8d34ef4be330aee5d2653eb0236a0/tesla-app-key.jpg"
-  },
-  {
-   "title": "Elon Musk says Tesla Cybercab future is ‘obvious to anyone with eyes and a brain’",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/elon-musk-says-tesla-cybercab-future-obvious-to-anyone-with-eyes-and-a-brain/",
-   "date": "2026-11-10T19:48:26Z",
-   "snippet": "Elon Musk said the Tesla Cybercab will perform “a majority of all passenger miles” where it is allowed to operate and that point is “obvious to anyone with eyes and a brain.” Musk…",
-   "image": null
-  },
-  {
-   "title": "Tesla slims Cybertruck offerings to only its most expensive trim",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-slims-cybertruck-offerings-most-expensive-trim/",
-   "date": "2026-11-10T16:25:50Z",
-   "snippet": "Tesla has slimmed its Cybertruck offerings to offer only its most expensive trim: the Cyberbeast. After announcing that the Cybertruck would no longer be produced and the company…",
-   "image": null
-  },
-  {
-   "title": "Tesla’s China sales crash 66% to lowest level in over four years",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/10/tesla-china-sales-crash-october-2026-lowest-four-years/",
-   "date": "2026-11-10T16:04:43Z",
-   "snippet": "Only 8,817 of the cars Tesla delivered from Giga Shanghai in October went to Chinese buyers. That’s down 66% from a year ago and Tesla’s worst month in China since July 2022…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-China-sales.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Explains Why It Dropped Sunroofs From Its Vehicles",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4980/tesla-explains-why-it-dropped-sunroofs-from-its-vehicles",
-   "date": "2026-11-10T15:47:00Z",
-   "snippet": "Tesla’s data showed owners rarely used opening sunroofs after the first week, so it switched to fixed glass roofs that block more heat and UV Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2023/model-s-roof.jpg/e6de8ed99e50239ba771f0e70c89a37d/model-s-roof.jpg"
-  },
-  {
-   "title": "You May Never Get Your Cybertruck; Tesla Says It Will Refund ‘a Lot of People’",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4978/you-may-never-get-your-cybertruck-as-tesla-says-it-will-refund-a-lot-of-people",
-   "date": "2026-11-10T14:23:00Z",
-   "snippet": "Tesla can’t build every Cybertruck on order before the line shuts down in about 8 months, so many buyers will get their deposits back. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2025/textile_seats.webp/415158b3532ca591f0a556f5eee73ed8/textile_seats.jpg"
-  },
-  {
-   "title": "Tesla Hikes Cyberbeast Price Again, Ends Cybertruck Premium Ordering",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4979/tesla-ends-cybertruck-premium-orders-hikes-cyberbeast-price",
-   "date": "2026-11-10T12:40:00Z",
-   "snippet": "Tesla stopped taking Cybertruck Premium AWD orders and raised the Cyberbeast to $109,990, its only remaining trim before production ends in 2027 Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/9-1778246822.jpg/4bf597ce6c3d057e0986ab485e5e2621/9-1778246822.jpg"
   }
  ]
 }
