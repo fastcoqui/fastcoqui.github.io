@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T08:48:33Z",
+ "updated": "2026-11-12T12:50:52Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,14 +7,6 @@
   "InsideEVs"
  ],
  "items": [
-  {
-   "title": "Tesla’s Cheapest Cybertruck Ever Is An RC Racer That Goes 37 MPH",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/815226/tesla-cybertruck-rc-racer-specs-price/",
-   "date": "2026-11-12T08:27:22Z",
-   "snippet": "The real Cybertruck is more expensive than ever, and it’s going away next year. Now, though, there’s a miniature version, too.",
-   "image": "https://cdn.motor1.com/images/mgl/0ep31n/s3/tesla-cybertruck-rc-racer.jpg"
-  },
   {
    "title": "Tesla Shop Launches Cybertruck RC Car, New Optimus Figure",
    "source": "Not a Tesla App",
@@ -102,6 +94,14 @@
    "date": "2026-11-11T16:09:30Z",
    "snippet": "Want one of the last Cybertrucks? You're stuck with just one trim. And it just got another price hike.",
    "image": "https://cdn.motor1.com/images/mgl/3WmAkL/s3/tesla-cybertruck.jpg"
+  },
+  {
+   "title": "Porsche CEO takes a shot at Tesla’s ‘flying’ Roadster stunt show",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/11/porsche-ceo-tesla-flying-roadster-stunt/",
+   "date": "2026-11-11T14:34:00Z",
+   "snippet": "Tesla’s “flying” Roadster just took a hit from Porsche. Speaking at a conference in Berlin today, CEO Michael Leiters said Porsche wants “to completely steer clear from any kind…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/porsche-tesla-roadster-mission-s.jpg?quality=82&#038;strip=all&#038;w=1600"
   }
  ]
 }
