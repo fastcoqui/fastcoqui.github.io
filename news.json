@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T00:49:16Z",
+ "updated": "2026-11-12T04:46:22Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -30,14 +30,6 @@
    "date": "2026-11-11T20:08:00Z",
    "snippet": "A source has told us Musk decided to remove Basic Autopilot from new Teslas to grow FSD subscriptions, a key milestone in his trillion-dollar pay package Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-3.webp/32b160c783084075049a257c2e5f5cff/fsd-vis-3.jpg"
-  },
-  {
-   "title": "Tesla Extends Cybertruck Production Run To Work Through Order Backlog",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/815183/tesla-extends-cybertruck-production-summer-2027/",
-   "date": "2026-11-11T19:18:59Z",
-   "snippet": "Elon Musk called it \"not the smartest move from a profit-maximizing standpoint.\"",
-   "image": "https://cdn.motor1.com/images/mgl/ojy2e4/s3/2024-breakthrough-award-nominee-the-tesla-cybertruck.jpg"
   },
   {
    "title": "Tesla extends Cybertruck production to late summer 2027 amid fan backlash",
@@ -88,20 +80,28 @@
    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-approval-finland-november-2026.png/4b4266c41a95b058e52792b8c0f9af9c/tesla-fsd-approval-finland-november-2026.jpg"
   },
   {
-   "title": "Tesla Is Squeezing More Money Out Of The Cybertruck Before It Dies",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/815084/tesla-cybertruck-squeezing-pennies-death/",
-   "date": "2026-11-11T16:09:30Z",
-   "snippet": "Want one of the last Cybertrucks? You're stuck with just one trim. And it just got another price hike.",
-   "image": "https://cdn.motor1.com/images/mgl/3WmAkL/s3/tesla-cybertruck.jpg"
-  },
-  {
    "title": "Porsche CEO takes a shot at Tesla’s ‘flying’ Roadster stunt show",
    "source": "Electrek",
    "link": "https://electrek.co/2026/11/11/porsche-ceo-tesla-flying-roadster-stunt/",
    "date": "2026-11-11T14:34:00Z",
    "snippet": "Tesla’s “flying” Roadster just took a hit from Porsche. Speaking at a conference in Berlin today, CEO Michael Leiters said Porsche wants “to completely steer clear from any kind…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/porsche-tesla-roadster-mission-s.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla tuner Unplugged offers to take over Cybertruck production",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/10/unplugged-performance-offers-take-over-tesla-cybertruck-production/",
+   "date": "2026-11-11T01:48:28Z",
+   "snippet": "Unplugged Performance, the biggest name in Tesla aftermarket tuning, wants to keep the Cybertruck alive. The company publicly offered on Tuesday to take the Cybertruck line off…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/06/Tesla-Cybertruck-police-vehicle-unplugged-performance-1-e1717773548814.jpeg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla upfitter offers to keep Cybertruck alive",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-upfitter-offers-keep-cybertruck-alive/",
+   "date": "2026-11-11T00:21:21Z",
+   "snippet": "A Tesla upfitter has offered to take over Cybertruck lines from the company in a last-ditch effort to save the all-electric pickup from being completely canceled in the middle of…",
+   "image": null
   }
  ]
 }
