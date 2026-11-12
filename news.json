@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T16:49:21Z",
+ "updated": "2026-11-12T20:38:28Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Raises Wall Connector Price Again, Now $635",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4997/tesla-raises-wall-connector-price-again-now-635",
+   "date": "2026-11-12T19:22:00Z",
+   "snippet": "Tesla raised the Wall Connector to $635 and the Universal Wall Connector to $720, up from $450 and about $600 at the start of 2026 Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2023/wall-connector.jpg/29d7bbd4b1f164cc76c140b9b4cba6fb/wall-connector.jpg"
+  },
+  {
+   "title": "Tesla to Hire NVIDIA CEO? Musk Says It Would Be 'an Honor'",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4992/tesla-to-hire-nvidia-ceo-musk-says-it-would-be-an-honor",
+   "date": "2026-11-12T17:57:00Z",
+   "snippet": "Elon Musk says hiring former Nvidia CEO Jensen Huang would be an honor, as some fans suggest Huang could lead the Tesla and SpaceX Terafab project Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/jensen-huang-elon-musk.webp/07ef7b64ac84ff1bbebc4286901c39c0/jensen-huang-elon-musk.jpg"
+  },
   {
    "title": "Tesla Robotaxi Now Runs 24/7 in Every City",
    "source": "Not a Tesla App",
@@ -22,6 +38,14 @@
    "date": "2026-11-12T14:36:09Z",
    "snippet": "A Tesla driver caught asleep behind the wheel on Ottawa’s Highway 417 during Tuesday’s rush hour now faces a careless driving charge from the Ontario Provincial Police. The photo…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-asleep.jpeg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla’s Cheapest Cybertruck Ever Is An RC Racer That Goes 37 MPH",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/815226/tesla-cybertruck-rc-racer-specs-price/",
+   "date": "2026-11-12T08:27:22Z",
+   "snippet": "The real Cybertruck is more expensive than ever, and it’s going away next year. Now, though, there’s a miniature version, too.",
+   "image": "https://cdn.motor1.com/images/mgl/0ep31n/s3/tesla-cybertruck-rc-racer.jpg"
   },
   {
    "title": "Tesla Shop Launches Cybertruck RC Car, New Optimus Figure",
@@ -78,30 +102,6 @@
    "date": "2026-11-11T17:52:53Z",
    "snippet": "Tesla CEO Elon Musk announced that the company will extend Cybertruck production slightly to handle its extensive order backlog. On Wednesday, Musk announced that “In order to…",
    "image": null
-  },
-  {
-   "title": "Tesla Is Extending Cybertruck Production After Backlash and Strong Demand",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4987/tesla-is-extending-cybertruck-production-after-backlash-and-strong-demand",
-   "date": "2026-11-11T17:41:00Z",
-   "snippet": "Musk says Cybertruck production will now continue through the end of summer 2027 as Tesla tackles its backlog. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/ct_saudi_3.jpg/1a0309b032b86dd7c006f37a2fc5ad48/ct_saudi_3.jpg"
-  },
-  {
-   "title": "Tesla overtakes Waymo in Texas as Robotaxi fleet performs shock flip",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-overtakes-waymo-texas-robotaxi-fleet-performs-shock-flip/",
-   "date": "2026-11-11T17:05:52Z",
-   "snippet": "In a sudden and closely watched milestone, Tesla Robotaxi has edged past Waymo on the Texas Department of Motor Vehicles automated vehicle registry. As of November 10, Tesla lists…",
-   "image": null
-  },
-  {
-   "title": "Tesla FSD Approved in Finland, Rolling Out Soon",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4986/tesla-fsd-approved-in-finland-rolling-out-soon",
-   "date": "2026-11-11T16:10:00Z",
-   "snippet": "Finland’s Traficom recognized the Dutch approval for Tesla Assisted Driving so owners can get used to it before winter, bringing FSD to 19 countries worldwide Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-approval-finland-november-2026.png/4b4266c41a95b058e52792b8c0f9af9c/tesla-fsd-approval-finland-november-2026.jpg"
   }
  ]
 }
