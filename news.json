@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T00:41:03Z",
+ "updated": "2026-11-13T08:46:36Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla and SpaceX merger talks hit a new stage, and one hurdle remains",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-spacex-merger-timeline/",
+   "date": "2026-11-13T05:53:37Z",
+   "snippet": "Tesla and SpaceX merger talks are reportedly advancing, and a deal could arrive by December. The post Tesla and SpaceX merger talks hit a new stage, and one hurdle remains…",
+   "image": null
+  },
   {
    "title": "Tesla Update 2026.39.100 Quietly Reduces FSD/TAD Max Speed in Europe",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-11-11T19:18:59Z",
    "snippet": "Elon Musk called it \"not the smartest move from a profit-maximizing standpoint.\"",
    "image": "https://cdn.motor1.com/images/mgl/ojy2e4/s3/2024-breakthrough-award-nominee-the-tesla-cybertruck.jpg"
-  },
-  {
-   "title": "Tesla extends Cybertruck production to late summer 2027 amid fan backlash",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/11/tesla-extends-cybertruck-production-summer-2027-fan-backlash/",
-   "date": "2026-11-11T18:24:50Z",
-   "snippet": "Elon Musk now says Tesla will keep building the Cybertruck “through the end of summer 2027” to “work through more of the Cybertruck order backlog.” That buys the electric pickup…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&#038;strip=all&#038;w=1600"
   }
  ]
 }
