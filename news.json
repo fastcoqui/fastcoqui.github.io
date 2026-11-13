@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T20:38:28Z",
+ "updated": "2026-11-13T00:41:03Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Update 2026.39.100 Quietly Reduces FSD/TAD Max Speed in Europe",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4998/tesla-update-202639100-quietly-reduces-fsdtad-max-speed-in-europe",
+   "date": "2026-11-12T20:47:00Z",
+   "snippet": "Update 2026.39.100 renames FSD to Tesla Assisted Driving in Europe and quietly cuts the max Speed Offset from +50% to +10%, resetting it each drive Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/fsd-vis-full-screen.webp/cf6d7e7b2e251632c31f4a3185e92d8a/fsd-vis-full-screen.jpg"
+  },
+  {
+   "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/",
+   "date": "2026-11-12T20:39:14Z",
+   "snippet": "Elon Musk’s companies are moving faster than expected on a Tesla-SpaceX combination. A deal could be announced as soon as December, which would make it the largest merger ever…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Elon-Musk-self-dealing-Tesla-Spa.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
   {
    "title": "Tesla Raises Wall Connector Price Again, Now $635",
    "source": "Not a Tesla App",
@@ -86,22 +102,6 @@
    "date": "2026-11-11T18:24:50Z",
    "snippet": "Elon Musk now says Tesla will keep building the Cybertruck “through the end of summer 2027” to “work through more of the Cybertruck order backlog.” That buys the electric pickup…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Cybertruck_34-e1793032990825.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla confirms rare new delivery of 50 Semi electric trucks in Chicago",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/11/tesla-semi-delivery-50-trucks-chicago-hmd/",
-   "date": "2026-11-11T18:03:12Z",
-   "snippet": "Tesla has confirmed a new batch of Tesla Semi deliveries, with its official Semi account saying today that “Chicago’s first 50 Semis” are on their way to the city. It’s a rare…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Semi-deliveries-Chicago.jpeg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla extends Cybertruck production as Musk concedes ‘sentimentality’",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-extends-cybertruck-production-slightly-handle-order-log/",
-   "date": "2026-11-11T17:52:53Z",
-   "snippet": "Tesla CEO Elon Musk announced that the company will extend Cybertruck production slightly to handle its extensive order backlog. On Wednesday, Musk announced that “In order to…",
-   "image": null
   }
  ]
 }
