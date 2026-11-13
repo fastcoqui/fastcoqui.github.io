@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T16:42:13Z",
+ "updated": "2026-11-13T20:41:56Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla and SpaceX Merger Could Be Announced in December: Report",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5010/tesla-and-spacex-merger-could-be-announced-in-december-report",
+   "date": "2026-11-13T18:37:00Z",
+   "snippet": "Tesla and SpaceX merger talks are progressing, with a deal possible in December or early 2027, according to a new report Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2021/elon-musk.jpg/34237e2c3d26c255fc83c435666fa5a1/elon-musk.jpg"
+  },
+  {
+   "title": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990/",
+   "date": "2026-11-13T18:13:44Z",
+   "snippet": "Tesla is now only selling one version of the Cybertruck in the US: the tri-motor Cyberbeast, which just got another $7,500 price hike to $109,990. The Dual Motor and Premium AWD…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/image_7594a0.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Unplugged Performance Offers to Build the Cybertruck for Tesla",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5008/unplugged-performance-offers-to-build-the-cybertruck-for-tesla",
+   "date": "2026-11-13T16:52:00Z",
+   "snippet": "Unplugged Performance has offered to take over Cybertruck production with investor funding, also pitching a CyberSUV and CyberCargo while Tesla scales Cybercab Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2023/cybertruck-production-line.jpg/ef6000c153b67d55aeb729f62e493fe5/cybertruck-production-line.jpg"
+  },
   {
    "title": "Tesla trims Model Y offerings as All-Wheel-Drive gets the axe",
    "source": "Teslarati",
@@ -78,30 +102,6 @@
    "date": "2026-11-12T17:57:00Z",
    "snippet": "Elon Musk says hiring former Nvidia CEO Jensen Huang would be an honor, as some fans suggest Huang could lead the Tesla and SpaceX Terafab project Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/jensen-huang-elon-musk.webp/07ef7b64ac84ff1bbebc4286901c39c0/jensen-huang-elon-musk.jpg"
-  },
-  {
-   "title": "Tesla Robotaxi Now Runs 24/7 in Every City",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4991/tesla-robotaxi-now-runs-247-in-every-city",
-   "date": "2026-11-12T15:49:00Z",
-   "snippet": "Tesla’s Robotaxi service now runs 24 hours a day in Austin, San Antonio, Houston, Fort Worth, Dallas, Miami, Orlando, and Tampa Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/two-cybercabs.webp/560bca7bb71390339f30cd6afcb8a0ae/two-cybercabs.jpg"
-  },
-  {
-   "title": "Police charge another Tesla driver caught asleep in rush hour as cases pile up",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/12/tesla-driver-asleep-ottawa-opp-careless-driving-fsd/",
-   "date": "2026-11-12T14:36:09Z",
-   "snippet": "A Tesla driver caught asleep behind the wheel on Ottawa’s Highway 417 during Tuesday’s rush hour now faces a careless driving charge from the Ontario Provincial Police. The photo…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-asleep.jpeg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla’s Cheapest Cybertruck Ever Is An RC Racer That Goes 37 MPH",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/815226/tesla-cybertruck-rc-racer-specs-price/",
-   "date": "2026-11-12T08:27:22Z",
-   "snippet": "The real Cybertruck is more expensive than ever, and it’s going away next year. Now, though, there’s a miniature version, too.",
-   "image": "https://cdn.motor1.com/images/mgl/0ep31n/s3/tesla-cybertruck-rc-racer.jpg"
   }
  ]
 }
