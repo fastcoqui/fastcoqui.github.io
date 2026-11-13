@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T08:46:36Z",
+ "updated": "2026-11-13T16:42:13Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,38 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla trims Model Y offerings as All-Wheel-Drive gets the axe",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-trims-model-y-offerings-all-wheel-drive-gets-axe/",
+   "date": "2026-11-13T15:29:04Z",
+   "snippet": "Tesla has trimmed its Model Y offerings as its Standard All-Wheel-Drive configuration has been removed from the online configurator after roughly nine months on sale. The move…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
+  {
+   "title": "Tesla Stops Taking Orders for Entry-Level Model Y AWD",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5002/tesla-stops-taking-orders-for-entry-level-model-y-awd",
+   "date": "2026-11-13T14:05:00Z",
+   "snippet": "Tesla removed the $41,990 Model Y AWD from its U.S. configurator, and Model Y Premium and Model Y L orders are now sold out into 2027 Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/standard/modely_75.webp/dceec59b47ceefe8d3a16efcd314fe05/modely_75.jpg"
+  },
+  {
+   "title": "Tesla Shop’s 2026 Holiday Collection: All 21 New Items",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/4999/tesla-shops-2026-holiday-collection-all-21-new-items",
+   "date": "2026-11-13T14:00:00Z",
+   "snippet": "Tesla’s holiday collection adds 21 items, from Winter Holiday sweaters and a $20 ornament to a $350 Cybertruck RC Racer and Cybercab diecasts Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-2026-holiday-collection-hero.webp/12888376acf1c3d628bbf8efa53353f1/tesla-2026-holiday-collection-hero.jpg"
+  },
+  {
+   "title": "Tesla Just Killed Its Cheapest All-Wheel-Drive Model Y",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/815395/tesla-model-y-awd-discontinued/",
+   "date": "2026-11-13T11:56:01Z",
+   "snippet": "It didn’t even last a whole year in Tesla’s online configurator. Now, if you want an AWD Model Y, it’ll cost you $50,000.",
+   "image": "https://cdn.motor1.com/images/mgl/bgGn2v/s3/2026-tesla-model-y-standard.jpg"
+  },
   {
    "title": "Tesla and SpaceX merger talks hit a new stage, and one hurdle remains",
    "source": "Teslarati",
@@ -70,38 +102,6 @@
    "date": "2026-11-12T08:27:22Z",
    "snippet": "The real Cybertruck is more expensive than ever, and it’s going away next year. Now, though, there’s a miniature version, too.",
    "image": "https://cdn.motor1.com/images/mgl/0ep31n/s3/tesla-cybertruck-rc-racer.jpg"
-  },
-  {
-   "title": "Tesla Shop Launches Cybertruck RC Car, New Optimus Figure",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4990/tesla-shop-launches-cybertruck-rc-car-new-optimus-figure",
-   "date": "2026-11-11T21:27:00Z",
-   "snippet": "The 1:10 RC Cybertruck hits 60 km/h with four-wheel drive, while a $28 Optimus figure comes with a hard hat, vest, and tools, both in China for now Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-rc-cybertruck-and-optimus-2-5-figurine.webp/b4edcdad6c67558a7e5cfa5cd23612d0/tesla-rc-cybertruck-and-optimus-2-5-figurine.jpg"
-  },
-  {
-   "title": "Tesla Giga Berlin May Build a New Vehicle. Will It Be a Model 2, Cybercab?",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4989/tesla-to-still-build-the-model-2-giga-berlin-may-build-a-new-vehicle",
-   "date": "2026-11-11T20:10:00Z",
-   "snippet": "Giga Berlin’s plant manager says an expansion wouldn’t add more Model Y capacity, hinting that the factory might start building a new vehicle Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/model-2-q-design-concept-june-20262.webp/6919164f6a3369ccd2c7c492fe7c9e18/model-2-q-design-concept-june-20262.jpg"
-  },
-  {
-   "title": "Exclusive: Musk Cut Basic Autopilot From New Vehicles to Boost FSD Subscriptions",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4988/exclusive-musk-cut-basic-autopilot-from-new-vehicles-to-boost-fsd-subscriptions",
-   "date": "2026-11-11T20:08:00Z",
-   "snippet": "A source has told us Musk decided to remove Basic Autopilot from new Teslas to grow FSD subscriptions, a key milestone in his trillion-dollar pay package Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-3.webp/32b160c783084075049a257c2e5f5cff/fsd-vis-3.jpg"
-  },
-  {
-   "title": "Tesla Extends Cybertruck Production Run To Work Through Order Backlog",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/815183/tesla-extends-cybertruck-production-summer-2027/",
-   "date": "2026-11-11T19:18:59Z",
-   "snippet": "Elon Musk called it \"not the smartest move from a profit-maximizing standpoint.\"",
-   "image": "https://cdn.motor1.com/images/mgl/ojy2e4/s3/2024-breakthrough-award-nominee-the-tesla-cybertruck.jpg"
   }
  ]
 }
