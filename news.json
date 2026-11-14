@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:30:30Z",
+ "updated": "2026-11-14T16:27:18Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/",
+   "date": "2026-11-14T13:33:00Z",
+   "snippet": "Tesla has posted the agreement that comes with its $29,990 Cybercab, and it’s even worse than the order page suggested. The two-seater can’t move without a $299 monthly “Autonomy…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla Cybercab ownership will come with plenty of strings attached",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-cybercab-arrives-steep-ownership-fine-print/",
+   "date": "2026-11-14T13:32:34Z",
+   "snippet": "Tesla’s long-promised Cybercab is finally available for personal purchase, at least for a select few in the Austin area. But it’s far from a straightforward ownership experience…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9f5.png"
+  },
   {
    "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
    "source": "Electrek",
@@ -86,22 +102,6 @@
    "date": "2026-11-13T14:05:00Z",
    "snippet": "Tesla removed the $41,990 Model Y AWD from its U.S. configurator, and Model Y Premium and Model Y L orders are now sold out into 2027 Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/standard/modely_75.webp/dceec59b47ceefe8d3a16efcd314fe05/modely_75.jpg"
-  },
-  {
-   "title": "Tesla Shop’s 2026 Holiday Collection: All 21 New Items",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4999/tesla-shops-2026-holiday-collection-all-21-new-items",
-   "date": "2026-11-13T14:00:00Z",
-   "snippet": "Tesla’s holiday collection adds 21 items, from Winter Holiday sweaters and a $20 ornament to a $350 Cybertruck RC Racer and Cybercab diecasts Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-2026-holiday-collection-hero.webp/12888376acf1c3d628bbf8efa53353f1/tesla-2026-holiday-collection-hero.jpg"
-  },
-  {
-   "title": "Tesla Just Killed Its Cheapest All-Wheel-Drive Model Y",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/815395/tesla-model-y-awd-discontinued/",
-   "date": "2026-11-13T11:56:01Z",
-   "snippet": "It didn’t even last a whole year in Tesla’s online configurator. Now, if you want an AWD Model Y, it’ll cost you $50,000.",
-   "image": "https://cdn.motor1.com/images/mgl/bgGn2v/s3/2026-tesla-model-y-standard.jpg"
   }
  ]
 }
