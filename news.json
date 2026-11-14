@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T16:27:18Z",
+ "updated": "2026-11-14T20:25:56Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla’s Cybercab Autonomy Subscription: Everything Included",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5015/teslas-cybercab-autonomy-subscription-everything-included",
+   "date": "2026-11-14T19:29:00Z",
+   "snippet": "Tesla’s Autonomy Subscription for Cybercab includes self-driving, connectivity, tire and windshield replacements, and roadside help, but not insurance Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-employee-rides-giga-texas-3.webp/b89f968bf8958acd8cedeccdd189a64f/cybercab-employee-rides-giga-texas-3.jpg"
+  },
+  {
+   "title": "Musk: Cybercab Sales Are Going Nationwide, $299 Subscription 'Too High'",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5014/musk-cybercab-sales-are-going-nationwide-299-subscription-too-high",
+   "date": "2026-11-14T18:19:00Z",
+   "snippet": "Elon Musk says the Cybercab will expand nationwide with regulatory approval and its $299 monthly Autonomy subscription should drop to around $115 Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-city.webp/6cfc18a991dac3558bfc5bb8ff9a8dc8/robotaxi-city.jpg"
+  },
   {
    "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
    "source": "Electrek",
@@ -86,22 +102,6 @@
    "date": "2026-11-13T16:52:00Z",
    "snippet": "Unplugged Performance has offered to take over Cybertruck production with investor funding, also pitching a CyberSUV and CyberCargo while Tesla scales Cybercab Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/2023/cybertruck-production-line.jpg/ef6000c153b67d55aeb729f62e493fe5/cybertruck-production-line.jpg"
-  },
-  {
-   "title": "Tesla trims Model Y offerings as All-Wheel-Drive gets the axe",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-trims-model-y-offerings-all-wheel-drive-gets-axe/",
-   "date": "2026-11-13T15:29:04Z",
-   "snippet": "Tesla has trimmed its Model Y offerings as its Standard All-Wheel-Drive configuration has been removed from the online configurator after roughly nine months on sale. The move…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
-  },
-  {
-   "title": "Tesla Stops Taking Orders for Entry-Level Model Y AWD",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5002/tesla-stops-taking-orders-for-entry-level-model-y-awd",
-   "date": "2026-11-13T14:05:00Z",
-   "snippet": "Tesla removed the $41,990 Model Y AWD from its U.S. configurator, and Model Y Premium and Model Y L orders are now sold out into 2027 Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/standard/modely_75.webp/dceec59b47ceefe8d3a16efcd314fe05/modely_75.jpg"
   }
  ]
 }
