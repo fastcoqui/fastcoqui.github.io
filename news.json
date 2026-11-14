@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T20:41:56Z",
+ "updated": "2026-11-14T00:34:32Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Opens Orders for the Cybercab for Personal Use: Costs $29,990 and Requires a $299 Monthly Subscription",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5012/tesla-opens-orders-for-the-cybercab-for-personal-use-costs-29990-and-requires-a-299-monthly-subscription",
+   "date": "2026-11-14T00:18:00Z",
+   "snippet": "Tesla opens Cybercab orders to select buyers at $29,990, with a required $299 monthly subscription and estimated December 2026 deliveries. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-studio.webp/b3697eec915737dff567818b0318df6d/cybercab-studio.jpg"
+  },
+  {
+   "title": "Tesla Cybercab goes on sale for $29,990, slated for December deliveries",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-cybercab-29990-december-deliveries/",
+   "date": "2026-11-13T23:46:15Z",
+   "snippet": "Tesla has officially put the Cybercab up for sale, revealing a bargain price and a $299 per month “Autonomy Subscription” that could hit customer hands as soon as December. The…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
+  {
+   "title": "Researcher Creates Hack to Steer Tesla With Switch 2 [VIDEO]",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5011/researcher-creates-hack-to-steer-tesla-with-switch-2-video",
+   "date": "2026-11-13T21:00:00Z",
+   "snippet": "Matthew KuKanich’s CAN Commander app lets a jailbroken Switch 2 steer, shift, honk, and signal his Tesla through its CAN bus Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/driving-tesla-with-switch-2-matthew-kukanich.png/fa82b6332e04d420dd6b91002dafd41d/driving-tesla-with-switch-2-matthew-kukanich.jpg"
+  },
   {
    "title": "Tesla and SpaceX Merger Could Be Announced in December: Report",
    "source": "Not a Tesla App",
@@ -78,30 +102,6 @@
    "date": "2026-11-12T20:47:00Z",
    "snippet": "Update 2026.39.100 renames FSD to Tesla Assisted Driving in Europe and quietly cuts the max Speed Offset from +50% to +10%, resetting it each drive Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/fsd-vis-full-screen.webp/cf6d7e7b2e251632c31f4a3185e92d8a/fsd-vis-full-screen.jpg"
-  },
-  {
-   "title": "SpaceX could announce $1.5 trillion Tesla merger in December: report",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/12/spacex-tesla-merger-announcement-december-report/",
-   "date": "2026-11-12T20:39:14Z",
-   "snippet": "Elon Musk’s companies are moving faster than expected on a Tesla-SpaceX combination. A deal could be announced as soon as December, which would make it the largest merger ever…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/01/Elon-Musk-self-dealing-Tesla-Spa.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Raises Wall Connector Price Again, Now $635",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4997/tesla-raises-wall-connector-price-again-now-635",
-   "date": "2026-11-12T19:22:00Z",
-   "snippet": "Tesla raised the Wall Connector to $635 and the Universal Wall Connector to $720, up from $450 and about $600 at the start of 2026 Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2023/wall-connector.jpg/29d7bbd4b1f164cc76c140b9b4cba6fb/wall-connector.jpg"
-  },
-  {
-   "title": "Tesla to Hire NVIDIA CEO? Musk Says It Would Be 'an Honor'",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/4992/tesla-to-hire-nvidia-ceo-musk-says-it-would-be-an-honor",
-   "date": "2026-11-12T17:57:00Z",
-   "snippet": "Elon Musk says hiring former Nvidia CEO Jensen Huang would be an honor, as some fans suggest Huang could lead the Tesla and SpaceX Terafab project Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/jensen-huang-elon-musk.webp/07ef7b64ac84ff1bbebc4286901c39c0/jensen-huang-elon-musk.jpg"
   }
  ]
 }
