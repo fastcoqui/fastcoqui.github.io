@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T08:38:56Z",
+ "updated": "2026-11-14T12:30:30Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -22,6 +22,14 @@
    "date": "2026-11-14T00:18:00Z",
    "snippet": "Tesla opens Cybercab orders to select buyers at $29,990, with a required $299 monthly subscription and estimated December 2026 deliveries. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-studio.webp/b3697eec915737dff567818b0318df6d/cybercab-studio.jpg"
+  },
+  {
+   "title": "Tesla Opens Self-Driving Cybercab Orders To 'Select Customers' At $29,990",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced/",
+   "date": "2026-11-14T00:06:29Z",
+   "snippet": "The Cybercab will be Tesla's cheapest vehicle, but there's a catch: autonomous driving will cost you $299 per month.",
+   "image": "https://cdn.motor1.com/images/mgl/nAbWEG/s3/tesla-cybercab-la-auto-show-2024.jpg"
   },
   {
    "title": "Tesla Cybercab goes on sale for $29,990, slated for December deliveries",
@@ -94,14 +102,6 @@
    "date": "2026-11-13T11:56:01Z",
    "snippet": "It didn’t even last a whole year in Tesla’s online configurator. Now, if you want an AWD Model Y, it’ll cost you $50,000.",
    "image": "https://cdn.motor1.com/images/mgl/bgGn2v/s3/2026-tesla-model-y-standard.jpg"
-  },
-  {
-   "title": "Tesla and SpaceX merger talks hit a new stage, and one hurdle remains",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-spacex-merger-timeline/",
-   "date": "2026-11-13T05:53:37Z",
-   "snippet": "Tesla and SpaceX merger talks are reportedly advancing, and a deal could arrive by December. The post Tesla and SpaceX merger talks hit a new stage, and one hurdle remains…",
-   "image": null
   }
  ]
 }
