@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T20:25:56Z",
+ "updated": "2026-11-15T00:34:14Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "MKBHD Orders a Tesla Cybercab to Decide Head-Shaving Bet",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5019/mkbhd-orders-a-tesla-cybercab-to-decide-head-shaving-bet",
+   "date": "2026-11-14T22:46:00Z",
+   "snippet": "MKBHD ordered a $29,990 Cybercab after Tesla opened invite-only orders, with deliveries due in December, weeks before his head-shaving bet deadline Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/mkbhd-elon-musk-interview.webp/8a6d0f734d3193b1eb0491f1c6884064/mkbhd-elon-musk-interview.jpg"
+  },
+  {
+   "title": "Tesla Model Y RWD Gets Increased Range at Same Price",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5017/tesla-model-y-rwd-gets-increased-range-at-same-price",
+   "date": "2026-11-14T22:06:00Z",
+   "snippet": "Tesla has raised the Model Y RWD’s EPA-estimated range by 8.5% to 348 miles while keeping its $39,990 starting price in the U.S. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/standard/modelystandard_97.jpg/633479da85b2d5da169dba6fe1c81d2d/modelystandard_97.jpg"
+  },
+  {
+   "title": "Tesla Cybercab Ownership Rules: No Wraps or Customizations, Subscription May Change",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5016/tesla-cybercab-ownership-rules-no-wraps-or-customizations-subscription-may-change",
+   "date": "2026-11-14T21:34:00Z",
+   "snippet": "Cybercab owners can’t wrap, tint, or swap wheels, can’t use it for ride-hailing, and could see the $299 subscription price change (for better or worse) Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-event.webp/2bdac2476efd6e0a72254f7d981092ad/cybercab-event.jpg"
+  },
   {
    "title": "Tesla’s Cybercab Autonomy Subscription: Everything Included",
    "source": "Not a Tesla App",
@@ -78,30 +102,6 @@
    "date": "2026-11-13T21:00:00Z",
    "snippet": "Matthew KuKanich’s CAN Commander app lets a jailbroken Switch 2 steer, shift, honk, and signal his Tesla through its CAN bus Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/driving-tesla-with-switch-2-matthew-kukanich.png/fa82b6332e04d420dd6b91002dafd41d/driving-tesla-with-switch-2-matthew-kukanich.jpg"
-  },
-  {
-   "title": "Tesla and SpaceX Merger Could Be Announced in December: Report",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5010/tesla-and-spacex-merger-could-be-announced-in-december-report",
-   "date": "2026-11-13T18:37:00Z",
-   "snippet": "Tesla and SpaceX merger talks are progressing, with a deal possible in December or early 2027, according to a new report Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2021/elon-musk.jpg/34237e2c3d26c255fc83c435666fa5a1/elon-musk.jpg"
-  },
-  {
-   "title": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990/",
-   "date": "2026-11-13T18:13:44Z",
-   "snippet": "Tesla is now only selling one version of the Cybertruck in the US: the tri-motor Cyberbeast, which just got another $7,500 price hike to $109,990. The Dual Motor and Premium AWD…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/image_7594a0.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Unplugged Performance Offers to Build the Cybertruck for Tesla",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5008/unplugged-performance-offers-to-build-the-cybertruck-for-tesla",
-   "date": "2026-11-13T16:52:00Z",
-   "snippet": "Unplugged Performance has offered to take over Cybertruck production with investor funding, also pitching a CyberSUV and CyberCargo while Tesla scales Cybercab Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2023/cybertruck-production-line.jpg/ef6000c153b67d55aeb729f62e493fe5/cybertruck-production-line.jpg"
   }
  ]
 }
