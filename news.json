@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T00:34:14Z",
+ "updated": "2026-11-15T20:27:48Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "MKBHD just ordered the Tesla Cybercab with his hair on the line",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/mkbhd-tesla-cybercab-bet/",
+   "date": "2026-11-15T17:25:07Z",
+   "snippet": "MKBHD ordered a Tesla Cybercab, two years after betting his hair Tesla couldn't sell one. The post MKBHD just ordered the Tesla Cybercab with his hair on the line appeared first…",
+   "image": null
+  },
+  {
+   "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
+   "date": "2026-11-15T16:31:24Z",
+   "snippet": "Elon Musk called YouTuber Marques Brownlee “a chicken” early Saturday, hours after Tesla opened invite-only Cybercab orders at $29,990 and Brownlee argued that his famous…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/MKBHD-Tesla-Cybercan-Elon-Musk.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
   {
    "title": "MKBHD Orders a Tesla Cybercab to Decide Head-Shaving Bet",
    "source": "Not a Tesla App",
@@ -86,22 +102,6 @@
    "date": "2026-11-14T00:06:29Z",
    "snippet": "The Cybercab will be Tesla's cheapest vehicle, but there's a catch: autonomous driving will cost you $299 per month.",
    "image": "https://cdn.motor1.com/images/mgl/nAbWEG/s3/tesla-cybercab-la-auto-show-2024.jpg"
-  },
-  {
-   "title": "Tesla Cybercab goes on sale for $29,990, slated for December deliveries",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-cybercab-29990-december-deliveries/",
-   "date": "2026-11-13T23:46:15Z",
-   "snippet": "Tesla has officially put the Cybercab up for sale, revealing a bargain price and a $299 per month “Autonomy Subscription” that could hit customer hands as soon as December. The…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
-  },
-  {
-   "title": "Researcher Creates Hack to Steer Tesla With Switch 2 [VIDEO]",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5011/researcher-creates-hack-to-steer-tesla-with-switch-2-video",
-   "date": "2026-11-13T21:00:00Z",
-   "snippet": "Matthew KuKanich’s CAN Commander app lets a jailbroken Switch 2 steer, shift, honk, and signal his Tesla through its CAN bus Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/driving-tesla-with-switch-2-matthew-kukanich.png/fa82b6332e04d420dd6b91002dafd41d/driving-tesla-with-switch-2-matthew-kukanich.jpg"
   }
  ]
 }
