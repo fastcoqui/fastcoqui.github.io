@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T20:27:48Z",
+ "updated": "2026-11-16T10:09:47Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Drivers Can Now Plug In And Charge Automatically at Ionna Stations",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/815544/tesla-autocharge-ionna-app/",
+   "date": "2026-11-16T08:57:44Z",
+   "snippet": "After enabling the feature in a smartphone app, drivers can forget about manually paying for charging at Ionna.",
+   "image": "https://cdn.motor1.com/images/mgl/pb8lnv/s3/tesla-model-3-at-an-ionna-charging-station.jpg"
+  },
   {
    "title": "MKBHD just ordered the Tesla Cybercab with his hair on the line",
    "source": "Teslarati",
@@ -94,14 +102,6 @@
    "date": "2026-11-14T00:18:00Z",
    "snippet": "Tesla opens Cybercab orders to select buyers at $29,990, with a required $299 monthly subscription and estimated December 2026 deliveries. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-studio.webp/b3697eec915737dff567818b0318df6d/cybercab-studio.jpg"
-  },
-  {
-   "title": "Tesla Opens Self-Driving Cybercab Orders To 'Select Customers' At $29,990",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/815473/tesla-cybercab-pricing-sales-announced/",
-   "date": "2026-11-14T00:06:29Z",
-   "snippet": "The Cybercab will be Tesla's cheapest vehicle, but there's a catch: autonomous driving will cost you $299 per month.",
-   "image": "https://cdn.motor1.com/images/mgl/nAbWEG/s3/tesla-cybercab-la-auto-show-2024.jpg"
   }
  ]
 }
