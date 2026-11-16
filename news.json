@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T10:09:47Z",
+ "updated": "2026-11-16T14:45:34Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Just Bumped The Cheapest Model Y’s Range, But The Price Stays The Same",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/815562/tesla-model-y-rwd-range-boost-2027/",
+   "date": "2026-11-16T10:16:34Z",
+   "snippet": "The base Model Y Rear-Wheel Drive is now just a few miles short of the more expensive Model Y Premium trim.",
+   "image": "https://cdn.motor1.com/images/mgl/W87kl3/s3/tesla-model-y-standard-long-range-rear-wheel-drive.jpg"
+  },
   {
    "title": "Tesla Drivers Can Now Plug In And Charge Automatically at Ionna Stations",
    "source": "InsideEVs",
@@ -94,14 +102,6 @@
    "date": "2026-11-14T02:11:39Z",
    "snippet": "Tesla is now inviting “select customers” to buy a Cybercab for personal use at $29,990, but the car won’t move unless you also pay $299 a month for an “Autonomy Subscription.” And…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybercab-orders.jpeg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Opens Orders for the Cybercab for Personal Use: Costs $29,990 and Requires a $299 Monthly Subscription",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5012/tesla-opens-orders-for-the-cybercab-for-personal-use-costs-29990-and-requires-a-299-monthly-subscription",
-   "date": "2026-11-14T00:18:00Z",
-   "snippet": "Tesla opens Cybercab orders to select buyers at $29,990, with a required $299 monthly subscription and estimated December 2026 deliveries. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-studio.webp/b3697eec915737dff567818b0318df6d/cybercab-studio.jpg"
   }
  ]
 }
