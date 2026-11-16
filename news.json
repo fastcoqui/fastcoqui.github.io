@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:01:20Z",
+ "updated": "2026-11-16T20:39:31Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -8,12 +8,60 @@
  ],
  "items": [
   {
+   "title": "Tesla Keeps Killing Cars. Now It Wants To Build Cybercabs In Germany",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/815634/tesla-german-factory-expansion-cybercab/",
+   "date": "2026-11-16T18:32:10Z",
+   "snippet": "A $3.3 billion factory expansion takes Musk’s autonomy gamble overseas as Tesla trims its conventional lineup.",
+   "image": "https://cdn.motor1.com/images/mgl/1ZPZr9/s3/tesla-cybercab-unboxed-production-line.jpg"
+  },
+  {
+   "title": "Tesla Model X on Autopilot/FSD hit a pole and flipped, killing passenger",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-model-x-pole-rollover-naples/",
+   "date": "2026-11-16T18:10:05Z",
+   "snippet": "A Tesla Model X veered off Golden Gate Parkway in Naples, Florida, hit a traffic signal pole and overturned in September, killing a 50-year-old woman riding as a passenger…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Model-X-autopilotfsd-crash-naples.jpeg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla Nearly Doubles Miami Robotaxi Service Area, Expands Into Downtown",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5021/tesla-nearly-doubles-miami-robotaxi-service-area-expands-into-downtown",
+   "date": "2026-11-16T17:32:00Z",
+   "snippet": "Tesla nearly doubles its Miami Robotaxi service area to 59 square miles, adds Downtown Miami coverage, and now offers rides 24/7. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-miami-expansion-nov-16-2026.webp/819428dc1dbc0c0385682c1a276ebcf1/robotaxi-miami-expansion-nov-16-2026.jpg"
+  },
+  {
+   "title": "Tesla confirms €3B Cybercab factory at Giga Berlin for up to 1M a year",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/",
+   "date": "2026-11-16T17:22:25Z",
+   "snippet": "Tesla is going to build the Cybercab in Germany. The company confirmed today a first €3 billion investment in a new production building at Giga Berlin designed for up to 1 million…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2023/08/Tesla-Gigafactory-Berlin-Aug-2023.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Cybercab is Coming to Europe as Tesla Announces $3.3 Billion Giga Berlin Expansion",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5020/cybercab-is-coming-to-europe-as-tesla-announces-33-billion-giga-berlin-expansion",
+   "date": "2026-11-16T17:11:00Z",
+   "snippet": "Tesla announces a $3.3 billion Giga Berlin expansion to produce up to 1 million Cybercabs, with construction starting in 2027. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/giga-factories/giga-berlin.webp/7750e38b73ac7f493476ffbb56b55a2a/giga-berlin.jpg"
+  },
+  {
    "title": "Tesla makes €3 billion Cybercab bet at Giga Berlin",
    "source": "Teslarati",
    "link": "https://www.teslarati.com/tesla-makes-e3-billion-cybercab-bet-giga-berlin/",
    "date": "2026-11-16T16:31:28Z",
    "snippet": "It is no secret Tesla is prioritizing Cybercab production as it plans to launch a fleet of fully autonomous vehicles without steering wheels or pedals across the world. Today, it…",
    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
+  {
+   "title": "Tesla Model 3 Maintenance Guide: What Needs Servicing And What Doesn't",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/814818/tesla-model-3-maintenance-guide/",
+   "date": "2026-11-16T16:26:25Z",
+   "snippet": "EVs need a lot less maintenance than a conventional combustion vehicle. That said, they still need some attention.",
+   "image": "https://cdn.motor1.com/images/mgl/gZevm/s3/tesla-service.jpg"
   },
   {
    "title": "Tesla on Autopilot/FSD was going 74 mph before fiery crash that killed 3",
@@ -54,54 +102,6 @@
    "date": "2026-11-15T17:25:07Z",
    "snippet": "MKBHD ordered a Tesla Cybercab, two years after betting his hair Tesla couldn't sell one. The post MKBHD just ordered the Tesla Cybercab with his hair on the line appeared first…",
    "image": null
-  },
-  {
-   "title": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
-   "date": "2026-11-15T16:31:24Z",
-   "snippet": "Elon Musk called YouTuber Marques Brownlee “a chicken” early Saturday, hours after Tesla opened invite-only Cybercab orders at $29,990 and Brownlee argued that his famous…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/MKBHD-Tesla-Cybercan-Elon-Musk.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "MKBHD Orders a Tesla Cybercab to Decide Head-Shaving Bet",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5019/mkbhd-orders-a-tesla-cybercab-to-decide-head-shaving-bet",
-   "date": "2026-11-14T22:46:00Z",
-   "snippet": "MKBHD ordered a $29,990 Cybercab after Tesla opened invite-only orders, with deliveries due in December, weeks before his head-shaving bet deadline Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/mkbhd-elon-musk-interview.webp/8a6d0f734d3193b1eb0491f1c6884064/mkbhd-elon-musk-interview.jpg"
-  },
-  {
-   "title": "Tesla Model Y RWD Gets Increased Range at Same Price",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5017/tesla-model-y-rwd-gets-increased-range-at-same-price",
-   "date": "2026-11-14T22:06:00Z",
-   "snippet": "Tesla has raised the Model Y RWD’s EPA-estimated range by 8.5% to 348 miles while keeping its $39,990 starting price in the U.S. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/standard/modelystandard_97.jpg/633479da85b2d5da169dba6fe1c81d2d/modelystandard_97.jpg"
-  },
-  {
-   "title": "Tesla Cybercab Ownership Rules: No Wraps or Customizations, Subscription May Change",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5016/tesla-cybercab-ownership-rules-no-wraps-or-customizations-subscription-may-change",
-   "date": "2026-11-14T21:34:00Z",
-   "snippet": "Cybercab owners can’t wrap, tint, or swap wheels, can’t use it for ride-hailing, and could see the $299 subscription price change (for better or worse) Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-event.webp/2bdac2476efd6e0a72254f7d981092ad/cybercab-event.jpg"
-  },
-  {
-   "title": "Tesla’s Cybercab Autonomy Subscription: Everything Included",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5015/teslas-cybercab-autonomy-subscription-everything-included",
-   "date": "2026-11-14T19:29:00Z",
-   "snippet": "Tesla’s Autonomy Subscription for Cybercab includes self-driving, connectivity, tire and windshield replacements, and roadside help, but not insurance Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab-employee-rides-giga-texas-3.webp/b89f968bf8958acd8cedeccdd189a64f/cybercab-employee-rides-giga-texas-3.jpg"
-  },
-  {
-   "title": "Musk: Cybercab Sales Are Going Nationwide, $299 Subscription 'Too High'",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5014/musk-cybercab-sales-are-going-nationwide-299-subscription-too-high",
-   "date": "2026-11-14T18:19:00Z",
-   "snippet": "Elon Musk says the Cybercab will expand nationwide with regulatory approval and its $299 monthly Autonomy subscription should drop to around $115 Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-city.webp/6cfc18a991dac3558bfc5bb8ff9a8dc8/robotaxi-city.jpg"
   }
  ]
 }
