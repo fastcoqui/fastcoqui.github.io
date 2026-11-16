@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T14:45:34Z",
+ "updated": "2026-11-16T17:01:20Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla makes €3 billion Cybercab bet at Giga Berlin",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-makes-e3-billion-cybercab-bet-giga-berlin/",
+   "date": "2026-11-16T16:31:28Z",
+   "snippet": "It is no secret Tesla is prioritizing Cybercab production as it plans to launch a fleet of fully autonomous vehicles without steering wheels or pedals across the world. Today, it…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
+  {
+   "title": "Tesla on Autopilot/FSD was going 74 mph before fiery crash that killed 3",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-fiery-crash-el-dorado-hills/",
+   "date": "2026-11-16T16:00:24Z",
+   "snippet": "A Tesla Model Y left a parkway in El Dorado Hills, California, hit a tree and burst into flames in September, killing three of the four people inside. Tesla’s own report to…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla on Autopilot/FSD hit an overturned truck at 71 mph, killing 3",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-overturned-truck-naples-i75/",
+   "date": "2026-11-16T15:13:45Z",
+   "snippet": "A Tesla Model 3 drove into an overturned box truck on I-75 near Naples, Florida, killing two of its passengers and a man who had stopped to help. Tesla’s own report to federal…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-autopilot-fsd-crash-naples-florida.jpeg?quality=82&#038;strip=all&#038;w=1600"
+  },
   {
    "title": "Tesla Just Bumped The Cheapest Model Y’s Range, But The Price Stays The Same",
    "source": "InsideEVs",
@@ -78,30 +102,6 @@
    "date": "2026-11-14T18:19:00Z",
    "snippet": "Elon Musk says the Cybercab will expand nationwide with regulatory approval and its $299 monthly Autonomy subscription should drop to around $115 Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-city.webp/6cfc18a991dac3558bfc5bb8ff9a8dc8/robotaxi-city.jpg"
-  },
-  {
-   "title": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/",
-   "date": "2026-11-14T13:33:00Z",
-   "snippet": "Tesla has posted the agreement that comes with its $29,990 Cybercab, and it’s even worse than the order page suggested. The two-seater can’t move without a $299 monthly “Autonomy…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Cybercab ownership will come with plenty of strings attached",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-cybercab-arrives-steep-ownership-fine-print/",
-   "date": "2026-11-14T13:32:34Z",
-   "snippet": "Tesla’s long-promised Cybercab is finally available for personal purchase, at least for a select few in the Austin area. But it’s far from a straightforward ownership experience…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9f5.png"
-  },
-  {
-   "title": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
-   "date": "2026-11-14T02:11:39Z",
-   "snippet": "Tesla is now inviting “select customers” to buy a Cybercab for personal use at $29,990, but the car won’t move unless you also pay $299 a month for an “Autonomy Subscription.” And…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybercab-orders.jpeg?quality=82&#038;strip=all&#038;w=1600"
   }
  ]
 }
