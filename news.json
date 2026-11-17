@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:48:00Z",
+ "updated": "2026-11-17T08:48:39Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -30,6 +30,14 @@
    "date": "2026-11-16T21:41:36Z",
    "snippet": "Tesla’s Cybercab now has 8 crashes on file with NHTSA, barely two months after the purpose-built robotaxi started giving public rides in Austin. Four happened in driverless…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla Keeps Killing Cars. Now It Wants To Build Cybercabs In Germany",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/815634/tesla-german-factory-expansion-cybercab/",
+   "date": "2026-11-16T18:32:10Z",
+   "snippet": "A $3.3 billion factory expansion takes Musk’s autonomy gamble overseas as Tesla trims its conventional lineup.",
+   "image": "https://cdn.motor1.com/images/mgl/1ZPZr9/s3/tesla-cybercab-unboxed-production-line.jpg"
   },
   {
    "title": "Tesla Model X on Autopilot/FSD hit a pole and flipped, killing passenger",
@@ -94,14 +102,6 @@
    "date": "2026-11-16T15:13:45Z",
    "snippet": "A Tesla Model 3 drove into an overturned box truck on I-75 near Naples, Florida, killing two of its passengers and a man who had stopped to help. Tesla’s own report to federal…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-autopilot-fsd-crash-naples-florida.jpeg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Just Bumped The Cheapest Model Y’s Range, But The Price Stays The Same",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/815562/tesla-model-y-rwd-range-boost-2027/",
-   "date": "2026-11-16T10:16:34Z",
-   "snippet": "The base Model Y Rear-Wheel Drive is now just a few miles short of the more expensive Model Y Premium trim.",
-   "image": "https://cdn.motor1.com/images/mgl/W87kl3/s3/tesla-model-y-standard-long-range-rear-wheel-drive.jpg"
   }
  ]
 }
