@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T20:39:31Z",
+ "updated": "2026-11-17T00:40:23Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla may test customer-owned Robotaxis as early as next month, Musk says",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-may-test-customer-owned-robotaxis-early-next-month-musk-says/",
+   "date": "2026-11-17T00:04:21Z",
+   "snippet": "Elon Musk says that Tesla could test adding customer-owned vehicles to the Robotaxi platform as soon as December. In a reply on X to an Austin-based Uber driver who uses a Model Y…",
+   "image": null
+  },
+  {
+   "title": "Tesla Owners Could Add Their Vehicles to the Robotaxi Network As Early as Next Month",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5022/tesla-to-allow-customers-to-add-their-vehicles-to-robotaxi-as-early-as-next-month",
+   "date": "2026-11-16T23:29:00Z",
+   "snippet": "Elon Musk says Tesla owners could join Robotaxi trials in December. Here's what we know about hardware, subscription costs, and revenue sharing. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2022/fsd-beta-vis-2.jpg/eb3f80143b74362987cf16434024373e/fsd-beta-vis-2.jpg"
+  },
+  {
+   "title": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/",
+   "date": "2026-11-16T21:41:36Z",
+   "snippet": "Tesla’s Cybercab now has 8 crashes on file with NHTSA, barely two months after the purpose-built robotaxi started giving public rides in Austin. Four happened in driverless…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
   {
    "title": "Tesla Keeps Killing Cars. Now It Wants To Build Cybercabs In Germany",
    "source": "InsideEVs",
@@ -48,7 +72,7 @@
    "image": "https://www.notateslaapp.com/img/containers/article_images/giga-factories/giga-berlin.webp/7750e38b73ac7f493476ffbb56b55a2a/giga-berlin.jpg"
   },
   {
-   "title": "Tesla makes €3 billion Cybercab bet at Giga Berlin",
+   "title": "Tesla makes $3.3 billion Cybercab bet at Giga Berlin",
    "source": "Teslarati",
    "link": "https://www.teslarati.com/tesla-makes-e3-billion-cybercab-bet-giga-berlin/",
    "date": "2026-11-16T16:31:28Z",
@@ -78,30 +102,6 @@
    "date": "2026-11-16T15:13:45Z",
    "snippet": "A Tesla Model 3 drove into an overturned box truck on I-75 near Naples, Florida, killing two of its passengers and a man who had stopped to help. Tesla’s own report to federal…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-autopilot-fsd-crash-naples-florida.jpeg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Just Bumped The Cheapest Model Y’s Range, But The Price Stays The Same",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/815562/tesla-model-y-rwd-range-boost-2027/",
-   "date": "2026-11-16T10:16:34Z",
-   "snippet": "The base Model Y Rear-Wheel Drive is now just a few miles short of the more expensive Model Y Premium trim.",
-   "image": "https://cdn.motor1.com/images/mgl/W87kl3/s3/tesla-model-y-standard-long-range-rear-wheel-drive.jpg"
-  },
-  {
-   "title": "Tesla Drivers Can Now Plug In And Charge Automatically at Ionna Stations",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/815544/tesla-autocharge-ionna-app/",
-   "date": "2026-11-16T08:57:44Z",
-   "snippet": "After enabling the feature in a smartphone app, drivers can forget about manually paying for charging at Ionna.",
-   "image": "https://cdn.motor1.com/images/mgl/pb8lnv/s3/tesla-model-3-at-an-ionna-charging-station.jpg"
-  },
-  {
-   "title": "MKBHD just ordered the Tesla Cybercab with his hair on the line",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/mkbhd-tesla-cybercab-bet/",
-   "date": "2026-11-15T17:25:07Z",
-   "snippet": "MKBHD ordered a Tesla Cybercab, two years after betting his hair Tesla couldn't sell one. The post MKBHD just ordered the Tesla Cybercab with his hair on the line appeared first…",
-   "image": null
   }
  ]
 }
