@@ -1,11 +1,68 @@
 {
- "updated": "2026-11-17T16:51:58Z",
+ "updated": "2026-11-17T20:42:22Z",
  "sources": [
   "Electrek",
+  "Teslarati",
   "Not a Tesla App",
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla TAD in Europe to Require Attention During Maneuvers and Hands on Wheel Over 130 Km/h",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5029/tesla-tad-in-europe-to-require-hands-on-wheel-over-130-kmh-more",
+   "date": "2026-11-17T20:05:00Z",
+   "snippet": "The Dutch RDW approved earlier inattention warnings, full strikes during maneuvers, clearer speed alerts for Tesla Assisted Driving on HW4 cars, and more. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-3.webp/32b160c783084075049a257c2e5f5cff/fsd-vis-3.jpg"
+  },
+  {
+   "title": "Tesla changes vehicle computers from ‘AI’ to ‘SI,’ reflecting President Trump change",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-changes-vehicle-computers-from-ai-to-si-reflecting-president-trump-change/",
+   "date": "2026-11-17T19:50:50Z",
+   "snippet": "Tesla has officially changed the reference to its vehicles’ internal computers to “Super Intelligence,” or “SI,” reflecting a change that President Donald Trump made when he noted…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f643.png"
+  },
+  {
+   "title": "Tesla Update 2026.44.1 Brings Redesigned Service Menu and Improved Charging Views",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5028/tesla-update-2026441-brings-redesigned-service-menu-and-improved-charging-views",
+   "date": "2026-11-17T18:33:00Z",
+   "snippet": "Tesla update 2026.44.1 adds a redesigned Service menu, improved charger maps and renames its FSD hardware to SI Computer. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/serivce-menu-top.webp/f3d0c92f16b90ce8c0228f7b1c2062c8/serivce-menu-top.jpg"
+  },
+  {
+   "title": "Tesla just doubled its Miami Robotaxi geofence",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-doubled-miami-robotaxi-geofence/",
+   "date": "2026-11-17T18:12:48Z",
+   "snippet": "Tesla just doubled the serviceable area that its Robotaxi platform can travel in Miami, Florida. On November 16, Tesla announced a major expansion of its Miami service area with a…",
+   "image": null
+  },
+  {
+   "title": "New Tesla Supercharger Adjusts Its Power Based on the Grid",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5027/new-tesla-supercharger-adjusts-its-power-based-on-the-grid",
+   "date": "2026-11-17T18:01:00Z",
+   "snippet": "Tesla’s Cloverdale, CA Supercharger uses PG&E’s Flex Connect pilot and IEEE 2030.5 to adjust power based on grid conditions, letting it open sooner Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/charging/tesla-supercharger-cloverdale-california.webp/76d7cc02f7cba3b0966d2a9f23be7186/tesla-supercharger-cloverdale-california.jpg"
+  },
+  {
+   "title": "Tesla Unveils Powercore, a New 7.4 MW Solid-State Transformer Coming in 2027",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5026/tesla-unveils-powercore-a-new-74-mw-solid-state-transformer-coming-in-2027",
+   "date": "2026-11-17T17:42:00Z",
+   "snippet": "Tesla unveils Powercore, a 7.4 MW solid-state transformer with integrated inverter and breaker, designed for Megapacks and data centers in 2027. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/powercore.webp/b79338edb2fdc46e76dbef3ecbd4910e/powercore.jpg"
+  },
+  {
+   "title": "Tesla Update 2026.44.1 is Hiding a New Navigation Option, Supercharger Notifications and Grok Improvements",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5025/tesla-update-2026441-is-hiding-a-new-navigation-option-supercharger-notifications-and-grok-improvements",
+   "date": "2026-11-17T17:32:00Z",
+   "snippet": "Tesla update 2026.44.1 reveals Grok chat history, charging price alerts, smart charging, new navigation options and other hidden changes. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-screen/grok-ui-1.webp/af9875fa07b1d49ab631958f5aea7ed4/grok-ui-1.jpg"
+  },
   {
    "title": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
    "source": "Electrek",
@@ -13,6 +70,14 @@
    "date": "2026-11-17T16:35:25Z",
    "snippet": "Tesla has unveiled Powercore, a solid-state medium-voltage transformer that also handles the inverter and breaker functions in a single unit. Tesla rates it at 7.4 MW (9 MVA)…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Powercore.jpeg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla tuner pleading to save Cybertruck also wants to build CyberSUV",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-tuner-pleading-save-cybertruck-wants-cybersuv/",
+   "date": "2026-11-17T16:04:53Z",
+   "snippet": "Tesla tuner Unplugged Performance, the company pleading to save the Cybertruck, detailed in a new phase of its plan to rescue manufacturing lines from Gigafactory Texas that it…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f447.png"
   },
   {
    "title": "Tesla needs wireless charging fast, or its $30,000 Cybercab can’t charge at home",
@@ -31,76 +96,12 @@
    "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.44/charger-network-view.png/6458db31c8444f0d5d10da3087628702/charger-network-view.jpg"
   },
   {
-   "title": "New Tesla Accessory Adds Kick-to-Open Trunk and Frunk for Just $99",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5024/new-tesla-accessory-adds-wireless-kick-to-open-trunk-and-frunk-for-just-99",
-   "date": "2026-11-16T23:51:00Z",
-   "snippet": "Ctrl-Kick brings wireless kick-to-open trunk and frunk access to Tesla vehicles for $99, with easy installation and eight-month battery life. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/ctrl-kick.webp/0f5101b28c90d8433cbb197fb0075a29/ctrl-kick.jpg"
-  },
-  {
-   "title": "Tesla Owners Could Add Their Vehicles to the Robotaxi Network As Early as Next Month",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5022/tesla-to-allow-customers-to-add-their-vehicles-to-robotaxi-as-early-as-next-month",
-   "date": "2026-11-16T23:29:00Z",
-   "snippet": "Elon Musk says Tesla owners could join Robotaxi trials in December. Here's what we know about hardware, subscription costs, and revenue sharing. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2022/fsd-beta-vis-2.jpg/eb3f80143b74362987cf16434024373e/fsd-beta-vis-2.jpg"
-  },
-  {
-   "title": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/16/tesla-cybercab-crashes-speed-problem/",
-   "date": "2026-11-16T21:41:36Z",
-   "snippet": "Tesla’s Cybercab now has 8 crashes on file with NHTSA, barely two months after the purpose-built robotaxi started giving public rides in Austin. Four happened in driverless…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/02/Tesla-Cybercab-hero.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Keeps Killing Cars. Now It Wants To Build Cybercabs In Germany",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/815634/tesla-german-factory-expansion-cybercab/",
-   "date": "2026-11-16T18:32:10Z",
-   "snippet": "A $3.3 billion factory expansion takes Musk’s autonomy gamble overseas as Tesla trims its conventional lineup.",
-   "image": "https://cdn.motor1.com/images/mgl/1ZPZr9/s3/tesla-cybercab-unboxed-production-line.jpg"
-  },
-  {
-   "title": "Tesla Model X on Autopilot/FSD hit a pole and flipped, killing passenger",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-model-x-pole-rollover-naples/",
-   "date": "2026-11-16T18:10:05Z",
-   "snippet": "A Tesla Model X veered off Golden Gate Parkway in Naples, Florida, hit a traffic signal pole and overturned in September, killing a 50-year-old woman riding as a passenger…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Model-X-autopilotfsd-crash-naples.jpeg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Nearly Doubles Miami Robotaxi Service Area, Expands Into Downtown",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5021/tesla-nearly-doubles-miami-robotaxi-service-area-expands-into-downtown",
-   "date": "2026-11-16T17:32:00Z",
-   "snippet": "Tesla nearly doubles its Miami Robotaxi service area to 59 square miles, adds Downtown Miami coverage, and now offers rides 24/7. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/robotaxi-miami-expansion-nov-16-2026.webp/819428dc1dbc0c0385682c1a276ebcf1/robotaxi-miami-expansion-nov-16-2026.jpg"
-  },
-  {
-   "title": "Tesla confirms €3B Cybercab factory at Giga Berlin for up to 1M a year",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/",
-   "date": "2026-11-16T17:22:25Z",
-   "snippet": "Tesla is going to build the Cybercab in Germany. The company confirmed today a first €3 billion investment in a new production building at Giga Berlin designed for up to 1 million…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2023/08/Tesla-Gigafactory-Berlin-Aug-2023.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Cybercab is Coming to Europe as Tesla Announces $3.3 Billion Giga Berlin Expansion",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5020/cybercab-is-coming-to-europe-as-tesla-announces-33-billion-giga-berlin-expansion",
-   "date": "2026-11-16T17:11:00Z",
-   "snippet": "Tesla announces a $3.3 billion Giga Berlin expansion to produce up to 1 million Cybercabs, with construction starting in 2027. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/giga-factories/giga-berlin.webp/7750e38b73ac7f493476ffbb56b55a2a/giga-berlin.jpg"
-  },
-  {
-   "title": "Tesla Model 3 Maintenance Guide: What Needs Servicing And What Doesn't",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/814818/tesla-model-3-maintenance-guide/",
-   "date": "2026-11-16T16:26:25Z",
-   "snippet": "EVs need a lot less maintenance than a conventional combustion vehicle. That said, they still need some attention.",
-   "image": "https://cdn.motor1.com/images/mgl/gZevm/s3/tesla-service.jpg"
+   "title": "Your Tesla could be in the Robotaxi fleet next month, Elon Musk claims",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-may-test-customer-owned-robotaxis-early-next-month-musk-says/",
+   "date": "2026-11-17T00:04:21Z",
+   "snippet": "Elon Musk says that Tesla could test adding customer-owned vehicles to the Robotaxi platform as soon as December. In a reply on X to an Austin-based Uber driver who uses a Model Y…",
+   "image": null
   }
  ]
 }
