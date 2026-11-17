@@ -1,19 +1,42 @@
 {
- "updated": "2026-11-17T08:48:39Z",
+ "updated": "2026-11-17T16:51:58Z",
  "sources": [
   "Electrek",
-  "Teslarati",
   "Not a Tesla App",
   "InsideEVs"
  ],
  "items": [
   {
-   "title": "Tesla may test customer-owned Robotaxis as early as next month, Musk says",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-may-test-customer-owned-robotaxis-early-next-month-musk-says/",
-   "date": "2026-11-17T00:04:21Z",
-   "snippet": "Elon Musk says that Tesla could test adding customer-owned vehicles to the Robotaxi platform as soon as December. In a reply on X to an Austin-based Uber driver who uses a Model Y…",
-   "image": null
+   "title": "Tesla unveils 7.4 MW Powercore to take on ex-exec Baglino’s Heron Link",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/17/tesla-powercore-solid-state-transformer-heron-link/",
+   "date": "2026-11-17T16:35:25Z",
+   "snippet": "Tesla has unveiled Powercore, a solid-state medium-voltage transformer that also handles the inverter and breaker functions in a single unit. Tesla rates it at 7.4 MW (9 MVA)…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Powercore.jpeg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla needs wireless charging fast, or its $30,000 Cybercab can’t charge at home",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/17/tesla-cybercab-home-charging-wireless-problem/",
+   "date": "2026-11-17T14:19:41Z",
+   "snippet": "Tesla is now taking orders for the $29,990 Cybercab, with the first deliveries expected in Austin next month. But there’s a problem buyers should know about: they won’t be able to…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/10/Tesla-wireless-charging-rate.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla Update 2026.44.1 Release Notes",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes",
+   "date": "2026-11-17T04:37:59Z",
+   "snippet": "We take a look at the release notes and what's new in Tesla update 2026.44.1. Read More",
+   "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.44/charger-network-view.png/6458db31c8444f0d5d10da3087628702/charger-network-view.jpg"
+  },
+  {
+   "title": "New Tesla Accessory Adds Kick-to-Open Trunk and Frunk for Just $99",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5024/new-tesla-accessory-adds-wireless-kick-to-open-trunk-and-frunk-for-just-99",
+   "date": "2026-11-16T23:51:00Z",
+   "snippet": "Ctrl-Kick brings wireless kick-to-open trunk and frunk access to Tesla vehicles for $99, with easy installation and eight-month battery life. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/ctrl-kick.webp/0f5101b28c90d8433cbb197fb0075a29/ctrl-kick.jpg"
   },
   {
    "title": "Tesla Owners Could Add Their Vehicles to the Robotaxi Network As Early as Next Month",
@@ -72,36 +95,12 @@
    "image": "https://www.notateslaapp.com/img/containers/article_images/giga-factories/giga-berlin.webp/7750e38b73ac7f493476ffbb56b55a2a/giga-berlin.jpg"
   },
   {
-   "title": "Tesla makes $3.3 billion Cybercab bet at Giga Berlin",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-makes-e3-billion-cybercab-bet-giga-berlin/",
-   "date": "2026-11-16T16:31:28Z",
-   "snippet": "It is no secret Tesla is prioritizing Cybercab production as it plans to launch a fleet of fully autonomous vehicles without steering wheels or pedals across the world. Today, it…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
-  },
-  {
    "title": "Tesla Model 3 Maintenance Guide: What Needs Servicing And What Doesn't",
    "source": "InsideEVs",
    "link": "https://insideevs.com/news/814818/tesla-model-3-maintenance-guide/",
    "date": "2026-11-16T16:26:25Z",
    "snippet": "EVs need a lot less maintenance than a conventional combustion vehicle. That said, they still need some attention.",
    "image": "https://cdn.motor1.com/images/mgl/gZevm/s3/tesla-service.jpg"
-  },
-  {
-   "title": "Tesla on Autopilot/FSD was going 74 mph before fiery crash that killed 3",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-fiery-crash-el-dorado-hills/",
-   "date": "2026-11-16T16:00:24Z",
-   "snippet": "A Tesla Model Y left a parkway in El Dorado Hills, California, hit a tree and burst into flames in September, killing three of the four people inside. Tesla’s own report to…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla on Autopilot/FSD hit an overturned truck at 71 mph, killing 3",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/16/tesla-autopilot-fsd-overturned-truck-naples-i75/",
-   "date": "2026-11-16T15:13:45Z",
-   "snippet": "A Tesla Model 3 drove into an overturned box truck on I-75 near Naples, Florida, killing two of its passengers and a man who had stopped to help. Tesla’s own report to federal…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-autopilot-fsd-crash-naples-florida.jpeg?quality=82&#038;strip=all&#038;w=1600"
   }
  ]
 }
