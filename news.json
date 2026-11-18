@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T08:51:20Z",
+ "updated": "2026-11-18T16:52:33Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla gears up Cybercab with Starlink for public debut, but with notable changes",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-gears-up-cybercab-starlink-for-public-debut-notable-changes/",
+   "date": "2026-11-18T16:30:43Z",
+   "snippet": "Tesla is gearing up Cybercab, its all-electric and fully autonomous ride-hailing vehicle, for a very public debut as it plans to start customer deliveries in December. However…",
+   "image": "https://www.teslarati.com/wp-content/uploads/2026/11/tesla-cybercab-starlink-side-by-side.jpg"
+  },
+  {
+   "title": "Tesla’s Semi Megacharger network hits 7 sites, far short of 37 goal",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/18/tesla-semi-megacharger-network-mesquite-texas/",
+   "date": "2026-11-18T15:43:18Z",
+   "snippet": "Tesla has opened its first Semi Megacharger in Texas, an 8-stall station in Mesquite on the east side of Dallas. With it, Tesla’s map now lists 7 public Megacharger sites and 44…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Megacharger-texas.jpeg?quality=82&#038;strip=all&#038;w=1600"
+  },
   {
    "title": "Tesla’s Powercore could change how data centers get power",
    "source": "Teslarati",
@@ -69,7 +85,7 @@
    "link": "https://www.notateslaapp.com/news/5026/tesla-unveils-powercore-a-new-74-mw-solid-state-transformer-coming-in-2027",
    "date": "2026-11-17T17:42:00Z",
    "snippet": "Tesla unveils Powercore, a 7.4 MW solid-state transformer with integrated inverter and breaker, designed for Megapacks and data centers in 2027. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/powercore.webp/b79338edb2fdc46e76dbef3ecbd4910e/powercore.jpg"
+   "image": "https://www.notateslaapp.com/img/containers/article_images/energy/powercore.webp/b79338edb2fdc46e76dbef3ecbd4910e/powercore.jpg"
   },
   {
    "title": "Tesla Update 2026.44.1 is Hiding a New Navigation Option, Supercharger Notifications and Grok Improvements",
@@ -86,22 +102,6 @@
    "date": "2026-11-17T16:35:25Z",
    "snippet": "Tesla has unveiled Powercore, a solid-state medium-voltage transformer that also handles the inverter and breaker functions in a single unit. Tesla rates it at 7.4 MW (9 MVA)…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Powercore.jpeg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla tuner pleading to save Cybertruck also wants to build CyberSUV",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-tuner-pleading-save-cybertruck-wants-cybersuv/",
-   "date": "2026-11-17T16:04:53Z",
-   "snippet": "Tesla tuner Unplugged Performance, the company pleading to save the Cybertruck, detailed in a new phase of its plan to rescue manufacturing lines from Gigafactory Texas that it…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f447.png"
-  },
-  {
-   "title": "Tesla needs wireless charging fast, or its $30,000 Cybercab can’t charge at home",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/17/tesla-cybercab-home-charging-wireless-problem/",
-   "date": "2026-11-17T14:19:41Z",
-   "snippet": "Tesla is now taking orders for the $29,990 Cybercab, with the first deliveries expected in Austin next month. But there’s a problem buyers should know about: they won’t be able to…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2024/10/Tesla-wireless-charging-rate.jpg?quality=82&#038;strip=all&#038;w=1600"
   }
  ]
 }
