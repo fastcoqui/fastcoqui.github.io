@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T00:48:03Z",
+ "updated": "2026-11-18T08:51:20Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla’s Powercore could change how data centers get power",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-powercore-data-center-solid-state-voltage-transformer/",
+   "date": "2026-11-18T06:42:15Z",
+   "snippet": "Tesla unveiled Powercore, a solid-state transformer that could ease one of the grid's worst bottlenecks. The post Tesla’s Powercore could change how data centers get power…",
+   "image": null
+  },
   {
    "title": "Tesla Launches Its First FSD Ad in Times Square",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-11-17T14:19:41Z",
    "snippet": "Tesla is now taking orders for the $29,990 Cybercab, with the first deliveries expected in Austin next month. But there’s a problem buyers should know about: they won’t be able to…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2024/10/Tesla-wireless-charging-rate.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Update 2026.44.1 Release Notes",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/software-updates/version/2026.44.1/release-notes",
-   "date": "2026-11-17T04:37:59Z",
-   "snippet": "We take a look at the release notes and what's new in Tesla update 2026.44.1. Read More",
-   "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.44/charger-network-view.png/6458db31c8444f0d5d10da3087628702/charger-network-view.jpg"
   }
  ]
 }
