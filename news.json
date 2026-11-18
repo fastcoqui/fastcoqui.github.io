@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:42:22Z",
+ "updated": "2026-11-18T00:48:03Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Launches Its First FSD Ad in Times Square",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5030/tesla-launches-its-first-fsd-ad-in-times-square",
+   "date": "2026-11-17T20:53:00Z",
+   "snippet": "Tesla is running its first FSD ad in Times Square through November, highlighting 15+ billion miles driven, as Grok Bot takes over the Vegas Sphere Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-fsd-ad-times-square-1794948813.png/975be43cecc0c70837629f9cbbac0bb3/tesla-fsd-ad-times-square-1794948813.jpg"
+  },
   {
    "title": "Tesla TAD in Europe to Require Attention During Maneuvers and Hands on Wheel Over 130 Km/h",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-11-17T04:37:59Z",
    "snippet": "We take a look at the release notes and what's new in Tesla update 2026.44.1. Read More",
    "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.44/charger-network-view.png/6458db31c8444f0d5d10da3087628702/charger-network-view.jpg"
-  },
-  {
-   "title": "Your Tesla could be in the Robotaxi fleet next month, Elon Musk claims",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-may-test-customer-owned-robotaxis-early-next-month-musk-says/",
-   "date": "2026-11-17T00:04:21Z",
-   "snippet": "Elon Musk says that Tesla could test adding customer-owned vehicles to the Robotaxi platform as soon as December. In a reply on X to an Austin-based Uber driver who uses a Model Y…",
-   "image": null
   }
  ]
 }
