@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:49:06Z",
+ "updated": "2026-11-19T16:58:37Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Elon Musk announces another Tesla vehicle no one asked for",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/19/musk-tesla-model-y-no-steering-wheel-7-seat/",
+   "date": "2026-11-19T13:59:10Z",
+   "snippet": "Elon Musk says Tesla plans to build a version of the Model Y with no steering wheel and no pedals, a driverless people-mover he describes as “good for transporting groups of 6 or…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-with-no-steering-wheel.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla’s Cybercab fleet just had its biggest day ever",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/teslas-cybercab-fleet-just-had-its-biggest-day-ever/",
+   "date": "2026-11-19T05:54:57Z",
+   "snippet": "Tesla registered a record 200 Cybercabs in one day, and Dallas could be next up. The post Tesla’s Cybercab fleet just had its biggest day ever appeared first on TESLARATI .",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
+  {
+   "title": "A Tesla Model Y Without A Steering Wheel Is Coming: Musk",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/815960/tesla-model-y-steering-wheel-remove/",
+   "date": "2026-11-19T02:08:25Z",
+   "snippet": "The Cybercab is Musk's solution for most rides. But he thinks a six- or seven-seat autonomous Model Y is important, too.",
+   "image": "https://cdn.motor1.com/images/mgl/XBXE3e/s3/tesla-model-y-robotaxi.jpg"
+  },
   {
    "title": "You'll Be Able to Move Cybercab With On-Screen Controls, Like a Video Game",
    "source": "Not a Tesla App",
@@ -78,30 +102,6 @@
    "date": "2026-11-18T15:43:18Z",
    "snippet": "Tesla has opened its first Semi Megacharger in Texas, an 8-stall station in Mesquite on the east side of Dallas. With it, Tesla’s map now lists 7 public Megacharger sites and 44…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Megacharger-texas.jpeg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla’s Powercore could change how data centers get power",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-powercore-data-center-solid-state-voltage-transformer/",
-   "date": "2026-11-18T06:42:15Z",
-   "snippet": "Tesla unveiled Powercore, a solid-state transformer that could ease one of the grid's worst bottlenecks. The post Tesla’s Powercore could change how data centers get power…",
-   "image": null
-  },
-  {
-   "title": "Tesla Launches Its First FSD Ad in Times Square",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5030/tesla-launches-its-first-fsd-ad-in-times-square",
-   "date": "2026-11-17T20:53:00Z",
-   "snippet": "Tesla is running its first FSD ad in Times Square through November, highlighting 15+ billion miles driven, as Grok Bot takes over the Vegas Sphere Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-fsd-ad-times-square-1794948813.png/975be43cecc0c70837629f9cbbac0bb3/tesla-fsd-ad-times-square-1794948813.jpg"
-  },
-  {
-   "title": "Tesla TAD in Europe to Require Attention During Maneuvers and Hands on Wheel Over 130 Km/h",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5029/tesla-tad-in-europe-to-require-hands-on-wheel-over-130-kmh-more",
-   "date": "2026-11-17T20:05:00Z",
-   "snippet": "The Dutch RDW approved earlier inattention warnings, full strikes during maneuvers, clearer speed alerts for Tesla Assisted Driving on HW4 cars, and more. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-3.webp/32b160c783084075049a257c2e5f5cff/fsd-vis-3.jpg"
   }
  ]
 }
