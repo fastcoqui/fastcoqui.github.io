@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:43:03Z",
+ "updated": "2026-11-19T00:49:06Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "You'll Be Able to Move Cybercab With On-Screen Controls, Like a Video Game",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5034/youll-be-able-to-move-cybercab-with-on-screen-controls-like-a-video-game",
+   "date": "2026-11-18T22:18:00Z",
+   "snippet": "The Cybercab has no steering wheel, so owners get an on-screen joystick for slow, short moves of up to 2 mph that requires a driver’s license Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-cybercab-onscreen-driving-controls.png/3f65aa262029ea8061ae5509808d5eba/tesla-cybercab-onscreen-driving-controls.jpg"
+  },
   {
    "title": "Tesla’s iPhone App Ditches Apple Maps for Google Maps",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-11-17T20:05:00Z",
    "snippet": "The Dutch RDW approved earlier inattention warnings, full strikes during maneuvers, clearer speed alerts for Tesla Assisted Driving on HW4 cars, and more. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis-3.webp/32b160c783084075049a257c2e5f5cff/fsd-vis-3.jpg"
-  },
-  {
-   "title": "Tesla changes vehicle computers from ‘AI’ to ‘SI,’ reflecting President Trump change",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-changes-vehicle-computers-from-ai-to-si-reflecting-president-trump-change/",
-   "date": "2026-11-17T19:50:50Z",
-   "snippet": "Tesla has officially changed the reference to its vehicles’ internal computers to “Super Intelligence,” or “SI,” reflecting a change that President Donald Trump made when he noted…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f643.png"
   }
  ]
 }
