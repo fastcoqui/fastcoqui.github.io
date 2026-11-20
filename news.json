@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T16:58:37Z",
+ "updated": "2026-11-20T01:35:28Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -8,12 +8,84 @@
  ],
  "items": [
   {
+   "title": "Tesla Plans Model Y L With No Steering Wheel or Pedals",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5046/tesla-plans-model-y-l-with-no-steering-wheel-or-pedals",
+   "date": "2026-11-19T22:44:00Z",
+   "snippet": "Musk says Tesla plans an autonomous Model Y without a steering wheel or pedals for groups of six or seven, most likely the Model Y L Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-no-steering-wheel-hero.png/8f8749531b3f02629c3da35847f1e926/model-y-l-no-steering-wheel-hero.jpg"
+  },
+  {
+   "title": "Tesla Cybercab Specs Revealed: Warranty, Range, Charging & More",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5045/cybercab-specs-revealed-including-warranty-range-and-charging",
+   "date": "2026-11-19T21:49:00Z",
+   "snippet": "As more Cybercab buyer invites go out, Tesla’s configurator lists 279 miles of range, a 4-year basic warranty, an 8-year battery warranty, and more for owners Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab_72.webp/936aa5dc86d5dc6f91c9c21b913ae785/cybercab_72.jpg"
+  },
+  {
+   "title": "Tesla Launches Cybercab Rides in Dallas With New V1.5 Design",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5044/tesla-launches-cybercab-rides-in-dallas-with-new-v15-design",
+   "date": "2026-11-19T20:18:00Z",
+   "snippet": "Cybercab rides are now live in Dallas, and the V1.5 vehicles add a built-in Starlink dish and a camera in the trunk lid, among other improvements Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-cybercab-dallas-rides-launch.png/e2315e6bf13a5d0efbd1c0e61c1da7cd/tesla-cybercab-dallas-rides-launch.jpg"
+  },
+  {
+   "title": "Elon Musk makes surprise stop at Giga Shanghai with a message for Tesla’s China team",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/elon-musk-makes-surprise-stop-at-giga-shanghai-with-a-message-for-teslas-china-team/",
+   "date": "2026-11-19T19:12:16Z",
+   "snippet": "Elon Musk flew overnight to Giga Shanghai to personally thank Tesla's China and APAC teams. The post Elon Musk makes surprise stop at Giga Shanghai with a message for Tesla’s…",
+   "image": null
+  },
+  {
+   "title": "Tesla May Stop Producing Model Y In Favor of Model Y L: Musk",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5043/musk-says-tesla-should-move-all-model-y-production-to-y-l",
+   "date": "2026-11-19T18:35:00Z",
+   "snippet": "Musk says most buyers want the six-seat Model Y L, as U.S. deliveries slip to 2027 and the entry-level Model Y AWD disappears from the order page Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/modelyl_na_97.webp/e9a3492f942552b9e4e42bcd648e05db/modelyl_na_97.jpg"
+  },
+  {
+   "title": "Tesla Cybercab without steering wheel and pedals expands public rides to Dallas",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-cybercab-without-steering-wheel-pedals-expands-public-rides-dallas/",
+   "date": "2026-11-19T18:06:03Z",
+   "snippet": "Tesla has opened public rides in its purpose-built Cybercab robotaxi in Dallas, the second U.S. city after Austin to receive the two-seat, steering-wheel-free vehicle. On November…",
+   "image": null
+  },
+  {
+   "title": "Tesla Updates App to 4.63: Thanksgiving Badge, Supercharger Voting and Google Maps Integration, Precondition Battery and More",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/tesla-app-updates/version/4.63.0/release-notes",
+   "date": "2026-11-19T17:07:08Z",
+   "snippet": "We take a look at the release notes and what's new in Tesla app update 4.63.0. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-recharged-badges-desktop.jpeg/fb2d345a12194ce9b9e1eff994caa764/tesla-recharged-badges-desktop.jpg"
+  },
+  {
    "title": "Elon Musk announces another Tesla vehicle no one asked for",
    "source": "Electrek",
    "link": "https://electrek.co/2026/11/19/musk-tesla-model-y-no-steering-wheel-7-seat/",
    "date": "2026-11-19T13:59:10Z",
    "snippet": "Elon Musk says Tesla plans to build a version of the Model Y with no steering wheel and no pedals, a driverless people-mover he describes as “good for transporting groups of 6 or…",
    "image": "https://electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-with-no-steering-wheel.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Americans Bought More Used EVs In October. Fewer Of Them Were Teslas",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/816103/october-us-used-ev-sales/",
+   "date": "2026-11-19T12:56:32Z",
+   "snippet": "Tesla still led the U.S. used EV market, but the Chevy Equinox EV, Kia EV6 and Nissan Leaf all gained ground from September.",
+   "image": "https://cdn.motor1.com/images/mgl/9mpweX/s3/2026-insideevs-breakthrough-awards-editor-s-choice-tesla-model-y.jpg"
+  },
+  {
+   "title": "Nearly 1 In 5 Tesla Model Ys Failed Their First German Inspection",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/816066/tesla-model-y-tuv-inspection/",
+   "date": "2026-11-19T11:03:00Z",
+   "snippet": "Inspectors found major defects on 18.5% of Model Ys, while the Mazda MX-30 EV fared far better.",
+   "image": "https://cdn.motor1.com/images/mgl/VzeomL/s3/tesla-model-y-in-quicksilver.jpg"
   },
   {
    "title": "Tesla’s Cybercab fleet just had its biggest day ever",
@@ -30,78 +102,6 @@
    "date": "2026-11-19T02:08:25Z",
    "snippet": "The Cybercab is Musk's solution for most rides. But he thinks a six- or seven-seat autonomous Model Y is important, too.",
    "image": "https://cdn.motor1.com/images/mgl/XBXE3e/s3/tesla-model-y-robotaxi.jpg"
-  },
-  {
-   "title": "You'll Be Able to Move Cybercab With On-Screen Controls, Like a Video Game",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5034/youll-be-able-to-move-cybercab-with-on-screen-controls-like-a-video-game",
-   "date": "2026-11-18T22:18:00Z",
-   "snippet": "The Cybercab has no steering wheel, so owners get an on-screen joystick for slow, short moves of up to 2 mph that requires a driver’s license Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-cybercab-onscreen-driving-controls.png/3f65aa262029ea8061ae5509808d5eba/tesla-cybercab-onscreen-driving-controls.jpg"
-  },
-  {
-   "title": "Tesla’s iPhone App Ditches Apple Maps for Google Maps",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5033/teslas-iphone-app-ditches-apple-maps-for-google-maps",
-   "date": "2026-11-18T20:36:00Z",
-   "snippet": "The Tesla iPhone app now uses Google Maps instead of Apple Maps, bringing a new look, new Summon satellite views, and smoother Site Maps Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-google-maps.webp/edf2f9494dd8ab95ac9cc2d37f275c1f/tesla-app-google-maps.jpg"
-  },
-  {
-   "title": "Tesla Robotaxi takes over for Uber credits and loaners at Service locations",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-robotaxi-takes-over-uber-credits-loaners-service/",
-   "date": "2026-11-18T20:03:42Z",
-   "snippet": "Tesla is now utilizing its in-house Robotaxi platform to give those waiting for their vehicles during Service visits rides instead of offering Uber credits or Loaner vehicles…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f607.png"
-  },
-  {
-   "title": "Tesla App Will Soon Let You Precondition Your Battery",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5032/tesla-app-will-soon-let-you-precondition-your-battery",
-   "date": "2026-11-18T19:43:00Z",
-   "snippet": "The Tesla app is getting a manual battery preconditioning button to warm the pack before DC fast charging, according to code found in the latest app release Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-precondition-battery-hero-render.png/eaac35ea06db04d38a3b42ad4025628f/tesla-app-precondition-battery-hero-render.jpg"
-  },
-  {
-   "title": "UP Sweetens Deal for Tesla, Offers Revenue on Every Vehicle",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5031/up-sweetens-deal-for-tesla-offers-revenue-on-every-vehicle",
-   "date": "2026-11-18T18:44:00Z",
-   "snippet": "Unplugged Performance’s new Cybertruck line plan pays Tesla on every vehicle, proposes a CyberSUV, and would be Tesla’s first FSD license Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/cybertruck_29.webp/d831761d86a20f3f4da9da771dbe1cb4/cybertruck_29.jpg"
-  },
-  {
-   "title": "Tesla toughens FSD driver monitoring in Europe while loosening it in the US",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/18/tesla-fsd-driver-monitoring-europe-stricter-than-us/",
-   "date": "2026-11-18T18:33:41Z",
-   "snippet": "Tesla is rolling out stricter driver monitoring for its “Full Self-Driving” system in Europe, with earlier warnings, a full strike for drivers who look away during a manoeuvre…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/04/Tesla-Driver-monitoring-e1617877138806.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "West Coast Customs turns a Tesla Model 3 into a 1955 Chevy Bel Air",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/18/west-coast-customs-tesla-model-3-1955-chevy-bel-air-ev/",
-   "date": "2026-11-18T17:13:00Z",
-   "snippet": "West Coast Customs has finished its first electric Chevy Bel Air, and there’s not much Chevy left under the paint. The Burbank shop cut the body off a Tesla Model 3, kept the…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Belair-Tesla-Model-3-mod.jpg?quality=82&#038;strip=all&#038;w=1280"
-  },
-  {
-   "title": "Tesla gears up Cybercab with Starlink for public debut, but with notable changes",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-gears-up-cybercab-starlink-for-public-debut-notable-changes/",
-   "date": "2026-11-18T16:30:43Z",
-   "snippet": "Tesla is gearing up Cybercab, its all-electric and fully autonomous ride-hailing vehicle, for a very public debut as it plans to start customer deliveries in December. However…",
-   "image": "https://www.teslarati.com/wp-content/uploads/2026/11/tesla-cybercab-starlink-side-by-side.jpg"
-  },
-  {
-   "title": "Tesla’s Semi Megacharger network hits 7 sites, far short of 37 goal",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/18/tesla-semi-megacharger-network-mesquite-texas/",
-   "date": "2026-11-18T15:43:18Z",
-   "snippet": "Tesla has opened its first Semi Megacharger in Texas, an 8-stall station in Mesquite on the east side of Dallas. With it, Tesla’s map now lists 7 public Megacharger sites and 44…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Megacharger-texas.jpeg?quality=82&#038;strip=all&#038;w=1600"
   }
  ]
 }
