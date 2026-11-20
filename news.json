@@ -1,8 +1,7 @@
 {
- "updated": "2026-11-20T01:35:28Z",
+ "updated": "2026-11-20T12:24:11Z",
  "sources": [
   "Electrek",
-  "Teslarati",
   "Not a Tesla App",
   "InsideEVs"
  ],
@@ -32,14 +31,6 @@
    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-cybercab-dallas-rides-launch.png/e2315e6bf13a5d0efbd1c0e61c1da7cd/tesla-cybercab-dallas-rides-launch.jpg"
   },
   {
-   "title": "Elon Musk makes surprise stop at Giga Shanghai with a message for Tesla’s China team",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/elon-musk-makes-surprise-stop-at-giga-shanghai-with-a-message-for-teslas-china-team/",
-   "date": "2026-11-19T19:12:16Z",
-   "snippet": "Elon Musk flew overnight to Giga Shanghai to personally thank Tesla's China and APAC teams. The post Elon Musk makes surprise stop at Giga Shanghai with a message for Tesla’s…",
-   "image": null
-  },
-  {
    "title": "Tesla May Stop Producing Model Y In Favor of Model Y L: Musk",
    "source": "Not a Tesla App",
    "link": "https://www.notateslaapp.com/news/5043/musk-says-tesla-should-move-all-model-y-production-to-y-l",
@@ -48,12 +39,12 @@
    "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/modelyl_na_97.webp/e9a3492f942552b9e4e42bcd648e05db/modelyl_na_97.jpg"
   },
   {
-   "title": "Tesla Cybercab without steering wheel and pedals expands public rides to Dallas",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-cybercab-without-steering-wheel-pedals-expands-public-rides-dallas/",
-   "date": "2026-11-19T18:06:03Z",
-   "snippet": "Tesla has opened public rides in its purpose-built Cybercab robotaxi in Dallas, the second U.S. city after Austin to receive the two-seat, steering-wheel-free vehicle. On November…",
-   "image": null
+   "title": "Tesla's Driverless Cybercab Is Now Available In Dallas",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/816139/tesla-cybercab-robotaxi-expands-to-dallas/",
+   "date": "2026-11-19T18:07:15Z",
+   "snippet": "The purpose-built Tesla Cybercab is expanding to more U.S. cities after its launch in Austin.",
+   "image": "https://cdn.motor1.com/images/mgl/9mWZXv/s3/tesla-cybercab-robotaxi.jpg"
   },
   {
    "title": "Tesla Updates App to 4.63: Thanksgiving Badge, Supercharger Voting and Google Maps Integration, Precondition Battery and More",
@@ -88,20 +79,28 @@
    "image": "https://cdn.motor1.com/images/mgl/VzeomL/s3/tesla-model-y-in-quicksilver.jpg"
   },
   {
-   "title": "Tesla’s Cybercab fleet just had its biggest day ever",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/teslas-cybercab-fleet-just-had-its-biggest-day-ever/",
-   "date": "2026-11-19T05:54:57Z",
-   "snippet": "Tesla registered a record 200 Cybercabs in one day, and Dallas could be next up. The post Tesla’s Cybercab fleet just had its biggest day ever appeared first on TESLARATI .",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
-  },
-  {
    "title": "A Tesla Model Y Without A Steering Wheel Is Coming: Musk",
    "source": "InsideEVs",
    "link": "https://insideevs.com/news/815960/tesla-model-y-steering-wheel-remove/",
    "date": "2026-11-19T02:08:25Z",
    "snippet": "The Cybercab is Musk's solution for most rides. But he thinks a six- or seven-seat autonomous Model Y is important, too.",
    "image": "https://cdn.motor1.com/images/mgl/XBXE3e/s3/tesla-model-y-robotaxi.jpg"
+  },
+  {
+   "title": "You'll Be Able to Move Cybercab With On-Screen Controls, Like a Video Game",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5034/youll-be-able-to-move-cybercab-with-on-screen-controls-like-a-video-game",
+   "date": "2026-11-18T22:18:00Z",
+   "snippet": "The Cybercab has no steering wheel, so owners get an on-screen joystick for slow, short moves of up to 2 mph that requires a driver’s license Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-cybercab-onscreen-driving-controls.png/3f65aa262029ea8061ae5509808d5eba/tesla-cybercab-onscreen-driving-controls.jpg"
+  },
+  {
+   "title": "Tesla’s iPhone App Ditches Apple Maps for Google Maps",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5033/teslas-iphone-app-ditches-apple-maps-for-google-maps",
+   "date": "2026-11-18T20:36:00Z",
+   "snippet": "The Tesla iPhone app now uses Google Maps instead of Apple Maps, bringing a new look, new Summon satellite views, and smoother Site Maps Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/tesla-app-google-maps.webp/edf2f9494dd8ab95ac9cc2d37f275c1f/tesla-app-google-maps.jpg"
   }
  ]
 }
