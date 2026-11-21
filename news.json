@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:06:01Z",
+ "updated": "2026-11-21T15:51:01Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,46 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Elon Musk freezes at awkward Tesla Argentina launch: ‘I don’t know what to say’",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/21/elon-musk-tesla-argentina-launch-awkward-video-milei/",
+   "date": "2026-11-21T15:11:17Z",
+   "snippet": "Tesla officially launched in Argentina on Friday with President Javier Milei on stage in Buenos Aires, and Elon Musk joined by video from his plane to welcome the brand’s newest…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Elon-Musk-awkward-Tesla-Argentina-launch.jpeg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla Starts Sending Invites for 2026 Shareholder Meeting",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5060/tesla-starts-sending-invites-for-2026-shareholder-meeting",
+   "date": "2026-11-21T15:08:00Z",
+   "snippet": "Tesla has started emailing invites for its December 3 shareholder meeting at Giga Texas, with board elections and executives' 2025 pay on the ballot Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/2026-annual-shareholder-meeting-hero.webp/6ded71d060f8e91c050bdbb9038cd3b8/2026-annual-shareholder-meeting-hero.jpg"
+  },
+  {
+   "title": "Tesla Improves 2027 Cybertruck Even Though Its Being Discontinued",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5058/tesla-tightens-cybertrucks-turning-radius-with-ota-update",
+   "date": "2026-11-21T14:04:00Z",
+   "snippet": "Tesla's 2026.44 update tightens the Cybertruck's turning radius, but only for model year 2027 builds Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/tesla-cybertruck-improved-turning-radius.webp/50538ada3e089840aafacf5436adb85a/tesla-cybertruck-improved-turning-radius.jpg"
+  },
+  {
+   "title": "Tesla Full Self-Driving v15 gets release date from Elon Musk",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-full-self-driving-v15-gets-release-date-elon-musk/",
+   "date": "2026-11-21T13:47:01Z",
+   "snippet": "Tesla Full Self-Driving v15 has received an official release date from CEO Elon Musk, who says the newest and most capable version of the suite will go wide in December with the…",
+   "image": null
+  },
+  {
+   "title": "Tesla FSD V15 Arriving Next Month: Home Garage Parking, Render Reality in Mind-Bending Way",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5057/tesla-fsd-v15-coming-next-month-with-holiday-update-musk",
+   "date": "2026-11-21T13:16:00Z",
+   "snippet": "FSD v15 goes to wide release next month with the holiday update, says Musk, with pothole avoidance, a redesigned visualization, and more Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-v15.webp/fdc3fd63bdc978e08ffcb23055478679/fsd-v15.jpg"
+  },
   {
    "title": "Tesla Expands Dallas Robotaxi Area by a Whole Square Mile",
    "source": "Not a Tesla App",
@@ -62,46 +102,6 @@
    "date": "2026-11-20T14:57:01Z",
    "snippet": "Tesla Cybercab is now officially available for personal-use orders to those the company has invited to purchase the car near Austin, Texas. The two-seat car void of a steering…",
    "image": null
-  },
-  {
-   "title": "Tesla Assisted Driving Approved in Italy, 12th EU Country",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5047/tesla-assisted-driving-approved-in-italy-12th-eu-country",
-   "date": "2026-11-20T14:13:00Z",
-   "snippet": "Italy approves Tesla Assisted Driving ahead of December’s EU vote, which needs at least 15 member states representing 65% of the population in favor Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-approval-italy.png/f263e125e3d6397060c745c4feb4d612/tesla-fsd-approval-italy.jpg"
-  },
-  {
-   "title": "Elon Musk reveals Tesla’s next vehicle without a steering wheel",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/elon-musk-tesla-model-yl-no-steering-wheel-robotaxi/",
-   "date": "2026-11-20T05:38:02Z",
-   "snippet": "Elon Musk says Tesla plans a driverless Model Y for families too big for Cybercab. The post Elon Musk reveals Tesla’s next vehicle without a steering wheel appeared first on…",
-   "image": null
-  },
-  {
-   "title": "Tesla Plans Model Y L With No Steering Wheel or Pedals",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5046/tesla-plans-model-y-l-with-no-steering-wheel-or-pedals",
-   "date": "2026-11-19T22:44:00Z",
-   "snippet": "Musk says Tesla plans an autonomous Model Y without a steering wheel or pedals for groups of six or seven, most likely the Model Y L Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/model-y-2025/model-y-l/model-y-l-no-steering-wheel-hero.png/8f8749531b3f02629c3da35847f1e926/model-y-l-no-steering-wheel-hero.jpg"
-  },
-  {
-   "title": "Tesla Cybercab Specs Revealed: Warranty, Range, Charging & More",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5045/cybercab-specs-revealed-including-warranty-range-and-charging",
-   "date": "2026-11-19T21:49:00Z",
-   "snippet": "As more Cybercab buyer invites go out, Tesla’s configurator lists 279 miles of range, a 4-year basic warranty, an 8-year battery warranty, and more for owners Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab_72.webp/936aa5dc86d5dc6f91c9c21b913ae785/cybercab_72.jpg"
-  },
-  {
-   "title": "Tesla Launches Cybercab Rides in Dallas With New V1.5 Design",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5044/tesla-launches-cybercab-rides-in-dallas-with-new-v15-design",
-   "date": "2026-11-19T20:18:00Z",
-   "snippet": "Cybercab rides are now live in Dallas, and the V1.5 vehicles add a built-in Starlink dish and a camera in the trunk lid, among other improvements Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-cybercab-dallas-rides-launch.png/e2315e6bf13a5d0efbd1c0e61c1da7cd/tesla-cybercab-dallas-rides-launch.jpg"
   }
  ]
 }
