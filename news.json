@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T15:51:01Z",
+ "updated": "2026-11-21T21:23:52Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,38 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Full Self-Driving v15 rollout begins: full release notes and improvements",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-full-self-driving-v15-rollout-begins-full-release-notes-improvements/",
+   "date": "2026-11-21T20:02:44Z",
+   "snippet": "Tesla has announced that Full Self-Driving version 15 is now rolling out, after CEO Elon Musk said earlier today that the wide rollout would occur in December. Now, Tesla is…",
+   "image": null
+  },
+  {
+   "title": "Tesla launches FSD v15, targets its biggest weaknesses, from signs to potholes",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/",
+   "date": "2026-11-21T19:56:56Z",
+   "snippet": "Tesla has started rolling out “Full Self-Driving” v15, and its list of improvements reads like a list of FSD’s biggest current weaknesses: sign detection, potholes, and speed…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-v15-update.jpeg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "Tesla Cybertruck’s already impressive turning radius gets even tighter",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/21/tesla-cybertruck-tighter-turning-radius-update/",
+   "date": "2026-11-21T19:14:57Z",
+   "snippet": "Tesla is rolling out an update that makes the Cybertruck turn even tighter, improving on what was already one of the best turning radiuses you can get in a full-size pickup. But…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-Cybertruck-imroves-its-already-impressive-turning-radius.png?w=1600"
+  },
+  {
+   "title": "Tesla's Updated Cybercab Manual Hints at Owner Robotaxis, Highway Access & More",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5061/teslas-updated-cybercab-manual-hints-at-owner-robotaxis-highway-access-more",
+   "date": "2026-11-21T16:25:00Z",
+   "snippet": "New Robotaxi first responder plans point to highway speeds, owner-operated Cybercabs, and a possible California expansion, among other things Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/cybercab_73.webp/fc1fcfeff62bbd7db239b968fb045043/cybercab_73.jpg"
+  },
   {
    "title": "Elon Musk freezes at awkward Tesla Argentina launch: ‘I don’t know what to say’",
    "source": "Electrek",
@@ -70,38 +102,6 @@
    "date": "2026-11-20T20:08:00Z",
    "snippet": "Software update 2026.44.1 adds a Grok button to navigation search, letting you find places by voice with one tap Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-grok-search-button-in-navigation-1795204852.webp/23c8d7ec95001954132d4af528d86e5c/tesla-grok-search-button-in-navigation-1795204852.jpg"
-  },
-  {
-   "title": "Tesla FSD Jailbroken in China, Fix Already on the Way",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5052/tesla-fsd-jailbroken-in-china-fix-already-on-the-way",
-   "date": "2026-11-20T18:50:00Z",
-   "snippet": "Chinese Tesla owners reportedly found a 10-minute FSD unlock using a laptop and a mobile hotspot, while official approval in China is still stalled Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_giftcard.webp/7cfd0633399b2af2d987f0a8fd17d106/fsd_giftcard.jpg"
-  },
-  {
-   "title": "Tesla FSD approved in Italy, the first big EU market to say yes",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/20/tesla-fsd-italy-approval-assisted-driving/",
-   "date": "2026-11-20T15:50:46Z",
-   "snippet": "Italy’s transport ministry has granted provisional approval to Tesla Assisted Driving, the name Tesla now uses for “Full Self-Driving (Supervised)” in Europe. Italy becomes the…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Assisted Driving (TAD) lands approval in Italy, its 12th EU country",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-assisted-driving-tad-lands-approval-italy-12th-eu-country/",
-   "date": "2026-11-20T15:14:17Z",
-   "snippet": "Tesla Assisted Driving (TAD), the European equivalent of the Full Self-Driving suite in the U.S., has officially landed approval to operate in Italy, the 12th European Union…",
-   "image": null
-  },
-  {
-   "title": "Tesla Cybercab’s ‘Autonomy Subscription’ covers all bases for a self-driving car",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-cybercabs-autonomy-subscription-covers-all-bases-for-a-self-driving-car/",
-   "date": "2026-11-20T14:57:01Z",
-   "snippet": "Tesla Cybercab is now officially available for personal-use orders to those the company has invited to purchase the car near Austin, Texas. The two-seat car void of a steering…",
-   "image": null
   }
  ]
 }
