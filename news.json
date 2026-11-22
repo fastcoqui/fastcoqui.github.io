@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:50:03Z",
+ "updated": "2026-11-22T21:26:17Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Full Self-Driving v15: a first-hand look at Reality View, new features",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-full-self-driving-v15-first-hand-look-at-reality-view-new-features/",
+   "date": "2026-11-22T19:43:58Z",
+   "snippet": "Tesla has officially started rolling out the Full Self-Driving version 15 update, and we were lucky enough to get it in the first wave on Saturday night. It comes with a lot of…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
   {
    "title": "Tesla FSD v15 Rolls Out With Incredible New Reality View and 25x Better Safety [VIDEO]",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-11-21T13:47:01Z",
    "snippet": "Tesla Full Self-Driving v15 has received an official release date from CEO Elon Musk, who says the newest and most capable version of the suite will go wide in December with the…",
    "image": null
-  },
-  {
-   "title": "Tesla FSD V15 Arriving Next Month: Home Garage Parking, Render Reality in Mind-Bending Way",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5057/tesla-fsd-v15-coming-next-month-with-holiday-update-musk",
-   "date": "2026-11-21T13:16:00Z",
-   "snippet": "FSD v15 goes to wide release next month with the holiday update, says Musk, with pothole avoidance, a redesigned visualization, and more Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-v15.webp/fdc3fd63bdc978e08ffcb23055478679/fsd-v15.jpg"
   }
  ]
 }
