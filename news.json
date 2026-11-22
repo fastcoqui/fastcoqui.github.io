@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T21:23:52Z",
+ "updated": "2026-11-22T15:50:03Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla FSD v15 Rolls Out With Incredible New Reality View and 25x Better Safety [VIDEO]",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5065/tesla-fsd-v15-rolls-out-with-incredible-new-reality-view-and-25x-better-safety-video",
+   "date": "2026-11-22T14:33:00Z",
+   "snippet": "Tesla FSD v15 begins rolling out with Reality View, improved safety, smarter navigation, speed camera slowdown, and Bike Rack Mode. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-v15-reality-view-2.webp/af01108282dfa05a1e11a772360fd1a6/fsd-v15-reality-view-2.jpg"
+  },
+  {
+   "title": "Tesla FSD V15 Makes Your Drive Look Like Grand Theft Auto",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/816351/tesla-fsd-v15-new-features/",
+   "date": "2026-11-22T08:33:49Z",
+   "snippet": "The new follow camera shows where the car is going and what’s around. Tesla says FSD now handles critical safety situations 25 times better, too.",
+   "image": "https://cdn.motor1.com/images/mgl/P3V9w4/s3/tesla-fsd-v15.jpg"
+  },
+  {
+   "title": "Tesla FSD v15 Release Notes",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/software-updates/version/2026.38.6.11/release-notes",
+   "date": "2026-11-21T22:38:45Z",
+   "snippet": "We take a look at the release notes and what's new in Tesla update 2026.38.6.11. Read More",
+   "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.38/fsd-supervised-v1501.png/9a3077f1f06b19defc512d2d85b0d373/fsd-supervised-v1501.jpg"
+  },
   {
    "title": "Tesla Full Self-Driving v15 rollout begins: full release notes and improvements",
    "source": "Teslarati",
@@ -78,30 +102,6 @@
    "date": "2026-11-21T13:16:00Z",
    "snippet": "FSD v15 goes to wide release next month with the holiday update, says Musk, with pothole avoidance, a redesigned visualization, and more Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-v15.webp/fdc3fd63bdc978e08ffcb23055478679/fsd-v15.jpg"
-  },
-  {
-   "title": "Tesla Expands Dallas Robotaxi Area by a Whole Square Mile",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5055/tesla-expands-dallas-robotaxi-area-by-a-whole-square-mile",
-   "date": "2026-11-20T22:09:00Z",
-   "snippet": "Tesla’s Dallas Robotaxi area grows to 82 square miles, adding The Hill Supercharger. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-robotaxi-dallas-geofence-expansion-nov-2026.webp/19565b939b98148c39d271c56e980d35/tesla-robotaxi-dallas-geofence-expansion-nov-2026.jpg"
-  },
-  {
-   "title": "Tesla Update 2026.44 Includes FSD v14.3 and v14.3 Lite in North America",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5054/tesla-update-202644-brings-fsd-v143-and-v143-lite-to-every-owner",
-   "date": "2026-11-20T21:10:00Z",
-   "snippet": "Tesla update 2026.44.1 puts FSD v14.3.13 and v14.3 Lite in regular software updates, along with Service menu improvements and a new Supercharger map view Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-vis.webp/8cde44fc8a6e9e65965806ce6084c155/fsd-vis.jpg"
-  },
-  {
-   "title": "Tesla Adds Grok Button to Navigation Search Bar",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5053/tesla-adds-grok-button-to-navigation-search-bar",
-   "date": "2026-11-20T20:08:00Z",
-   "snippet": "Software update 2026.44.1 adds a Grok button to navigation search, letting you find places by voice with one tap Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-grok-search-button-in-navigation-1795204852.webp/23c8d7ec95001954132d4af528d86e5c/tesla-grok-search-button-in-navigation-1795204852.jpg"
   }
  ]
 }
