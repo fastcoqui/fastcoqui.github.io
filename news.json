@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:42:55Z",
+ "updated": "2026-11-24T04:32:49Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla FSD V15’s Reality View Breaks Santa Mode and Halloween Mode",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5070/tesla-fsd-v15s-reality-view-breaks-santa-mode-and-halloween-mode",
+   "date": "2026-11-23T22:25:00Z",
+   "snippet": "Reality View no longer shows Santa or Halloween Mode visuals, but it recreates real Christmas lights, which could shape a new Santa Mode Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2025/santa-mode_2025.jpg/910bc28623405b8ef44819c8ae71cea8/santa-mode_2025.jpg"
+  },
   {
    "title": "Tesla FSD V15 Finally Removes the Disengagement Menu",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-11-22T14:33:00Z",
    "snippet": "Tesla FSD v15 begins rolling out with Reality View, improved safety, smarter navigation, speed camera slowdown, and Bike Rack Mode. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-v15-reality-view-2.webp/af01108282dfa05a1e11a772360fd1a6/fsd-v15-reality-view-2.jpg"
-  },
-  {
-   "title": "Tesla FSD V15 Makes Your Drive Look Like Grand Theft Auto",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/816351/tesla-fsd-v15-new-features/",
-   "date": "2026-11-22T08:33:49Z",
-   "snippet": "The new follow camera shows where the car is going and what’s around. Tesla says FSD now handles critical safety situations 25 times better, too.",
-   "image": "https://cdn.motor1.com/images/mgl/P3V9w4/s3/tesla-fsd-v15.jpg"
   }
  ]
 }
