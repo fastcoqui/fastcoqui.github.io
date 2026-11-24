@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T04:32:49Z",
+ "updated": "2026-11-24T19:15:32Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Updates Robotaxi App: Add Extra Wait Time and Scheduled Pickups Coming Soon",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5071/tesla-updates-robotaxi-app-add-extra-wait-time-and-scheduled-pickups-coming-soon",
+   "date": "2026-11-24T16:39:00Z",
+   "snippet": "Tesla Robotaxi riders can extend pickup waits in two-minute increments. Robotaxi app version 26.11.5 also reveals scheduled rides and more upcoming changes. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-app/robotaxi-app-booking.webp/994687658f24b01f460e1736500738e3/robotaxi-app-booking.jpg"
+  },
+  {
+   "title": "Tesla (TSLA), SpaceX race for year-end merger deal before new Congress",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/",
+   "date": "2026-11-24T14:43:50Z",
+   "snippet": "Tesla (TSLA) and SpaceX are working toward a year-end deadline to agree on their all-stock merger, according to the Financial Times. A signed deal by December 31 would land days…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/Elon-Musk-the-king-of-self-dealing.png?w=1600"
+  },
+  {
+   "title": "Tesla eyes AI5 chip as exclusive Optimus trait, not needed for self-driving",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-eyes-ai5-chip-exclusive-optimus-trait-not-needed-self-driving/",
+   "date": "2026-11-24T14:05:09Z",
+   "snippet": "Tesla will set aside its AI5 chip exclusively for the Optimus robot, a product that CEO Elon Musk said he believes will one day be the biggest in the world. The decision sparked…",
+   "image": null
+  },
   {
    "title": "Tesla FSD V15’s Reality View Breaks Santa Mode and Halloween Mode",
    "source": "Not a Tesla App",
@@ -78,30 +102,6 @@
    "date": "2026-11-23T15:24:00Z",
    "snippet": "Tesla confirms AI4.5 will now include less RAM than initially announced. The new FSD computer will still boast a 50% increase of RAM compared to AI4. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/ai4-chip-hardware.webp/05de79ca973273cf526f21e496776305/ai4-chip-hardware.jpg"
-  },
-  {
-   "title": "Tesla’s Unsupervised FSD future likely to bring Starlink to every model",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-starlink-built-in-ai5/",
-   "date": "2026-11-23T06:20:59Z",
-   "snippet": "Elon Musk says every Tesla could get built-in Starlink next year, and AI4.5 is changing. The post Tesla’s Unsupervised FSD future likely to bring Starlink to every model appeared…",
-   "image": null
-  },
-  {
-   "title": "Tesla Full Self-Driving v15: Reality View review, new features explained",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-full-self-driving-v15-first-hand-look-at-reality-view-new-features/",
-   "date": "2026-11-22T19:43:58Z",
-   "snippet": "Tesla has officially started rolling out the Full Self-Driving version 15 update, and we were lucky enough to get it in the first wave on Saturday night. It comes with a lot of…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
-  },
-  {
-   "title": "Tesla FSD v15 Rolls Out With Incredible New Reality View and 25x Better Safety [VIDEO]",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5065/tesla-fsd-v15-rolls-out-with-incredible-new-reality-view-and-25x-better-safety-video",
-   "date": "2026-11-22T14:33:00Z",
-   "snippet": "Tesla FSD v15 begins rolling out with Reality View, improved safety, smarter navigation, speed camera slowdown, and Bike Rack Mode. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-v15-reality-view-2.webp/af01108282dfa05a1e11a772360fd1a6/fsd-v15-reality-view-2.jpg"
   }
  ]
 }
