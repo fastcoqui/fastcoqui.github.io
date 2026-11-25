@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:17:31Z",
+ "updated": "2026-11-25T13:46:59Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,22 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Winter Weather Hits EV Range Hard. One Automaker Handles It Better Than Tesla",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/816753/ev-winter-range-loss-2026-ranking/",
+   "date": "2026-11-25T13:09:37Z",
+   "snippet": "All cars lose range when the temperature drops to freezing, but some EVs handle it better than others.",
+   "image": "https://cdn.motor1.com/images/mgl/jlwybk/s3/polestar-arctic-circle-collection.jpg"
+  },
+  {
+   "title": "Tesla Raises Cyberbeast Price Again, Ends Cybertruck Leases",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5079/tesla-raises-cyberbeast-price-again-ends-cybertruck-leases",
+   "date": "2026-11-25T12:00:00Z",
+   "snippet": "Tesla raises the Cyberbeast to $114,990 and ends leasing, with deliveries now stretching to June 2027. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/tesla-cybertruck-cyberbeast-price-increase-nov-24-2026-2.webp/947bc8e1afef6d87623fdddd314a2558/tesla-cybertruck-cyberbeast-price-increase-nov-24-2026-2.jpg"
+  },
   {
    "title": "Tesla FSD V15 Improvements Coming: Faster Reality View, Purple Tint Fix, Santa Mode & More",
    "source": "Not a Tesla App",
@@ -86,22 +102,6 @@
    "date": "2026-11-23T19:06:00Z",
    "snippet": "FSD v15 removes the pop-up that asked drivers why they took over from FSD, so there’s nothing to dismiss when you disengage now Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-3-disengagement-menu-options-1779008636.webp/349f5d8221103b4bf63f536f6881facf/fsd-14-3-3-disengagement-menu-options-1779008636.jpg"
-  },
-  {
-   "title": "Tesla's EVs Could Get One Big Upgrade Next Year",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/816501/tesla-starlink-unsupervised-fsd/",
-   "date": "2026-11-23T18:32:07Z",
-   "snippet": "Tesla already filed a patent for a built-in Starlink antenna. But now the CEO is talking about it publicly.",
-   "image": "https://cdn.motor1.com/images/mgl/vx0BkG/s3/2026-tesla-model-y-7-seat-version.jpg"
-  },
-  {
-   "title": "Tesla FSD v15’s ‘Reality View’ has one complaint and Musk has the solution",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-fsd-v15s-reality-drive-one-complaint-musk-solution/",
-   "date": "2026-11-23T18:17:44Z",
-   "snippet": "Tesla Full Self-Driving version 15’s biggest feature, “Reality View,” has one complaint, but in typical fashion, CEO Elon Musk already announced a solution. Upon the release of…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
   }
  ]
 }
