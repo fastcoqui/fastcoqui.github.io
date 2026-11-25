@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:15:32Z",
+ "updated": "2026-11-25T03:17:31Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,46 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla FSD V15 Improvements Coming: Faster Reality View, Purple Tint Fix, Santa Mode & More",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5078/improvements-coming-to-fsd-v15-lower-latency-for-reality-view-santa-mode-more",
+   "date": "2026-11-24T23:34:00Z",
+   "snippet": "Tesla is working on faster Reality View, a fix for the purple tint issue, Santa Mode support, and fleet-wide traffic sharing with Grok for FSD v15. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-v15-night-purple-tint.webp/e8c664de185a20c4360ff18aea40c70a/fsd-v15-night-purple-tint.jpg"
+  },
+  {
+   "title": "New York Bans Car Subscriptions, Tesla FSD Likely Exempt",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5077/new-yorks-car-subscription-ban-likely-leaves-tesla-fsd-untouched",
+   "date": "2026-11-24T22:32:00Z",
+   "snippet": "New York’s new law restricts subscriptions for built-in car features, but exemptions appear to protect Tesla FSD and Cybercab’s Autonomy subscription. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg"
+  },
+  {
+   "title": "Tesla FSD V15 Finally Lets You Hide FSD Visuals and Use Maps Full Screen",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5076/tesla-fsd-v15-lets-you-hide-fsd-visuals-with-map-view-and-calm-mode",
+   "date": "2026-11-24T21:25:00Z",
+   "snippet": "FSD v15 adds a full-screen map view, a map that shifts to the left side of the screen when apps open, and Calm Mode from Tesla’s Robotaxi service. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/full-screen-maps.webp/8424b9917809e831975afb0e02e3e050/full-screen-maps.jpg"
+  },
+  {
+   "title": "Tesla App to Add Supercharger Voting, Code Reveals",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5074/tesla-app-to-add-supercharger-voting-code-reveals",
+   "date": "2026-11-24T20:03:00Z",
+   "snippet": "Tesla app 4.63.0 includes code for Supercharger voting. Here's what we found, how voting works and where the feature could appear. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/charging/superchargers-announced.webp/9213105f7a8024150d5246bbd08bdcd2/superchargers-announced.jpg"
+  },
+  {
+   "title": "Most Impressive FSD V15 Visualizations: Garage, Parking Lot, Weather & More [VIDEOS]",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5073/most-impressive-fsd-v15-visualizations-garage-parking-lot-weather-more-videos",
+   "date": "2026-11-24T19:39:00Z",
+   "snippet": "The best FSD v15 videos so far, including garage parking, fog and rain, busy downtown streets, LAX, and pothole avoidance Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/parking-garage.webp/0dd1b1c1191bc17fa22ca4ac43dd6ee6/parking-garage.jpg"
+  },
   {
    "title": "Tesla Updates Robotaxi App: Add Extra Wait Time and Scheduled Pickups Coming Soon",
    "source": "Not a Tesla App",
@@ -62,46 +102,6 @@
    "date": "2026-11-23T18:17:44Z",
    "snippet": "Tesla Full Self-Driving version 15’s biggest feature, “Reality View,” has one complaint, but in typical fashion, CEO Elon Musk already announced a solution. Upon the release of…",
    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
-  },
-  {
-   "title": "How Tesla's FSD V15 Reality View Actually Works [VIDEO]",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5068/how-teslas-fsd-v15-reality-view-actually-works-video",
-   "date": "2026-11-23T17:21:00Z",
-   "snippet": "How FSD v15's Reality View is generated, what Musk said about latency and AI5, and why it doesn't show exactly what FSD sees Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-v15-reality-view-touchscreen-hero.webp/7d3e54106aa55179d4d2af054335ed31/tesla-fsd-v15-reality-view-touchscreen-hero.jpg"
-  },
-  {
-   "title": "Tesla and SpaceXAI CEO Elon Musk reacts to Jensen Huang’s NVIDIA return",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-spacexai-ceo-elon-musk-reacts-jensen-huangs-nvidia-return/",
-   "date": "2026-11-23T16:35:14Z",
-   "snippet": "Tesla and SpaceXAI CEO Elon Musk has reacted to Jensen Huang’s return to NVIDIA as President, CEO, and Board Director, a move that Musk has been calling for since Huang was…",
-   "image": null
-  },
-  {
-   "title": "Tesla Is Looking to Add Starlink to Its Vehicles Next Year",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5067/tesla-is-looking-to-add-starlink-to-its-vehicles-next-year",
-   "date": "2026-11-23T16:15:00Z",
-   "snippet": "Elon Musk says Tesla could bring built-in Starlink to all its vehicles by late 2027, improving vehicle connectivity/ Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/model-3-starlink-concept.webp/dcd9a278134a823bc90f1768cfaf9957/model-3-starlink-concept.jpg"
-  },
-  {
-   "title": "Tesla FSD v15 is AI4’s last shot as Musk reveals how little compute is left",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/23/tesla-fsd-v15-ai4-last-shot-compute-limit/",
-   "date": "2026-11-23T16:00:53Z",
-   "snippet": "Tesla’s FSD v15 is its last real shot at delivering unsupervised self-driving on the AI4 computer in millions of customer cars. Elon Musk spent the weekend explaining on X how the…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/Tesla-FSD-v15-update.jpeg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "Tesla Confirms Its Next-Gen FSD Computer (AI4.5) Will Now Include Less Ram Than Planned",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5066/tesla-confirms-its-next-gen-fsd-computer-ai45-will-now-include-less-ram-than-planned",
-   "date": "2026-11-23T15:24:00Z",
-   "snippet": "Tesla confirms AI4.5 will now include less RAM than initially announced. The new FSD computer will still boast a 50% increase of RAM compared to AI4. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/hardware/ai4-chip-hardware.webp/05de79ca973273cf526f21e496776305/ai4-chip-hardware.jpg"
   }
  ]
 }
