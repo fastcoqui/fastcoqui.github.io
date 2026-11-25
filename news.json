@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:46:59Z",
+ "updated": "2026-11-25T23:56:27Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,70 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Adds 1,000+ Superchargers & More Ahead of Thanksgiving Rush",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5086/tesla-adds-1000-superchargers-more-ahead-of-thanksgiving-rush",
+   "date": "2026-11-25T23:51:00Z",
+   "snippet": "Tesla adds 1,027 Supercharger stalls, 29 mobile units, attendants, and waitlists at 300 sites in preparation for Thanksgiving travel. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/charging/tesla-thanksgiving-supercharger-preparations-2026.webp/249059171acf072c62c26efc5e264a0e/tesla-thanksgiving-supercharger-preparations-2026.jpg"
+  },
+  {
+   "title": "Tesla quietly sets up a company at German machine maker EMAG’s HQ",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/25/tesla-emag-germany-machining-company-optimus/",
+   "date": "2026-11-25T21:00:40Z",
+   "snippet": "Tesla has registered a new German company whose business address is the headquarters of EMAG, a struggling machine-tool maker that builds production equipment for the gears inside…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2023/05/Tesla-Bot-Optimus-hero.jpg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "MKBHD Will Honor Tesla Cybercab Bet, Plans to Take Delivery",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5085/mkbhd-will-honor-tesla-cybercab-bet-plans-to-take-delivery",
+   "date": "2026-11-25T20:37:00Z",
+   "snippet": "MKBHD has paid a $1,000 deposit and picked Austin as his delivery city, putting his 2024 head-shaving bet with Tesla on the line next month. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/mkbhd-cybercab-bet-podcast.webp/3655e8d04f81d55c09416a1519df6a7a/mkbhd-cybercab-bet-podcast.jpg"
+  },
+  {
+   "title": "Tesla FSD V15's New Parking Features [VIDEOS]",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5084/tesla-fsd-v15s-new-parking-features-explained-videos",
+   "date": "2026-11-25T19:59:00Z",
+   "snippet": "How FSD v15’s parking works: pick a lot or the street, tap a spot when driving manually, and let it park in your garage. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-v15-parking-abilities.webp/72516201917786f5615d8f270a81c668/tesla-fsd-v15-parking-abilities.jpg"
+  },
+  {
+   "title": "Tesla Nearly Doubles Dallas Robotaxi Service Area",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5081/tesla-nearly-doubles-dallas-robotaxi-service-area",
+   "date": "2026-11-25T18:54:00Z",
+   "snippet": "Tesla expands its Dallas Robotaxi area by 83% to 150 square miles, reaching Carrollton, Addison, and Richardson. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-dallas-robotaxi-geofence-expansion-nov-25-2026.webp/d4ea7923704d2aa5e9e801d18e4ebf54/tesla-dallas-robotaxi-geofence-expansion-nov-25-2026.jpg"
+  },
+  {
+   "title": "Europe Delays Tesla FSD Approval Vote, Again",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5080/europe-delays-tesla-fsd-approval-vote-again",
+   "date": "2026-11-25T17:46:00Z",
+   "snippet": "The EU’s vote on Tesla Assisted Driving is now set for December 15. A rejection could undo approvals in 12 countries and disappoint countless owners Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-eu-vote-delayed.webp/548437c178f95ff1e9aed01ee352df04/tesla-fsd-eu-vote-delayed.jpg"
+  },
+  {
+   "title": "EU pushes back Tesla ‘Full Self-Driving’ vote meeting again, now set for December 15",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/25/eu-delays-tesla-fsd-vote-december-15-tcmv/",
+   "date": "2026-11-25T15:45:37Z",
+   "snippet": "The EU committee that could approve Tesla’s “Full Self-Driving,” now sold in Europe as Tesla Assisted Driving, across the whole bloc won’t meet on December 1 as planned. The…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2025/12/Tesla-Full-Self-Driving-.png?w=1600"
+  },
+  {
+   "title": "Tesla removed the most annoying part of Full Self-Driving",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-removed-most-annoying-part-full-self-driving/",
+   "date": "2026-11-25T15:06:13Z",
+   "snippet": "Tesla removed the most annoying part of Full Self-Driving with its latest v15 release. The suite, which aims to reduce critical interventions by 25-times, is no longer looking for…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
+  },
   {
    "title": "Winter Weather Hits EV Range Hard. One Automaker Handles It Better Than Tesla",
    "source": "InsideEVs",
@@ -38,70 +102,6 @@
    "date": "2026-11-24T22:32:00Z",
    "snippet": "New York’s new law restricts subscriptions for built-in car features, but exemptions appear to protect Tesla FSD and Cybercab’s Autonomy subscription. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg"
-  },
-  {
-   "title": "Tesla FSD V15 Finally Lets You Hide FSD Visuals and Use Maps Full Screen",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5076/tesla-fsd-v15-lets-you-hide-fsd-visuals-with-map-view-and-calm-mode",
-   "date": "2026-11-24T21:25:00Z",
-   "snippet": "FSD v15 adds a full-screen map view, a map that shifts to the left side of the screen when apps open, and Calm Mode from Tesla’s Robotaxi service. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/full-screen-maps.webp/8424b9917809e831975afb0e02e3e050/full-screen-maps.jpg"
-  },
-  {
-   "title": "Tesla App to Add Supercharger Voting, Code Reveals",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5074/tesla-app-to-add-supercharger-voting-code-reveals",
-   "date": "2026-11-24T20:03:00Z",
-   "snippet": "Tesla app 4.63.0 includes code for Supercharger voting. Here's what we found, how voting works and where the feature could appear. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/charging/superchargers-announced.webp/9213105f7a8024150d5246bbd08bdcd2/superchargers-announced.jpg"
-  },
-  {
-   "title": "Most Impressive FSD V15 Visualizations: Garage, Parking Lot, Weather & More [VIDEOS]",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5073/most-impressive-fsd-v15-visualizations-garage-parking-lot-weather-more-videos",
-   "date": "2026-11-24T19:39:00Z",
-   "snippet": "The best FSD v15 videos so far, including garage parking, fog and rain, busy downtown streets, LAX, and pothole avoidance Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/parking-garage.webp/0dd1b1c1191bc17fa22ca4ac43dd6ee6/parking-garage.jpg"
-  },
-  {
-   "title": "Tesla Updates Robotaxi App: Add Extra Wait Time and Scheduled Pickups Coming Soon",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5071/tesla-updates-robotaxi-app-add-extra-wait-time-and-scheduled-pickups-coming-soon",
-   "date": "2026-11-24T16:39:00Z",
-   "snippet": "Tesla Robotaxi riders can extend pickup waits in two-minute increments. Robotaxi app version 26.11.5 also reveals scheduled rides and more upcoming changes. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-app/robotaxi-app/robotaxi-app-booking.webp/994687658f24b01f460e1736500738e3/robotaxi-app-booking.jpg"
-  },
-  {
-   "title": "Tesla (TSLA), SpaceX race for year-end merger deal before new Congress",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congress/",
-   "date": "2026-11-24T14:43:50Z",
-   "snippet": "Tesla (TSLA) and SpaceX are working toward a year-end deadline to agree on their all-stock merger, according to the Financial Times. A signed deal by December 31 would land days…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/05/Elon-Musk-the-king-of-self-dealing.png?w=1600"
-  },
-  {
-   "title": "Tesla eyes AI5 chip as exclusive Optimus trait, not needed for self-driving",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-eyes-ai5-chip-exclusive-optimus-trait-not-needed-self-driving/",
-   "date": "2026-11-24T14:05:09Z",
-   "snippet": "Tesla will set aside its AI5 chip exclusively for the Optimus robot, a product that CEO Elon Musk said he believes will one day be the biggest in the world. The decision sparked…",
-   "image": null
-  },
-  {
-   "title": "Tesla FSD V15’s Reality View Breaks Santa Mode and Halloween Mode",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5070/tesla-fsd-v15s-reality-view-breaks-santa-mode-and-halloween-mode",
-   "date": "2026-11-23T22:25:00Z",
-   "snippet": "Reality View no longer shows Santa or Halloween Mode visuals, but it recreates real Christmas lights, which could shape a new Santa Mode Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2025/santa-mode_2025.jpg/910bc28623405b8ef44819c8ae71cea8/santa-mode_2025.jpg"
-  },
-  {
-   "title": "Tesla FSD V15 Finally Removes the Disengagement Menu",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5069/tesla-fsd-v15-finally-removes-the-disengagement-menu",
-   "date": "2026-11-23T19:06:00Z",
-   "snippet": "FSD v15 removes the pop-up that asked drivers why they took over from FSD, so there’s nothing to dismiss when you disengage now Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-14-3-3-disengagement-menu-options-1779008636.webp/349f5d8221103b4bf63f536f6881facf/fsd-14-3-3-disengagement-menu-options-1779008636.jpg"
   }
  ]
 }
