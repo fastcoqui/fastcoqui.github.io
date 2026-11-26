@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:56:27Z",
+ "updated": "2026-11-26T18:01:15Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,38 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/26/tesla-deploys-mobile-superchargers-thanksgiving-travel/",
+   "date": "2026-11-26T17:33:21Z",
+   "snippet": "Tesla has parked a fleet of mobile Supercharger stalls at some of its busiest stations in California and Arizona to handle the Thanksgiving travel crush. The company says 29…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-mobile-supercharger-firebaugh.jpg?quality=82&#038;strip=all&#038;w=1012"
+  },
+  {
+   "title": "Tesla's 2026 Holiday Update: What to Expect This Christmas",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5072/teslas-2026-holiday-update-what-to-expect-this-christmas",
+   "date": "2026-11-26T16:36:00Z",
+   "snippet": "Explore what could arrive in Tesla’s 2026 Holiday Update, including CarPlay, Grok on Intel, Automations, battery preconditioning and more. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-2026-holiday-update.webp/cd830922e52b8f53345d7345d24f5002/tesla-2026-holiday-update.jpg"
+  },
+  {
+   "title": "A Used Cybertruck Is Selling A Month Faster Than A Ford F-150",
+   "source": "InsideEVs",
+   "link": "https://insideevs.com/news/816892/tesla-fastest-selling-used-october/",
+   "date": "2026-11-26T13:03:53Z",
+   "snippet": "The Tesla pickup needed 39 days on average to find a buyer, while a gas-powered F-150 took 72, and the Lightning needed an extra week.",
+   "image": "https://cdn.motor1.com/images/mgl/Kb84eA/s3/2024-breakthrough-award-nominee-the-tesla-cybertruck.jpg"
+  },
+  {
+   "title": "Tesla Update 2026.44.3.1 Release Notes",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes",
+   "date": "2026-11-26T10:06:00Z",
+   "snippet": "We take a look at the release notes and what's new in Tesla update 2026.44.3.1. Read More",
+   "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.44/manual-battery-preconditioning.png/66deac2a0d7aad490aaf3216ddb519ac/manual-battery-preconditioning.jpg"
+  },
   {
    "title": "Tesla Adds 1,000+ Superchargers & More Ahead of Thanksgiving Rush",
    "source": "Not a Tesla App",
@@ -70,38 +102,6 @@
    "date": "2026-11-25T15:06:13Z",
    "snippet": "Tesla removed the most annoying part of Full Self-Driving with its latest v15 release. The suite, which aims to reduce critical interventions by 25-times, is no longer looking for…",
    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
-  },
-  {
-   "title": "Winter Weather Hits EV Range Hard. One Automaker Handles It Better Than Tesla",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/816753/ev-winter-range-loss-2026-ranking/",
-   "date": "2026-11-25T13:09:37Z",
-   "snippet": "All cars lose range when the temperature drops to freezing, but some EVs handle it better than others.",
-   "image": "https://cdn.motor1.com/images/mgl/jlwybk/s3/polestar-arctic-circle-collection.jpg"
-  },
-  {
-   "title": "Tesla Raises Cyberbeast Price Again, Ends Cybertruck Leases",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5079/tesla-raises-cyberbeast-price-again-ends-cybertruck-leases",
-   "date": "2026-11-25T12:00:00Z",
-   "snippet": "Tesla raises the Cyberbeast to $114,990 and ends leasing, with deliveries now stretching to June 2027. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/cybertruck/tesla-cybertruck-cyberbeast-price-increase-nov-24-2026-2.webp/947bc8e1afef6d87623fdddd314a2558/tesla-cybertruck-cyberbeast-price-increase-nov-24-2026-2.jpg"
-  },
-  {
-   "title": "Tesla FSD V15 Improvements Coming: Faster Reality View, Purple Tint Fix, Santa Mode & More",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5078/improvements-coming-to-fsd-v15-lower-latency-for-reality-view-santa-mode-more",
-   "date": "2026-11-24T23:34:00Z",
-   "snippet": "Tesla is working on faster Reality View, a fix for the purple tint issue, Santa Mode support, and fleet-wide traffic sharing with Grok for FSD v15. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-v15-night-purple-tint.webp/e8c664de185a20c4360ff18aea40c70a/fsd-v15-night-purple-tint.jpg"
-  },
-  {
-   "title": "New York Bans Car Subscriptions, Tesla FSD Likely Exempt",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5077/new-yorks-car-subscription-ban-likely-leaves-tesla-fsd-untouched",
-   "date": "2026-11-24T22:32:00Z",
-   "snippet": "New York’s new law restricts subscriptions for built-in car features, but exemptions appear to protect Tesla FSD and Cybercab’s Autonomy subscription. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd_supervised-europe.jpeg/492d66d27be5d6ded4a40cda719c8397/fsd_supervised-europe.jpg"
   }
  ]
 }
