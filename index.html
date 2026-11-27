@@ -191,6 +191,25 @@ footer .fine{font-size:12.5px;color:#8B99A9;margin-top:18px;max-width:820px}
 @media (max-width:640px){
   #yard{background-position:right bottom;min-height:720px;padding:56px 0 200px}
 }
+
+#yard .yard-subhead{color:#fff;font-size:22px;margin:34px 0 14px}
+#yard .yard-gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+#yard .yard-gallery figure{margin:0;border-radius:var(--r);overflow:hidden;background:rgba(0,0,0,.25);box-shadow:0 12px 28px rgba(0,0,0,.28)}
+#yard .yard-gallery img{width:100%;height:100%;aspect-ratio:1;object-fit:cover;display:block}
+#yard .yard-reviews{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+#yard .yard-quote blockquote{margin:0;font-size:15.5px;line-height:1.5;color:#16181D;font-weight:500}
+#yard .yard-quote blockquote::before{content:"“";color:var(--ok);font-family:"Anton",sans-serif;font-size:28px;line-height:1;display:block;margin-bottom:6px}
+#yard .yard-cite{margin-top:14px;font-size:13px;color:#5A6572}
+#yard .yard-cite strong{display:block;color:#16181D;font-size:13.5px}
+#yard .yard-cite .src{margin-top:4px}
+#yard .yard-cite a{color:var(--blue);font-weight:700}
+@media (max-width:960px){
+  #yard .yard-gallery{grid-template-columns:repeat(2,1fr)}
+  #yard .yard-reviews{grid-template-columns:1fr}
+}
+@media (max-width:640px){
+  #yard .yard-gallery{grid-template-columns:repeat(2,1fr);gap:10px}
+}
 </style>
 <script data-goatcounter="https://fastcoqui.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </head>
@@ -642,6 +661,42 @@ footer .fine{font-size:12.5px;color:#8B99A9;margin-top:18px;max-width:820px}
         <p class="small muted" style="margin-top:12px">$50 off applies to Lymow One Plus orders; referral boost through Dec 1, 2026.</p>
       </article>
     </div>
+
+    <h3 class="display yard-subhead">Lymow One Plus in action</h3>
+    <div class="yard-gallery">
+      <figure><img loading="lazy" decoding="async" width="1000" height="1000" src="assets/lymow/product.webp" alt="Lymow One Plus robot mower, official product photo" /></figure>
+      <figure><img loading="lazy" decoding="async" width="1100" height="733" src="assets/lymow/in-yard.webp" alt="Lymow One Plus mowing a lawn" /></figure>
+      <figure><img loading="lazy" decoding="async" width="1100" height="1100" src="assets/lymow/slopes.webp" alt="Lymow One Plus climbing a slope on its tracks, official product graphic" /></figure>
+      <figure><img loading="lazy" decoding="async" width="1000" height="1000" src="assets/lymow/navigation.webp" alt="Lymow One Plus using RTK and visual navigation under trees, official product graphic" /></figure>
+      <figure><img loading="lazy" decoding="async" width="1000" height="1000" src="assets/lymow/airflow.webp" alt="Official Lymow graphic showing Airflow Lift, leaf mulching, and side discharge" /></figure>
+      <figure><img loading="lazy" decoding="async" width="1000" height="1000" src="assets/lymow/grass-types.webp" alt="Official Lymow graphic: Master Every Grass Type, with the mower cutting a striped lawn" /></figure>
+    </div>
+
+    <h3 class="display yard-subhead">What reviewers say</h3>
+    <div class="yard-reviews">
+      <article class="card yard-quote">
+        <blockquote>The Lymow One Plus might not fully replace my riding mower, but it significantly reduced mowing time and left my lawn looking professionally trimmed.</blockquote>
+        <p class="yard-cite">
+          <strong>Catherine Hiles</strong>
+          <div class="src">Tom’s Guide · Editor’s Choice · <a href="https://www.tomsguide.com/home/smart-home/lymow-one-plus-robot-mower-review" target="_blank" rel="noopener">Read the review</a></div>
+        </p>
+      </article>
+      <article class="card yard-quote">
+        <blockquote>If you have a large yard, don’t like slow mowers, or have a very bumpy area with thick grass, the Lymow One Plus can handle that.</blockquote>
+        <p class="yard-cite">
+          <strong>Grant Clauser</strong>
+          <div class="src">Wirecutter · Upgrade pick · <a href="https://www.nytimes.com/wirecutter/reviews/best-robot-lawn-mower/" target="_blank" rel="noopener">Read the review</a></div>
+        </p>
+      </article>
+      <article class="card yard-quote">
+        <blockquote>The Lymow One Plus is the robot mower that finally makes traditional mowing obsolete.</blockquote>
+        <p class="yard-cite">
+          <strong>Vincent Nguyen</strong>
+          <div class="src">Yanko Design · Editor’s Quote · <a href="https://www.yankodesign.com/2026/04/17/lymow-one-plus-review-the-tank-got-an-engineering-degree/" target="_blank" rel="noopener">Read the review</a></div>
+        </p>
+      </article>
+    </div>
+
   </div>
 </section>
 
