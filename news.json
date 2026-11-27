@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:01:15Z",
+ "updated": "2026-11-27T02:35:17Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,30 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla’s Cybercab Fleet Tops 1,000 Vehicles in Texas",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5095/teslas-cybercab-fleet-tops-1000-vehicles-in-texas",
+   "date": "2026-11-26T22:10:00Z",
+   "snippet": "Tesla registered a record 285 Cybercabs in one day, bringing its Texas total to 1,107, according to data from the Texas DMV. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/15.webp/aef7d5fb6d6344025518919d950c50b7/15.jpg"
+  },
+  {
+   "title": "Tesla Owner Adds Massaging Seats With Custom UI",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5094/tesla-owner-adds-massaging-seats-with-custom-ui",
+   "date": "2026-11-26T21:40:00Z",
+   "snippet": "Well-known Tesla tinkerer Michał Gapiński added seat massage to his Model Y using the lumbar motor, with a custom UI offering Wave, Roll, and Knead modes. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-seat-massager-mod-with-lumbar-motor-1.webp/d1e7d9e4bab7ccd6e11945373c5aa47d/tesla-seat-massager-mod-with-lumbar-motor-1.jpg"
+  },
+  {
+   "title": "Tesla FSD V15 Rolls Out to Model Ys Without Front Bumper Cameras",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5092/tesla-fsd-v15-rolls-out-to-model-ys-without-front-bumper-cameras",
+   "date": "2026-11-26T19:47:00Z",
+   "snippet": "FSD v15 is rolling out to pre-refresh HW4 Model Ys. Early owners report smoother driving and better parking, but Reality View glitches. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-v15-on-pre-juniper-model-y-without-front-bumper-camera.png/f7bfe819f9c8b0a3ab9bcc4c14f34314/fsd-v15-on-pre-juniper-model-y-without-front-bumper-camera.jpg"
+  },
   {
    "title": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
    "source": "Electrek",
@@ -78,30 +102,6 @@
    "date": "2026-11-25T18:54:00Z",
    "snippet": "Tesla expands its Dallas Robotaxi area by 83% to 150 square miles, reaching Carrollton, Addison, and Richardson. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-dallas-robotaxi-geofence-expansion-nov-25-2026.webp/d4ea7923704d2aa5e9e801d18e4ebf54/tesla-dallas-robotaxi-geofence-expansion-nov-25-2026.jpg"
-  },
-  {
-   "title": "Europe Delays Tesla FSD Approval Vote, Again",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5080/europe-delays-tesla-fsd-approval-vote-again",
-   "date": "2026-11-25T17:46:00Z",
-   "snippet": "The EU’s vote on Tesla Assisted Driving is now set for December 15. A rejection could undo approvals in 12 countries and disappoint countless owners Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-eu-vote-delayed.webp/548437c178f95ff1e9aed01ee352df04/tesla-fsd-eu-vote-delayed.jpg"
-  },
-  {
-   "title": "EU pushes back Tesla ‘Full Self-Driving’ vote meeting again, now set for December 15",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/25/eu-delays-tesla-fsd-vote-december-15-tcmv/",
-   "date": "2026-11-25T15:45:37Z",
-   "snippet": "The EU committee that could approve Tesla’s “Full Self-Driving,” now sold in Europe as Tesla Assisted Driving, across the whole bloc won’t meet on December 1 as planned. The…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2025/12/Tesla-Full-Self-Driving-.png?w=1600"
-  },
-  {
-   "title": "Tesla removed the most annoying part of Full Self-Driving",
-   "source": "Teslarati",
-   "link": "https://www.teslarati.com/tesla-removed-most-annoying-part-full-self-driving/",
-   "date": "2026-11-25T15:06:13Z",
-   "snippet": "Tesla removed the most annoying part of Full Self-Driving with its latest v15 release. The suite, which aims to reduce critical interventions by 25-times, is no longer looking for…",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f6a8.png"
   }
  ]
 }
