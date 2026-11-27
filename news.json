@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T02:35:17Z",
+ "updated": "2026-11-27T23:51:37Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,78 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tesla Files Plans for New Robotaxi Charging Station in Texas",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5101/tesla-files-plans-for-new-robotaxi-charging-station-in-texas",
+   "date": "2026-11-27T20:46:00Z",
+   "snippet": "Tesla plans 16 fleet-only V4 Superchargers at its Pond Springs Service Center in Austin for its growing Robotaxi network. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-robotaxi-only-supercharger-pond-springs-austin-texas.png/c886c84d198de7eb3c547fa325132e8e/tesla-robotaxi-only-supercharger-pond-springs-austin-texas.jpg"
+  },
+  {
+   "title": "Tesla Moves to Buy German Robotics Manufacturer",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5099/tesla-moves-to-buy-german-robotics-manufacturer",
+   "date": "2026-11-27T19:33:00Z",
+   "snippet": "Tesla filed to acquire Emag, a German maker of machines for humanoid robot parts, as it scales up Optimus production. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-human-hands-3.webp/add26bc704a5fd1f8f19c8e0efca2e24/optimus-human-hands-3.jpg"
+  },
+  {
+   "title": "EU Shares Agenda for Tesla FSD Meeting With Possible Vote",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5098/eu-shares-agenda-for-tesla-fsd-meeting-with-possible-vote",
+   "date": "2026-11-27T18:12:00Z",
+   "snippet": "The EU will discuss Tesla Assisted Driving on December 15, and a vote on EU-wide approval is possible but not guaranteed. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-approval-italy.png/f263e125e3d6397060c745c4feb4d612/tesla-fsd-approval-italy.jpg"
+  },
+  {
+   "title": "Used Tesla Cybertruck prices jump after Musk kills it, one asks $150K",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/27/used-cybertruck-prices-jump-after-tesla-kills-it/",
+   "date": "2026-11-27T17:06:53Z",
+   "snippet": "Used Cybertruck prices are up 10 to 15% in the month since Tesla announced it would end production of its electric pickup, according to listing data from CarGurus and Visor. Some…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/used-cybertruck-cyberbeast-150790-listing.jpg?quality=82&#038;strip=all&#038;w=1516"
+  },
+  {
+   "title": "Tesla aims to bolster Optimus with newest company acquisition",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-bolster-optimus-company-acquisition-emag-germany/",
+   "date": "2026-11-27T16:37:01Z",
+   "snippet": "Tesla is set to make a major acquisition as it plans to buy a more than a century-old German manufacturing systems supplier. The move targets EMAG, a specialist in precision…",
+   "image": null
+  },
+  {
+   "title": "Tesla is rolling out its biggest battery upgrade through a software update",
+   "source": "Teslarati",
+   "link": "https://www.teslarati.com/tesla-rolling-out-biggest-battery-upgrade-software-update/",
+   "date": "2026-11-27T15:18:29Z",
+   "snippet": "Tesla is rolling out what is likely its biggest battery feature in years through a software update, as owners are starting to reveal the new addition is hitting their cars. Tesla…",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f447.png"
+  },
+  {
+   "title": "Closer Look at Tesla's New Grouped Charger Pins in Update 2026.44 [VIDEO]",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5097/closer-look-at-teslas-new-grouped-charger-pins-in-update-202644",
+   "date": "2026-11-27T15:00:00Z",
+   "snippet": "Tesla’s 2026.44.1 update groups nearby chargers into one pin on the map and adds more third-party chargers in Europe. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/tesla-update/tesla-supercharger-cluster-pins-2026-44.png/e76fda784fa9febb8f0c77786453a234/tesla-supercharger-cluster-pins-2026-44.jpg"
+  },
+  {
+   "title": "This might be the real reason Elon Musk says Tesla’s AI5 chip is going to Optimus",
+   "source": "Electrek",
+   "link": "https://electrek.co/2026/11/27/tesla-ai5-optimus-real-reason-tsmc-3nm/",
+   "date": "2026-11-27T14:48:15Z",
+   "snippet": "Elon Musk says Tesla’s cars don’t need the next-generation AI5 chip, so it’s going to Optimus first. A new report from Taiwan’s chip supply chain gives a more practical reason…",
+   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-AI5-chip-hero.jpeg?quality=82&#038;strip=all&#038;w=1600"
+  },
+  {
+   "title": "First Look at Tesla's 'Manual Battery Preconditioning' in Update 2026.44.3.1 [PHOTOS]",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5089/first-look-at-teslas-manual-battery-preconditioning-in-update-20264431-photos",
+   "date": "2026-11-27T14:45:00Z",
+   "snippet": "Tesla update 2026.44.3.1 adds manual battery preconditioning for faster DC charging, with mobile controls requiring app version 4.63.0. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-battery-preconditioning-on.webp/de918e3c83920d5f0c4696b5c4947f22/tesla-battery-preconditioning-on.jpg"
+  },
   {
    "title": "Tesla’s Cybercab Fleet Tops 1,000 Vehicles in Texas",
    "source": "Not a Tesla App",
@@ -30,78 +102,6 @@
    "date": "2026-11-26T19:47:00Z",
    "snippet": "FSD v15 is rolling out to pre-refresh HW4 Model Ys. Early owners report smoother driving and better parking, but Reality View glitches. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-v15-on-pre-juniper-model-y-without-front-bumper-camera.png/f7bfe819f9c8b0a3ab9bcc4c14f34314/fsd-v15-on-pre-juniper-model-y-without-front-bumper-camera.jpg"
-  },
-  {
-   "title": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/26/tesla-deploys-mobile-superchargers-thanksgiving-travel/",
-   "date": "2026-11-26T17:33:21Z",
-   "snippet": "Tesla has parked a fleet of mobile Supercharger stalls at some of its busiest stations in California and Arizona to handle the Thanksgiving travel crush. The company says 29…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2026/11/tesla-mobile-supercharger-firebaugh.jpg?quality=82&#038;strip=all&#038;w=1012"
-  },
-  {
-   "title": "Tesla's 2026 Holiday Update: What to Expect This Christmas",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5072/teslas-2026-holiday-update-what-to-expect-this-christmas",
-   "date": "2026-11-26T16:36:00Z",
-   "snippet": "Explore what could arrive in Tesla’s 2026 Holiday Update, including CarPlay, Grok on Intel, Automations, battery preconditioning and more. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-2026-holiday-update.webp/cd830922e52b8f53345d7345d24f5002/tesla-2026-holiday-update.jpg"
-  },
-  {
-   "title": "A Used Cybertruck Is Selling A Month Faster Than A Ford F-150",
-   "source": "InsideEVs",
-   "link": "https://insideevs.com/news/816892/tesla-fastest-selling-used-october/",
-   "date": "2026-11-26T13:03:53Z",
-   "snippet": "The Tesla pickup needed 39 days on average to find a buyer, while a gas-powered F-150 took 72, and the Lightning needed an extra week.",
-   "image": "https://cdn.motor1.com/images/mgl/Kb84eA/s3/2024-breakthrough-award-nominee-the-tesla-cybertruck.jpg"
-  },
-  {
-   "title": "Tesla Update 2026.44.3.1 Release Notes",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/software-updates/version/2026.44.3.1/release-notes",
-   "date": "2026-11-26T10:06:00Z",
-   "snippet": "We take a look at the release notes and what's new in Tesla update 2026.44.3.1. Read More",
-   "image": "https://www.notateslaapp.com/img/paths/images/tesla-car-updates/2026.44/manual-battery-preconditioning.png/66deac2a0d7aad490aaf3216ddb519ac/manual-battery-preconditioning.jpg"
-  },
-  {
-   "title": "Tesla Adds 1,000+ Superchargers & More Ahead of Thanksgiving Rush",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5086/tesla-adds-1000-superchargers-more-ahead-of-thanksgiving-rush",
-   "date": "2026-11-25T23:51:00Z",
-   "snippet": "Tesla adds 1,027 Supercharger stalls, 29 mobile units, attendants, and waitlists at 300 sites in preparation for Thanksgiving travel. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/charging/tesla-thanksgiving-supercharger-preparations-2026.webp/249059171acf072c62c26efc5e264a0e/tesla-thanksgiving-supercharger-preparations-2026.jpg"
-  },
-  {
-   "title": "Tesla quietly sets up a company at German machine maker EMAG’s HQ",
-   "source": "Electrek",
-   "link": "https://electrek.co/2026/11/25/tesla-emag-germany-machining-company-optimus/",
-   "date": "2026-11-25T21:00:40Z",
-   "snippet": "Tesla has registered a new German company whose business address is the headquarters of EMAG, a struggling machine-tool maker that builds production equipment for the gears inside…",
-   "image": "https://electrek.co/wp-content/uploads/sites/3/2023/05/Tesla-Bot-Optimus-hero.jpg?quality=82&#038;strip=all&#038;w=1600"
-  },
-  {
-   "title": "MKBHD Will Honor Tesla Cybercab Bet, Plans to Take Delivery",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5085/mkbhd-will-honor-tesla-cybercab-bet-plans-to-take-delivery",
-   "date": "2026-11-25T20:37:00Z",
-   "snippet": "MKBHD has paid a $1,000 deposit and picked Austin as his delivery city, putting his 2024 head-shaving bet with Tesla on the line next month. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/2026/mkbhd-cybercab-bet-podcast.webp/3655e8d04f81d55c09416a1519df6a7a/mkbhd-cybercab-bet-podcast.jpg"
-  },
-  {
-   "title": "Tesla FSD V15's New Parking Features [VIDEOS]",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5084/tesla-fsd-v15s-new-parking-features-explained-videos",
-   "date": "2026-11-25T19:59:00Z",
-   "snippet": "How FSD v15’s parking works: pick a lot or the street, tap a spot when driving manually, and let it park in your garage. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-v15-parking-abilities.webp/72516201917786f5615d8f270a81c668/tesla-fsd-v15-parking-abilities.jpg"
-  },
-  {
-   "title": "Tesla Nearly Doubles Dallas Robotaxi Service Area",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5081/tesla-nearly-doubles-dallas-robotaxi-service-area",
-   "date": "2026-11-25T18:54:00Z",
-   "snippet": "Tesla expands its Dallas Robotaxi area by 83% to 150 square miles, reaching Carrollton, Addison, and Richardson. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/robotaxi/tesla-dallas-robotaxi-geofence-expansion-nov-25-2026.webp/d4ea7923704d2aa5e9e801d18e4ebf54/tesla-dallas-robotaxi-geofence-expansion-nov-25-2026.jpg"
   }
  ]
 }
