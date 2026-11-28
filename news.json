@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:51:37Z",
+ "updated": "2026-11-28T14:14:55Z",
  "sources": [
   "Electrek",
   "Teslarati",
@@ -7,6 +7,14 @@
   "InsideEVs"
  ],
  "items": [
+  {
+   "title": "Tap to Drive, Tap to Park: Tesla FSD V15 Update Coming Soon",
+   "source": "Not a Tesla App",
+   "link": "https://www.notateslaapp.com/news/5102/tesla-fsd-v15-to-get-point-to-drive-in-upcoming-update",
+   "date": "2026-11-28T13:00:00Z",
+   "snippet": "Musk says an FSD v15 point release in 1–2 weeks will let you tap a spot in Reality View and have the car drive (or park) there. Read More",
+   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/tesla-fsd-v15-point-to-drive.png/0f72da963b937de15d1d0a200bceaa8a/tesla-fsd-v15-point-to-drive.jpg"
+  },
   {
    "title": "Tesla Files Plans for New Robotaxi Charging Station in Texas",
    "source": "Not a Tesla App",
@@ -94,14 +102,6 @@
    "date": "2026-11-26T21:40:00Z",
    "snippet": "Well-known Tesla tinkerer Michał Gapiński added seat massage to his Model Y using the lumbar motor, with a custom UI offering Wave, Roll, and Knead modes. Read More",
    "image": "https://www.notateslaapp.com/img/containers/article_images/2026/tesla-seat-massager-mod-with-lumbar-motor-1.webp/d1e7d9e4bab7ccd6e11945373c5aa47d/tesla-seat-massager-mod-with-lumbar-motor-1.jpg"
-  },
-  {
-   "title": "Tesla FSD V15 Rolls Out to Model Ys Without Front Bumper Cameras",
-   "source": "Not a Tesla App",
-   "link": "https://www.notateslaapp.com/news/5092/tesla-fsd-v15-rolls-out-to-model-ys-without-front-bumper-cameras",
-   "date": "2026-11-26T19:47:00Z",
-   "snippet": "FSD v15 is rolling out to pre-refresh HW4 Model Ys. Early owners report smoother driving and better parking, but Reality View glitches. Read More",
-   "image": "https://www.notateslaapp.com/img/containers/article_images/fsd-beta/fsd-v15-on-pre-juniper-model-y-without-front-bumper-camera.png/f7bfe819f9c8b0a3ab9bcc4c14f34314/fsd-v15-on-pre-juniper-model-y-without-front-bumper-camera.jpg"
   }
  ]
 }
